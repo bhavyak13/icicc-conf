@@ -1,0 +1,215 @@
+.icicc {
+  text-align: center;
+  font-size: 18px;
+}
+.links{
+  text-decoration:none ;
+  color:black;
+}
+.headerLogo{
+  height:100px;
+  width: 100px;
+  margin:10px;
+}
+.organiser {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.dates {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+}
+.container{
+  margin:20px;
+  font-size: 15px;
+}
+.greet{
+  font-weight: 500;
+}
+.highlight{
+  font-weight: 600;
+}
+.caroHeight {
+  height: 300px;
+}
+
+.car-img {
+  width: 100%;
+  height: 500px;
+}
+
+.alert {
+  margin: 10px;
+}
+
+.alertContent {
+  font-size: 20px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.marContainer {
+  /* border: 2px solid black; */
+  text-align: center;
+  padding: 20px;
+  margin: 30px 0;
+  height:500px;
+}
+
+.marquee {
+  height: 300px;
+  width: 30vw;
+  padding: 10px;
+  margin: 30px 0;
+}
+
+.abtHeader {
+  margin: 20px 40px;
+}
+
+.abtContent {
+  width: 70vw;
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.abtInstCont {
+  width: 60vw;
+  margin-top: 20px;
+  margin-left: 20px;
+  text-align: justify;
+}
+
+.logo {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+  color: white;
+}
+
+.bg {
+  background-color: #3a66b8;
+  color: white;  
+  padding: 50px;
+  text-align: center;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+.awardAlert{
+  background-color:#d9edf7!important;
+  border-radius: 5px;
+  padding: 5px;
+}
+.alertCont{
+  margin: 0 0 1em;
+  font-size: 15px;
+  line-height: 1.2em;
+  color:black;
+  
+}
+.dCont{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap:wrap;
+  margin:10px;
+}
+.dCont>*{
+  flex: 1 1 10px;
+  
+  margin: 20px;
+}
+.downloadBadges{
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  background-color: #3a66b8!important;
+  padding: 10px;
+  margin-top: 6px;
+  border-radius: 5px;
+  color: white;
+  width:20vw;
+}
+.icon{
+  height:15px;
+  width:20px;
+  margin:5px;
+  color:"white";
+}
+.techMem{
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  height: auto;
+  background-color: #3a66b8!important;
+  border-radius: 5px;
+  color:white!important;    
+}
+.advMem{
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  height: auto;
+  background-color: #3a66b8!important;
+  border-radius: 5px;
+  color:white!important;    
+}
+.techCont{
+  display: flex;
+  flex-wrap:wrap;
+  margin:10px;
+  width:70vw;
+}
+.techCont>*{
+  flex: 1 1 160px;
+  margin: 5px 20px;
+  
+}
+.awardsCont{
+  padding: 50px;
+}
+.table{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 70%;
+}
+.table>td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.paymentCont{
+  border:1px solid black;
+  padding:20px;
+  width:80vw;
+  margin:20px 10px;
+  text-align: center;
+}
+.paymentBtn{
+    background: #3498db;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 8px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    padding: 5px 28px 5px 28px;
+    text-decoration: none;
+    border:none;
+  }
+  
+  .paymentBtn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
