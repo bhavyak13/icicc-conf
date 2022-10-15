@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/icicc-conf/static/css/main.af6b45fa.css",
-    "main.js": "/icicc-conf/static/js/main.4d5cd93e.js",
-    "static/js/787.4ba8b4f2.chunk.js": "/icicc-conf/static/js/787.4ba8b4f2.chunk.js",
-    "static/media/sponsor-content.png": "/icicc-conf/static/media/sponsor-content.03723ac6a0358137f84d.png",
-    "static/media/Sponsorship.pdf": "/icicc-conf/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
-    "static/media/venue.png": "/icicc-conf/static/media/venue.7294c26c94d75d5faf38.png",
-    "static/media/logo.png": "/icicc-conf/static/media/logo.844ec7fc649a50eba5a3.png",
-    "static/media/1.png": "/icicc-conf/static/media/1.aa05e9f34a5360141d63.png",
-    "static/media/logospain.png": "/icicc-conf/static/media/logospain.8d22e3a92a5c92f69b26.png",
-    "static/media/logo2.jpeg": "/icicc-conf/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
-    "static/media/Untitled design.png": "/icicc-conf/static/media/Untitled design.e6b88a50ab17ec656e78.png",
-    "static/media/linkedin.webp": "/icicc-conf/static/media/linkedin.6620a4776ae8550d2fe4.webp",
-    "static/media/email.png": "/icicc-conf/static/media/email.1f2838d3c9e4aeeca523.png",
-    "index.html": "/icicc-conf/index.html",
-    "main.af6b45fa.css.map": "/icicc-conf/static/css/main.af6b45fa.css.map",
-    "main.4d5cd93e.js.map": "/icicc-conf/static/js/main.4d5cd93e.js.map",
-    "787.4ba8b4f2.chunk.js.map": "/icicc-conf/static/js/787.4ba8b4f2.chunk.js.map"
+    "main.css": "/static/css/main.af6b45fa.css",
+    "main.js": "/static/js/main.e8a9caa2.js",
+    "static/js/787.4ba8b4f2.chunk.js": "/static/js/787.4ba8b4f2.chunk.js",
+    "static/media/sponsor-content.png": "/static/media/sponsor-content.03723ac6a0358137f84d.png",
+    "static/media/Sponsorship.pdf": "/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
+    "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
+    "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
+    "static/media/1.png": "/static/media/1.aa05e9f34a5360141d63.png",
+    "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
+    "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
+    "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
+    "static/media/linkedin.webp": "/static/media/linkedin.6620a4776ae8550d2fe4.webp",
+    "static/media/email.png": "/static/media/email.1f2838d3c9e4aeeca523.png",
+    "index.html": "/index.html",
+    "main.af6b45fa.css.map": "/static/css/main.af6b45fa.css.map",
+    "main.e8a9caa2.js.map": "/static/js/main.e8a9caa2.js.map",
+    "787.4ba8b4f2.chunk.js.map": "/static/js/787.4ba8b4f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af6b45fa.css",
-    "static/js/main.4d5cd93e.js"
+    "static/js/main.e8a9caa2.js"
   ]
 }
