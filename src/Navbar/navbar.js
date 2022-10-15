@@ -14,7 +14,7 @@ function CommonNavbar() {
         <Nav className="me-auto" style={{ display: 'flex', width: '100%', justifyContent: 'space-around', fontSize: '15px', padding: '20' }}>
           <Nav.Link>
             <NavLink className={style.links}
-              to="/icicc-conf" 
+              to="/" 
             >
               Home
             </NavLink>
