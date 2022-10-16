@@ -9,31 +9,31 @@ const Date=()=>{
   <marquee  direction="up" className={style.marquee} style={{width:"30vw"}} >
 
   <p>Manuscript Submission Deadline<br />
-September 15th, 2022</p>
+  November 15th, 2022</p>
   <hr />
 <p>
 Notification of first review<br />
-October 30th, 2022
-<hr />
-</p>
-<p>
-Submission of revised manuscript<br />
 November 30th, 2022
 <hr />
 </p>
 <p>
-Notification of Acceptance / Rejection<br />
+Submission of revised manuscript<br />
 December 15th, 2022
 <hr />
 </p>
 <p>
+Notification of Acceptance / Rejection<br />
+December 30th, 2022
+<hr />
+</p>
+<p>
 Final manuscript due<br />
-December 31st, 2022
+January  15th, 2023
 <hr />
 </p>
 <p>
 Registration Deadline<br />
-January 15th, 2023
+January 25th, 2023
 <hr />
 </p>
 <p>
