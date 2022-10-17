@@ -1,7 +1,7 @@
 {
   "name": "icicc-web",
   "version": "0.1.0",
-  "homepage": "https://bhavyak13.github.io/icicc-conf.com",
+  "homepage": "https://bhavyak13.github.io/icicc-conf",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
