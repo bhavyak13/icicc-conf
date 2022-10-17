@@ -23,11 +23,11 @@ import Registration from './Registration/Registration';
 
 const router = createBrowserRouter([
   {
-    path: '/icicc-conf',
+    path: '/',
     element: <TempLay />,
     children: [
       {
-        path: '/icicc-conf',
+        path: '/',
         element: <Home />,
       },
       {
