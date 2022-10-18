@@ -1,6 +1,8 @@
 import React from "react";
 import Date from "../Date";
 import style from "../header.module.css";
+import { images18 } from "./imageSlider/images";
+import ImageSlider from "./imageSlider/slider";
 
 const Icicc18=()=>{
     const links=[{
@@ -38,7 +40,9 @@ const Icicc18=()=>{
             </tbody>
           </table>
 </div>
+<ImageSlider images={images18}/>
   </div>
+  
   <Date />
 
 </div>
