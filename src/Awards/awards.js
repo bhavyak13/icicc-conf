@@ -586,8 +586,8 @@ Supervisor of the Year
 			<p>Please fill the attached form and send it along with complete CV to <span style={{color:"#4183c4"}}>universalinovators@gmail.com</span>(<b>Subject: Award [Category/Sub-Category] </b>).<br />If applying for best paper or thesis awards, then mail us filled form, CV, paper/thesis to <span style={{color:"#4183c4"}}>universalinovators@gmail.com </span>(<b>Subject: Award [Category/Sub-Category]</b> ).</p>
 			<Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item><b>Individual Award Form</b></ListGroup.Item>
-        <ListGroup.Item><b>Higher Education Award Form</b></ListGroup.Item>
+        <ListGroup.Item><a href={require("./Award Form- Individual Award.pdf")}style={{textDecoration:"none"}}><b>Individual Award Form</b></a></ListGroup.Item>
+        <ListGroup.Item><a href={require("./Award Form- Higher Education Award.pdf")} style={{textDecoration:"none"}}><b>Higher Education Award Form</b></a></ListGroup.Item>
       </ListGroup>
 </Card>
 <br /><br />
