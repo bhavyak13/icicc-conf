@@ -12,7 +12,7 @@ const ImageSlider = (props) => {
 const settings = {
 	infinite: true,
 	dots: true,
-	slidesToShow: 2,
+	slidesToShow: 4,
 	slidesToScroll: 1,
 	lazyLoad: true,
 	autoplay: true,
@@ -56,7 +56,9 @@ return (
 		<Slider {...settings } style={{width: "60vw",height:"auto",margin:"60px 0"}}>
 		{props.images.map((item) => {
 			return(
+			
 			<img src={item.anchor} style={{width: "200px",height:"auto"}}/>
+			
 			);
 			
 		})}
