@@ -1,0 +1,74 @@
+.SpContainer {
+    min-height: 80vh;
+}
+.conTitle {
+    margin: 1rem auto;
+    width: max-content;
+    font-size: 2.5rem;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.spSessionWrapper {
+    width: 80%;
+    border-radius: 8px;
+    background-color: #edf6fa;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start !important;
+    padding: 1rem;
+    justify-content: center;
+    box-sizing: border-box;
+    transition: all 0.5s ease;
+}
+.spSessionWrapper * {
+    transition: all 0.4s ease-in-out;
+}
+.special-session {
+    width: 300px;
+    margin: 1rem;
+    background-color: #885f22;
+    color: #fff;
+    padding: 1.5rem 1rem;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-weight: lighter;
+    box-shadow: 0 0 30px #000 29;
+    cursor: pointer;
+}
+.organizer {
+    max-height: 100px;
+    min-height: 100px;
+    overflow: scroll;
+}
+.innerorganiser {
+    height: max-content;
+    width: 100%;
+}
+.special-session:hover {
+    z-index: 100;
+}
+.special-session a {
+    color: inherit;
+    font-weight: lighter;
+}
+.special-session span {
+    margin-top: 1rem;
+    font-weight: 500;
+}
+.anchor_name {
+    margin-top: 0 !important;
+}
+.anchor {
+    min-height: 50px;
+    overflow: hidden;
+}
+.anchor::-webkit-scrollbar {
+    display: none;
+}
+.organizer::-webkit-scrollbar {
+    display: none;
+}

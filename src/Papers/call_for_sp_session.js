@@ -27,7 +27,7 @@ ICICC Conference team invites you to organize the special session in sixth versi
 <li>Easy accessibility of the well-connected conference venue.</li>
 </ol>
 
-<p>If you are interested to conduct a special session, kindly mail us the special session proposal at <a href='mailto:icicc.ui@gmail.com'>icicc.ui@gmail.com</a> latest by 31st August 2022 as per the format attached with this mail.</p>
+<p>If you are interested to conduct a special session, kindly mail us the special session proposal at <a href='mailto:icicc.ui@gmail.com'>icicc.ui@gmail.com</a> latest by 30th November 2022 as per the format attached with this mail.</p>
 
 <p>
 ICICC brings together the innovative research in the field of Computing and Communication to a common platform. The primary goal of the conference is to promote research and developmental activities. Another goal is to promote scientific information interchange between researchers, developers, engineers, students, and practitioners working in and around the world.</p>
@@ -40,7 +40,7 @@ Sincerely,<br />
 Organizer and Convener<br />
 
 <b>ICICC-2023</b></p>
-<Button variant="primary" >Session Proposal Template</Button>
+<Button variant="primary" > <a href={require("./Session_Proposal_Template.docx")} style={{color:"white",textDecoration:"none"}}>Session Proposal Template</a></Button>
 
         </div>
     );
