@@ -1,12 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.1c52ac2d.css",
-    "main.js": "/static/js/main.7e360e20.js",
+    "main.js": "/static/js/main.f92dd8a3.js",
     "static/js/787.4ba8b4f2.chunk.js": "/static/js/787.4ba8b4f2.chunk.js",
+    "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
+    "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
     "static/media/sponsor-content.png": "/static/media/sponsor-content.03723ac6a0358137f84d.png",
     "static/media/Sponsorship.pdf": "/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
     "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
-    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.806bfd4eff6234b350c7.docx",
+    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.6f7274a4f360562e20a8.docx",
+    "static/media/Special_Session_Proposal_Template.docx": "/static/media/Special_Session_Proposal_Template.31f347006f168f90d745.docx",
+    "static/media/Award Form- Individual Award.pdf": "/static/media/Award Form- Individual Award.c0a7f20f87c3f3e58886.pdf",
+    "static/media/Award Form- Higher Education Award.pdf": "/static/media/Award Form- Higher Education Award.6f6760b12462bdba7feb.pdf",
+    "static/media/ManuscriptguidelinesforEnglishbooks.pdf": "/static/media/ManuscriptguidelinesforEnglishbooks.b4c0e227c2235ee1639f.pdf",
     "static/media/SS-002.pdf": "/static/media/SS-002.d0dfd09e11870e9ec04f.pdf",
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
     "static/media/1.png": "/static/media/1.aa05e9f34a5360141d63.png",
@@ -15,6 +21,7 @@
     "static/media/SS-003.pdf": "/static/media/SS-003.5aa14ab29e745bd2b53b.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.62aa5393225acf6a66fa.pdf",
     "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
+    "static/media/Checklist.pdf": "/static/media/Checklist.53f333387521d291e859.pdf",
     "static/media/img08.png": "/static/media/img08.fb333a86d66648ffa9ed.png",
     "static/media/img01.png": "/static/media/img01.e1cc46e8ea2bf347519f.png",
     "static/media/img07.png": "/static/media/img07.749f89d58600c4d84f7d.png",
@@ -28,11 +35,11 @@
     "static/media/img06.png": "/static/media/img06.16776f9c0679eda41303.png",
     "index.html": "/index.html",
     "main.1c52ac2d.css.map": "/static/css/main.1c52ac2d.css.map",
-    "main.7e360e20.js.map": "/static/js/main.7e360e20.js.map",
+    "main.f92dd8a3.js.map": "/static/js/main.f92dd8a3.js.map",
     "787.4ba8b4f2.chunk.js.map": "/static/js/787.4ba8b4f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c52ac2d.css",
-    "static/js/main.7e360e20.js"
+    "static/js/main.f92dd8a3.js"
   ]
 }
