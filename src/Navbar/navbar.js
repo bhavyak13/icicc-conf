@@ -71,11 +71,11 @@ function CommonNavbar() {
           <Nav.Link><NavLink className={style.links} to="venue">Conference Venue</NavLink></Nav.Link>
           <Nav.Link><NavLink className={style.links} to="downloads">Downloads</NavLink></Nav.Link>
           <NavDropdown title="Previous Conferences" id="basic-nav-dropdown">
-            <NavDropdown.Item>ICICC 2022</NavDropdown.Item>
-            <NavDropdown.Item>ICICC 2021</NavDropdown.Item>
-            <NavDropdown.Item>ICICC 2020</NavDropdown.Item>
-            <NavDropdown.Item>ICICC 2019</NavDropdown.Item>
-            <NavDropdown.Item>ICICC 2018</NavDropdown.Item>
+            <NavDropdown.Item><NavLink className={style.links} to="icicc22">ICICC 2022</NavLink></NavDropdown.Item>
+            <NavDropdown.Item><NavLink className={style.links} to="icicc21">ICICC 2021</NavLink></NavDropdown.Item>
+            <NavDropdown.Item><NavLink className={style.links} to="icicc20">ICICC 2020</NavLink></NavDropdown.Item>
+            <NavDropdown.Item><NavLink className={style.links} to="icicc19">ICICC 2019</NavLink></NavDropdown.Item>
+            <NavDropdown.Item><NavLink className={style.links} to="icicc18">ICICC 2018</NavLink></NavDropdown.Item>
           </NavDropdown>
 
         </Nav>
