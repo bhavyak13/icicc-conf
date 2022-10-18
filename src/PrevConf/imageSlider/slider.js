@@ -15,7 +15,7 @@ const ImageSlider = (props) => {
     slidesToShow: 4,
     slidesToScroll: 1,
     lazyLoad: true,
-    // autoplay: true,
+    autoplay: true,
     autoplaySpeed: 2000,
     centerMode: true,
     variableWidth: false,
