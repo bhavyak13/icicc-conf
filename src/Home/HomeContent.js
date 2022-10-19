@@ -21,16 +21,21 @@ const HomeCont = () => {
         </div>
         <div style={{ width: '20vw' }}>
           <h3>Downloads</h3>
-          <marquee direction="up" className={style.marquee} style={{ width: '20vw' }}>
-            <a>Manuscript Guidelines </a>
+          <marquee direction="up" className={style.marquee} style={{ width: '20vw' }} onMouseOver="this.stop()" onMouseOut="this.start()">
+            <a href={require("../Downloads/docs/ManuscriptguidelinesforEnglishbooks.pdf")}
+                        target="_blank">Manuscript Guidelines </a>
             <hr style={{ width: '15vw' }} />
-            <a>Checklist </a>
+            <a href={require("../Downloads/docs/Checklist.pdf")}
+                        target="_blank">Checklist </a>
             <hr style={{ width: '15vw' }} />
-            <a>Special Session Proposal Template </a>
+            <a href={require("../Downloads/docs/Special_Session_Proposal_Template.docx")}
+                        target="_blank">Special Session Proposal Template </a>
             <hr style={{ width: '15vw' }} />
-            <a>Icicc Brochure </a>
+            <a href={require("../Downloads/docs/ICICC_Brochure.pdf")}
+                        target="_blank">Icicc Brochure </a>
             <hr style={{ width: '15vw' }} />
-            <a>Sponsorship Proposal </a>
+            <a href={require("../Downloads/docs/sponsorship_Proposal.pdf")}
+                        target="_blank">Sponsorship Proposal </a>
             <hr style={{ width: '15vw' }} />
 
           </marquee>
