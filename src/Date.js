@@ -3,7 +3,7 @@ import style from "./header.module.css";
 
 const Date=()=>{
   return(
-
+    <div style={{border:"1px solid black"}}>
   <div className={style.marContainer} >
 <h3>Important Dates</h3>
   <marquee  direction="up" className={style.marquee} style={{width:"30vw"}} >
@@ -44,6 +44,7 @@ January 30th, 2023
 
   </marquee>
   
+  </div>
   </div>
 
  
