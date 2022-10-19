@@ -13,5 +13,6 @@ code {
 }
 
 .slick-arrow{
-  background-color: black !important;
+  background-color: rgb(171, 167, 167)!important;
+  border-radius: 50%;
   }

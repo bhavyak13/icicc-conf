@@ -12,7 +12,7 @@ const ImageSlider = (props) => {
   const settings = {
     infinite: true,
     dots: true,
-    slidesToShow: 4,
+    slidesToShow: 2,
     slidesToScroll: 1,
     lazyLoad: true,
     autoplay: true,
@@ -53,15 +53,14 @@ const ImageSlider = (props) => {
         <h2>IMAGE GALLERY</h2>
       </div>
       <div style={{ width: "100%"}}>
-        <div className="gx" style={{ width: "60vw", margin: "60px 0" }}>
+        <div style={{ width: "60vw", margin: "60px 0" }}>
           <Slider {...settings}>
             {props.images.map((item) => {
               return (
-                <div className="xz" style={{margin:"2px"}}  >
-                  <div className="yo" style={{width: "100%",height:"250px"}}>
-                  <img src={item.anchor} style={{objectFit:"fill", width: "100%",height:"100%"}}/>
-                    {/* ghios */}
-                    </div>
+                <div style={{margin:"2px"}}  >
+                  <div style={{width: "90%",height:"300px"}}>
+                  <img src={item.anchor} style={{objectFit:"fill", width: "100%",height:"100%"}}/>                    
+                  </div>
                 </div>
               );
 
