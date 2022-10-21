@@ -6,27 +6,29 @@ import style from "../header.module.css";
 const spdata = [
   {
       anchor: require("./SS-001.pdf"),
-      title: "SS_01: Privacy, Trust and Reputation Management in Internet of Vehicles (IoV)",
+      title: "Emerging Intelligent Computing Techniques and their Applications (EICTA)",
       organisers: [
-          "Dr. Mohammad Ayoub Khan, University of Bisha, Saudi Arabia",
-          "Prof. Qiang Ni, Lancaster University, Lancaster, U.K",
-          "Abdullah Alharthi, Lancaster University, Lancaster, U.K",
+          "Dr. Nitish Pathak, New Delhi, India",
+          "Dr. Neelam Sharma, New Delhi, India",
+          
       ],
       spname: "Ss 001.pdf",
   },
   {
       anchor: require("./SS-002.pdf"),
       title:
-          "SS_02: Advances in Computational Intelligence for Intelligent Systems",
+          "SS_02: Recent Trends in Machine Learning and Information System",
       organisers: [
-          "Dr. Parul Yadav, Institute of Engineering and Technology, Lucknow, India",
+          "Dr. Abhishek Kumar Mishra, Moradabad, India ",
+          "Dr. Rakes Kumar Yadav, Lucknow, India"
       ],
       spname: "Ss 002.pdf",
   },
   {
       anchor: require("./SS-003.pdf"),
-      title: "SS_03: Applications of Machine Learning and Deep Learning Methods in Real Life Problems",
-      organisers: ["Syed Nisar Hussain Bukhari, National Institute of Electronics and Information Technology (NIELIT) J&K Govt. of India, India"],
+      title: "SS_03: Recent Advancement in Integration of Renewable Energy to the Grids: Techniques, Challenges, Applications",
+      organisers: ["Abhishek Vishnoi, Kanpur, India",
+                   "Vikas Verma, Delhi, India"],
       spname: "Ss 003.pdf",
   },
   
@@ -53,11 +55,11 @@ const SpecialSessions=()=>{
                         );
                     }            
                     
-                    )}
+                    )}                                     
 
                     </p>
                     <b>Listing</b><br></br>
-                    <p>{sp.spname}</p>
+                    <a href={sp.anchor} style={{textDecoration:"none",color:"white"}}>{sp.spname}</a>
                     </Alert>
                 );
             }) 

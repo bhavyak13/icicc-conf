@@ -4,7 +4,7 @@ import style from "../header.module.css";
 const Footer=()=>{
   const linkedIn="https://www.linkedin.com/in/icicc-conf-31a3b6151/";
   const email="mailto:icicc.ui@gmail.com";
-  const facebook="https://m.facebook.com/icicc2018/";
+  const facebook="https://www.facebook.com/profile.php?id=100022446397656";
 
 
   return(
@@ -32,7 +32,7 @@ const Footer=()=>{
     <a>Important Dates</a> <br />
     <a>Conference Venue</a> <br />
     <a>Downloads</a><br />
-    <a>Easychair Submission</a><br />
+    <a className={style.links} style={{color:"white"}}href="https://easychair.org/conferences/?conf=icicc2023">Easychair Submission</a><br />
     </div>    
   </div>
   <hr style={{borderTop:"3px solid #ffffff"}} />
