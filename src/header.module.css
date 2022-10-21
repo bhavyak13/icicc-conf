@@ -18,6 +18,10 @@
   display: flex;
   justify-content: space-around;
 }
+/* .navLink{
+  margin:0 10px;
+  color: black, import !important;
+} */
 
 /* .headerContMob {
   visibility: hidden;

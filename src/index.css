@@ -16,6 +16,7 @@ code {
   background-color: rgb(171, 167, 167)!important;
   border-radius: 50%;
   }
+
 @media (max-width:500px) {
   body{
   overflow-x:hidden;
