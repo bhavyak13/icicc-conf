@@ -60,77 +60,80 @@ const router = createBrowserRouter([
         element: <IntWorkshops />,
       },
       {
-        path:'publications',
-        element:<Publications />
+        path: 'publications',
+        element: <Publications />
       },
       {
-        path:'steercom',
-        element:<SteerCom />
+        path: 'steercom',
+        element: <SteerCom />
       },
       {
-        path:'techcom',
-        element:<TechCom />
+        path: 'techcom',
+        element: <TechCom />
       },
       {
-        path:'advcom',
-        element:<AdvCom />
+        path: 'advcom',
+        element: <AdvCom />
       },
       {
-        path:'indexp',
-        element:<IndExp />
+        path: 'indexp',
+        element: <IndExp />
       },
       {
-        path:'specialsessions',
-        element:<SpecialSessions />
+        path: 'specialsessions',
+        element: <SpecialSessions />
       },
       {
-        path:'workshops',
-        element:<Workshops />
+        path: 'workshops',
+        element: <Workshops />
       },
       {
         path: 'sponsorship',
         element: <Sponsorship />,
       },
       {
-        path:'awards',
-        element:<Awards />
+        path: 'awards',
+        element: <Awards />
       },
       {
-        path:'venue',
-        element:<ConferenceVenue />
+        path: 'venue',
+        element: <ConferenceVenue />
       },
       {
-        path:'downloads',
-        element:<Downloads />
+        path: 'downloads',
+        element: <Downloads />
       },
       {
-        path:'registrations',
-        element:<Registration />
+        path: 'registrations',
+        element: <Registration />
       },
       {
-        path:'icicc22',
-        element:<Icicc22 />
+        path: 'icicc22',
+        element: <Icicc22 />
       },
       {
-        path:'icicc21',
-        element:<Icicc21 />
+        path: 'icicc21',
+        element: <Icicc21 />
       },
       {
-        path:'icicc20',
-        element:<Icicc20 />
-      },{
-        path:'icicc19',
-        element:<Icicc19 />
-      },{
-        path:'icicc18',
-        element:<Icicc18 />
-      },
+        path: 'icicc20',
+        element: <Icicc20 />
+      }, {
+        path: 'icicc19',
+        element: <Icicc19 />
+      }, {
+        path: 'icicc18',
+        element: <Icicc18 />
+      }, 
       // {
-      //   path:'*',
-      //   element:<h1>hii</h1>
+      //   path: '*',
+      //   element: <h1>hii</h1>
       // }
     ]
-  },
+  }, {
+    path: '*',
+    element: <h1>yoooo!</h1>
+  }
 
 ])
 
