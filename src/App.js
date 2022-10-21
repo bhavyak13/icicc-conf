@@ -124,6 +124,9 @@ const router = createBrowserRouter([
       },{
         path:'icicc18',
         element:<Icicc18 />
+      },{
+        path:'*',
+        element:<h1>hii</h1>
       }
     ]
   },
