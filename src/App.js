@@ -2,7 +2,7 @@ import AboutUniversalInnovators from './About/abt_universal_innovators'
 import AboutInstitute from './About/abt_institute'
 import Home from './Home/Home';
 import CallForPaper from './Papers/callforpaper';
-import { RouterProvider, createBrowserRouter, Route } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import TempLay from './TempLay/TempLay';
 import PaperSubmission from './Papers/papersubmission';
 import IntWorkshops from './Papers/call_for_int_wshps';
@@ -124,10 +124,11 @@ const router = createBrowserRouter([
       },{
         path:'icicc18',
         element:<Icicc18 />
-      },{
-        path:'*',
-        element:<h1>hii</h1>
-      }
+      },
+      // {
+      //   path:'*',
+      //   element:<h1>hii</h1>
+      // }
     ]
   },
 
