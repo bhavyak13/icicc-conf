@@ -112,9 +112,9 @@
   margin-top: 20px;
   text-align: justify;
 }
-/* .downloads{
+.downloads{
   width:20vw;
-} */
+}
 
 .abtInstCont {
   width: 60vw;
@@ -372,16 +372,13 @@
     margin: 15px;
     text-align: justify;
   }
-  /* .downloads{
+  .downloads{
     width:100%;
     margin: 15px;
-  } */
+  }
   .abtContent {
     width: 90vw;
   }
-  .downloads{
-    width:20vw;
-  }  
   .abtInstCont {
     width: 90vw;
   }
