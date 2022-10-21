@@ -19,7 +19,7 @@ const HomeCont = () => {
           </p>
           <p>Paper Submission Link :<a href="https://easychair.org/conferences/?conf=icicc2023"> Easychair Submission</a></p>
         </div>
-        <div style={{ width: '20vw' }}>
+        <div className={style.downloads}>
           <h3>Downloads</h3>
           <marquee direction="up" className={style.marquee} style={{ width: '20vw' }} onMouseOver="this.stop()" onMouseOut="this.start()">
             <a href={require("../Downloads/docs/ManuscriptguidelinesforEnglishbooks.pdf")}

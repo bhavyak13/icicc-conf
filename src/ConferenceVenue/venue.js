@@ -8,7 +8,7 @@ const ConferenceVenue=()=>{
   <h2 class={style.abtHeader}>We are located at...</h2>
   <hr />
   <div className={style.flex}>
-  <img src={require('./images/venue.png')} style={{width:"60vw",height:"50vh"}}></img>
+  <img src={require('./images/venue.png')} className={style.venueImage}></img>
   <Date style={{margintTop:"-50px"}}/>
   </div>
   <h5 style={{padding:"10px"}}>Address:</h5>

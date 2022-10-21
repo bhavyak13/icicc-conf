@@ -8,7 +8,7 @@ import style from "../header.module.css";
 function CommonNavbar() {
 
   return (
-    <Navbar bg="light" expand="lg" className="sticky-top">
+    <Navbar bg="light" variant="light" expand="lg" className="sticky-top">
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto" style={{ display: 'flex', width: '100%', justifyContent: 'space-around', fontSize: '15px', padding: '20' }}>
@@ -20,7 +20,7 @@ function CommonNavbar() {
               Home
             </NavLink>
           </Nav.Link>
-          <NavDropdown title="About" id="basic-nav-dropdown">
+          <NavDropdown title="About" id="basic-nav-dropdown" >
             <NavDropdown.Item >
               <NavLink className={style.links}
                 to="about_institute"

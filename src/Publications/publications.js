@@ -29,7 +29,7 @@ return(
          <h2 class={style.abtHeader}>Publications</h2>
         <hr />
         <div className={style.flex}>
-        <div style={{backgroundColor:"#edf6fa",padding:"40px",margin:"30px"}}>
+        <div className={style.publications}>
         <h3 style={{textAlign:"center"}}>PUBLICATION- PROCEEDINGS</h3><br />
         <p>All the accepted papers of ICCCN-2022 will be published as a proceedings of          ICCCN-2022 indexed by Scopus, Ei, WoS, and other reputed databases.<br></br>
         High-quality selected extended papers of the conference will be invited to submit for publication in the special issues of the following journals :</p>
@@ -52,15 +52,15 @@ return(
         </div>
         <h3 style={{textAlign:"center"}}>INDEXING</h3><br />
         <div className={style.pubCont}>
-            <img src={require("./Images/Indexing/img01.png")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img02.jpg")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img03.jpg")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img04.png")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img05.png")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img06.png")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img07.png")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img08.png")} style={{height:"88px",width:"128px"}}></img>
-            <img src={require("./Images/Indexing/img09.png")} style={{height:"88px",width:"128px"}}></img>
+            <img src={require("./Images/Indexing/img01.png")}></img>
+            <img src={require("./Images/Indexing/img02.jpg")}></img>
+            <img src={require("./Images/Indexing/img03.jpg")}></img>
+            <img src={require("./Images/Indexing/img04.png")}></img>
+            <img src={require("./Images/Indexing/img05.png")}></img>
+            <img src={require("./Images/Indexing/img06.png")}></img>
+            <img src={require("./Images/Indexing/img07.png")}></img>
+            <img src={require("./Images/Indexing/img08.png")}></img>
+            <img src={require("./Images/Indexing/img09.png")}></img>
             
         </div>
         </div>
