@@ -1,7 +1,7 @@
 import AboutUniversalInnovators from './About/abt_universal_innovators'
 import AboutInstitute from './About/abt_institute'
 import Home from './Home/Home';
-import CallForPaper from './Papers/callforpaper'
+import CallForPaper from './Papers/callforpaper';
 import { RouterProvider, createBrowserRouter, Route } from 'react-router-dom';
 import TempLay from './TempLay/TempLay';
 import PaperSubmission from './Papers/papersubmission';

@@ -18,11 +18,14 @@
   display: flex;
   justify-content: space-around;
 }
-/* .navLink{
+.navLink{
   margin:0 10px;
   color: black, import !important;
-} */
-
+}
+.navDD{
+  margin:0 10px;
+  color: black, import !important;
+}
 /* .headerContMob {
   visibility: hidden;
 }
