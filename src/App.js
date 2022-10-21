@@ -130,11 +130,7 @@ const router = createBrowserRouter([
       //   element: <h1>hii</h1>
       // }
     ]
-  }, {
-    path: '*',
-    element: <h1>yoooo!</h1>
   }
-
 ])
 
 function App() {
