@@ -192,11 +192,12 @@ function CommonNavbar() {
                     </Nav.Link>
                     <Nav.Link onClick={
                         () => setExpanded(false)
-                    } />
+                    } >
                         <NavLink className={
                                 style.links
                             }
                             to="downloads"><p classnName={style.navLink}>Downloads</p></NavLink>
+                    </Nav.Link>
                     <NavDropdown title="Previous Conferences" id="basic-nav-dropdown">
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
