@@ -26,19 +26,25 @@ function CommonNavbar() {
                             padding: '20'
                         }
                 }>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="/"
+                        onClick={
+                            () => setExpanded(false)
+                        }
+                        // to="/icicc-conf"
+                    >
+                        <p className={
+                            style.navLink
+                        }>Home</p>
+                    </NavLink>
+
+                    <NavDropdown title="About" id="basic-nav-dropdown"
+                        className={
+                            style.navDD
                     }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="/"
-                            // to="/icicc-conf"                            
-                        >
-                            <p className={style.navLink}>Home</p>
-                        </NavLink>
-                    </Nav.Link>
-                    <NavDropdown title="About" id="basic-nav-dropdown" className={style.navDD}>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
                         }>
@@ -46,7 +52,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="about_institute">
-                                <p className={style.navLink}>About Institute</p>
+                                About Institute
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -56,18 +62,22 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="about_universal_innovators">
-                                <p className={style.navLink}>About Universal Innovators</p>
+                                About Universal Innovators
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
-                    <NavDropdown title="Papers" id="basic-nav-dropdown" className={style.navDD}>
+                    <NavDropdown title="Papers" id="basic-nav-dropdown"
+                        className={
+                            style.navDD
+                    }>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
                         }>
                             <NavLink className={
                                     style.links
                                 }
-                                to="call_for_papers"><p className={style.navLink}>Call for Papers</p>
+                                to="call_for_papers">
+                                Call for Papers
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -76,7 +86,8 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="paper_submission"><p className={style.navLink}>Paper Submission</p>
+                                to="paper_submission">
+                                Paper Submission
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -85,7 +96,8 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="call_for_special_sessions"><p className={style.navLink}>Call for Special Session</p>
+                                to="call_for_special_sessions">
+                                Call for Special Session
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -94,60 +106,90 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="call_for_international_workshops"><p className={style.navLink}>Call for International </p>Workshops
+                                to="call_for_international_workshops">
+                                Call for International
+                                Workshops
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
-                    }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="specialsessions"><p className={style.navLink}>Special Sessions</p></NavLink>
-                    </Nav.Link>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
-                    }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="workshops"><p className={style.navLink}>Workshops</p></NavLink>
-                    </Nav.Link>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
-                    }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="registrations"><p className={style.navLink}>Registration</p></NavLink>
-                    </Nav.Link>
 
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
+                    <NavLink className={
+                            style.links
+                        }
+                        to="specialsessions"
+                        onClick={
+                            () => setExpanded(false)
                     }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="sponsorship"><p className={style.navLink}>Sponsorships</p></NavLink>
-                    </Nav.Link>
+                        <p className={
+                            style.navLink
+                        }>Special Sessions</p>
+                    </NavLink>
 
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="workshops"
+                        onClick={
+                            () => setExpanded(false)
                     }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="publications"><p className={style.navLink}>Publications</p></NavLink>
-                    </Nav.Link>
-                    <NavDropdown title="Committee" id="basic-nav-dropdown" className={style.navDD}>
+                        <p className={
+                            style.navLink
+                        }>Workshops</p>
+                    </NavLink>
+
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="registrations"
+                        onClick={
+                            () => setExpanded(false)
+                    }>
+                        <p className={
+                            style.navLink
+                        }>Registration</p>
+                    </NavLink>
+
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="sponsorship"
+                        onClick={
+                            () => setExpanded(false)
+                    }>
+                        <p className={
+                            style.navLink
+                        }>Sponsorships</p>
+                    </NavLink>
+
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="publications"
+                        onClick={
+                            () => setExpanded(false)
+                    }>
+                        <p className={
+                            style.navLink
+                        }>Publications</p>
+                    </NavLink>
+
+                    <NavDropdown title="Committee" id="basic-nav-dropdown"
+                        className={
+                            style.navDD
+                    }>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
                         }>
                             <NavLink className={
                                     style.links
                                 }
-                                to="steercom"><p className={style.navLink}>Steering Committee</p></NavLink>
+                                to="steercom">
+                                Steering Committee
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -155,7 +197,9 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="techcom"><p className={style.navLink}>Technical Program Committee</p></NavLink>
+                                to="techcom">
+                                Technical Program Committee
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -163,7 +207,9 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="advcom"><p className={style.navLink}>Advisory Committee</p></NavLink>
+                                to="advcom">
+                                Advisory Committee
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -171,41 +217,63 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="indexp"><p className={style.navLink}>Industry Experts</p></NavLink>
+                                to="indexp">
+                                Industry Experts
+                            </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="awards"
+                        onClick={
+                            () => setExpanded(false)
                     }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="awards"><p className={style.navLink}>Awards</p></NavLink>
-                    </Nav.Link>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
+                        <p className={
+                            style.navLink
+                        }>Awards</p>
+                    </NavLink>
+
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="venue"
+                        onClick={
+                            () => setExpanded(false)
                     }>
-                        <NavLink className={
-                                style.links
-                            }
-                            to="venue"><p className={style.navLink}>Conference Venue</p></NavLink>
-                    </Nav.Link>
-                    <Nav.Link onClick={
-                        () => setExpanded(false)
-                    } >
-                        <NavLink className={
-                                style.links
-                            }
-                            to="downloads"><p className={style.navLink}>Downloads</p></NavLink>
-                    </Nav.Link>
-                    <NavDropdown title="Previous Conferences" id="basic-nav-dropdown" className={style.navDD}>
+                        <p className={
+                            style.navLink
+                        }>Conference Venue</p>
+                    </NavLink>
+
+
+                    <NavLink className={
+                            style.links
+                        }
+                        to="downloads"
+                        onClick={
+                            () => setExpanded(false)
+                    }>
+                        <p className={
+                            style.navLink
+                        }>Downloads</p>
+                    </NavLink>
+
+                    <NavDropdown title="Previous Conferences" id="basic-nav-dropdown"
+                        className={
+                            style.navDD
+                    }>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
                         }>
                             <NavLink className={
                                     style.links
                                 }
-                                to="icicc22"><p className={style.navLink}>ICICC 2022</p></NavLink>
+                                to="/icicc22">
+                                ICICC 2022
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -213,7 +281,9 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="icicc21"><p className={style.navLink}>ICICC 2021</p></NavLink>
+                                to="icicc21">
+                                ICICC 2021
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -221,7 +291,9 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="icicc20"><p className={style.navLink}>ICICC 2020</p></NavLink>
+                                to="icicc20">
+                                ICICC 2020
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -229,7 +301,9 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="icicc19"><p className={style.navLink}>ICICC 2019</p></NavLink>
+                                to="icicc19">
+                                ICICC 2019
+                            </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
@@ -237,7 +311,9 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="icicc18"><p className={style.navLink}>ICICC 2018</p></NavLink>
+                                to="icicc18">
+                                ICICC 2018
+                            </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
 

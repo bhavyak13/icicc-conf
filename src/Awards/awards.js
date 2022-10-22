@@ -607,8 +607,9 @@ Supervisor of the Year
 <h5 style={{fontWeight:"700"}}>PAST AWARDEES:</h5>
 			<Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item><b>UILA Awards 2020</b></ListGroup.Item>
-        <ListGroup.Item><b>UILA Awards 2021</b></ListGroup.Item>
+        <ListGroup.Item><a href={require("./award-2020.pdf")}><b>UILA Awards 2020</b></a></ListGroup.Item>
+        <ListGroup.Item><a href={require("./award-2021.pdf")}><b>UILA Awards 2021</b></a></ListGroup.Item>
+		<ListGroup.Item><a href={require("./award-2022.pdf")}><b>UILA Awards 2022</b></a></ListGroup.Item>
       </ListGroup>
 </Card>
 			

@@ -31,6 +31,13 @@ const spdata = [
                    "Vikas Verma, Delhi, India"],
       spname: "Ss 003.pdf",
   },
+  {
+    anchor: require("./SS-004.pdf"),
+    title: "SS_04: AIoT for Images: Application, Challenges and Future Scope",
+    organisers: ["Dr. Pooja Singh, India",
+                 "Dr. Usha Chauhan, India"],
+    spname: "Ss 004.pdf",
+}
   
 ];
 

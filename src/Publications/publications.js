@@ -31,7 +31,7 @@ return(
         <div className={style.flex}>
         <div className={style.publications}>
         <h3 style={{textAlign:"center"}}>PUBLICATION- PROCEEDINGS</h3><br />
-        <p>All the accepted papers of ICCCN-2022 will be published as a proceedings of          ICCCN-2022 indexed by Scopus, Ei, WoS, and other reputed databases.<br></br>
+        <p>All the accepted papers of ICICC - 2023 will be published as a proceedings of ICICC - 2023 indexed by Scopus, Ei, WoS, and other reputed databases.<br></br>
         High-quality selected extended papers of the conference will be invited to submit for publication in the special issues of the following journals :</p>
         
         <div className={style.pubCont}>

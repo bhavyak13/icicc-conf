@@ -18,28 +18,6 @@
   display: flex;
   justify-content: space-around;
 }
-.navLink{
-  margin:0 10px;
-  color: black, import !important;
-}
-.navDD{
-  margin:0 10px;
-  color: black, import !important;
-}
-/* .headerContMob {
-  visibility: hidden;
-}
-
-@media(max-width:500px) {
-  .headerCont {
-    visibility: hidden;
-  }
-
-  .headContMob {
-    visibility: visible;
-    display: block;
-  }
-} */
 
 .organiser {
   text-align: center;
@@ -333,6 +311,14 @@
   display: flex;
 
 }
+.navLink{
+  margin:10px 10px;
+  color: black,!important;
+}
+.navDD{
+  margin:2px;
+  color: black,!important;
+}
 @media (max-width:500px) {
   .headerCont {
     display: block;
@@ -343,6 +329,14 @@
     /* display: flex;
     justify-content: space-between;     */
     margin:10px 20vw;
+  }
+  .navLink{
+    margin:5px 10px;
+    color: black, import !important;
+  }
+  .navDD{
+    margin:-3px 10px;
+    color: black, import !important;
   }
 
   .flex{
