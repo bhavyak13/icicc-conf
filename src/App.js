@@ -24,7 +24,7 @@ import Icicc21 from './PrevConf/icicc21';
 import Icicc20 from './PrevConf/icicc20';
 import Icicc19 from './PrevConf/icicc19';
 import Icicc18 from './PrevConf/icicc18';
-
+import './App.css'
 
 const router = createBrowserRouter([
   {
@@ -124,10 +124,7 @@ const router = createBrowserRouter([
       }, {
         path: 'icicc18',
         element: <Icicc18 />
-      }, {
-        path: '*',
-        element: <h1>NOT FOUND</h1>
-      }
+      }, 
       // {
       //   path: '*',
       //   element: <h1>hii</h1>
