@@ -28,10 +28,10 @@ const Footer=()=>{
     </div>
     <div>
     <h3>Quick Links</h3>
-    <a>Call for Papers</a> <br />
-    <a>Important Dates</a> <br />
-    <a>Conference Venue</a> <br />
-    <a>Downloads</a><br />
+    <a href="http://icicc-conf.com/call_for_papers" className={style.links} style={{color:"white"}}>Call for Papers</a> <br />
+    <a href="http://icicc-conf.com/" className={style.links} style={{color:"white"}}>Important Dates</a> <br />
+    <a href="http://icicc-conf.com/venue" className={style.links} style={{color:"white"}}>Conference Venue</a> <br />
+    <a href="http://icicc-conf.com/downloads" className={style.links} style={{color:"white"}}>Downloads</a><br />
     <a className={style.links} style={{color:"white"}}href="https://easychair.org/conferences/?conf=icicc2023">Easychair Submission</a><br />
     </div>    
   </div>

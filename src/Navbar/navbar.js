@@ -52,9 +52,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="about_institute">
-                                <p className={
-                                    style.navLink
-                                }>About Institute</p>
+                                About Institute
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -64,9 +62,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="about_universal_innovators">
-                                <p className={
-                                    style.navLink
-                                }>About Universal Innovators</p>
+                                About Universal Innovators
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
@@ -81,9 +77,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="call_for_papers">
-                                <p className={
-                                    style.navLink
-                                }>Call for Papers</p>
+                                Call for Papers
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -93,9 +87,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="paper_submission">
-                                <p className={
-                                    style.navLink
-                                }>Paper Submission</p>
+                                Paper Submission
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -105,9 +97,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="call_for_special_sessions">
-                                <p className={
-                                    style.navLink
-                                }>Call for Special Session</p>
+                                Call for Special Session
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -117,10 +107,8 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="call_for_international_workshops">
-                                <p className={
-                                    style.navLink
-                                }>Call for International
-                                </p>Workshops
+                                Call for International
+                                Workshops
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
@@ -200,9 +188,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="steercom">
-                                <p className={
-                                    style.navLink
-                                }>Steering Committee</p>
+                                Steering Committee
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -212,9 +198,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="techcom">
-                                <p className={
-                                    style.navLink
-                                }>Technical Program Committee</p>
+                                Technical Program Committee
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -224,9 +208,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="advcom">
-                                <p className={
-                                    style.navLink
-                                }>Advisory Committee</p>
+                                Advisory Committee
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -236,9 +218,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="indexp">
-                                <p className={
-                                    style.navLink
-                                }>Industry Experts</p>
+                                Industry Experts
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
@@ -292,9 +272,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="/icicc22">
-                                <p className={
-                                    style.navLink
-                                }>ICICC 2022</p>
+                                ICICC 2022
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -304,9 +282,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="icicc21">
-                                <p className={
-                                    style.navLink
-                                }>ICICC 2021</p>
+                                ICICC 2021
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -316,9 +292,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="icicc20">
-                                <p className={
-                                    style.navLink
-                                }>ICICC 2020</p>
+                                ICICC 2020
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -328,9 +302,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="icicc19">
-                                <p className={
-                                    style.navLink
-                                }>ICICC 2019</p>
+                                ICICC 2019
                             </NavLink>
                         </NavDropdown.Item>
                         <NavDropdown.Item onClick={
@@ -340,9 +312,7 @@ function CommonNavbar() {
                                     style.links
                                 }
                                 to="icicc18">
-                                <p className={
-                                    style.navLink
-                                }>ICICC 2018</p>
+                                ICICC 2018
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>

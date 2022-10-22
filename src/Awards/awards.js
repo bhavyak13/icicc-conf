@@ -609,6 +609,7 @@ Supervisor of the Year
       <ListGroup variant="flush">
         <ListGroup.Item><a href={require("./award-2020.pdf")}><b>UILA Awards 2020</b></a></ListGroup.Item>
         <ListGroup.Item><a href={require("./award-2021.pdf")}><b>UILA Awards 2021</b></a></ListGroup.Item>
+		<ListGroup.Item><a href={require("./award-2022.pdf")}><b>UILA Awards 2022</b></a></ListGroup.Item>
       </ListGroup>
 </Card>
 			
