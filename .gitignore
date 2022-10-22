@@ -12,6 +12,8 @@ react-icicc.ppk
 /coverage
 
 # production
+# production
+/build
 
 
 # misc
