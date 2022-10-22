@@ -32,7 +32,7 @@ const router = createBrowserRouter([
     element: <TempLay />,
     children: [
       {
-        path: '/home/*',
+        path: '/',
         element: <Home />,
       },
       {

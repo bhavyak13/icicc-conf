@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e887c8a.css",
-    "main.js": "/static/js/main.4e194f58.js",
+    "main.css": "/static/css/main.0e100adf.css",
+    "main.js": "/static/js/main.11855795.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -89,12 +89,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.4e887c8a.css.map": "/static/css/main.4e887c8a.css.map",
-    "main.4e194f58.js.map": "/static/js/main.4e194f58.js.map",
+    "main.0e100adf.css.map": "/static/css/main.0e100adf.css.map",
+    "main.11855795.js.map": "/static/js/main.11855795.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e887c8a.css",
-    "static/js/main.4e194f58.js"
+    "static/css/main.0e100adf.css",
+    "static/js/main.11855795.js"
   ]
 }
