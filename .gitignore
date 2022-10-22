@@ -5,13 +5,14 @@
 /Backend
 /.pnp
 .pnp.js
-
+react-icicc.pem
+react-icicc.ppk
 
 # testing
 /coverage
 
 # production
-/build
+
 
 # misc
 .DS_Store
