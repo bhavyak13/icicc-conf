@@ -37,6 +37,13 @@ const spdata = [
     organisers: ["Dr. Pooja Singh, India",
                  "Dr. Usha Chauhan, India"],
     spname: "Ss 004.pdf",
+},
+{
+    anchor: require("./SS-005.pdf"),
+    title: "SS_05: Artificial Intelligence and Allied Domain – A Key to the Emerging Technology",
+    organisers: ["Dr. Uzzal Sharma,India",
+                 ],
+    spname: "Ss 005.pdf",
 }
   
 ];
