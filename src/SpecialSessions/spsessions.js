@@ -51,6 +51,13 @@ const spdata = [
     organisers: ["Dr.S.Balakrishnan, Coimbatore, India",
                  ],
     spname: "Ss 006.pdf",
+},
+{
+    anchor: require("./SS-007.pdf"),
+    title: "SS_07: Emerging Trends, Challenges and Applications in Data Intelligence and Networking",
+    organisers: ["Dr. Imran Khan, Kanpur, India","Dr Asif Khan, Lucknow, India","Dr. Ahmad Neyaz Khan, Lucknow, India"
+                 ],
+    spname: "Ss 007.pdf",
 }
   
 ];
