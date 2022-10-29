@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6aaf7e33.css",
-    "main.js": "/static/js/main.ddbdeaec.js",
+    "main.js": "/static/js/main.ec9bc9ed.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -17,6 +17,7 @@
     "static/media/ic18-5.png": "/static/media/ic18-5.98c7c31ddfe57df909bb.png",
     "static/media/ManuscriptguidelinesforEnglishbooks.pdf": "/static/media/ManuscriptguidelinesforEnglishbooks.b4c0e227c2235ee1639f.pdf",
     "static/media/SS-002.pdf": "/static/media/SS-002.d0dfd09e11870e9ec04f.pdf",
+    "static/media/SS-007.pdf": "/static/media/SS-007.9d7d4fcac5379acb2fb4.pdf",
     "static/media/ic20-2.jpeg": "/static/media/ic20-2.106d5264c37be46840af.jpeg",
     "static/media/ic18-4.png": "/static/media/ic18-4.c097d3d1a865fa799795.png",
     "static/media/award-2022.pdf": "/static/media/award-2022.7fb75f6677a09b06012a.pdf",
@@ -96,11 +97,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.6aaf7e33.css.map": "/static/css/main.6aaf7e33.css.map",
-    "main.ddbdeaec.js.map": "/static/js/main.ddbdeaec.js.map",
+    "main.ec9bc9ed.js.map": "/static/js/main.ec9bc9ed.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6aaf7e33.css",
-    "static/js/main.ddbdeaec.js"
+    "static/js/main.ec9bc9ed.js"
   ]
 }
