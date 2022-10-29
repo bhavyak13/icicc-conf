@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6aaf7e33.css",
-    "main.js": "/static/js/main.aadc5460.js",
+    "main.js": "/static/js/main.ddbdeaec.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -25,6 +25,7 @@
     "static/media/SS-003.pdf": "/static/media/SS-003.bb7beb49f8e78ad6f01a.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
     "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
+    "static/media/SS-006.pdf": "/static/media/SS-006.ebd03e3cd243ef95ca9d.pdf",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/SS-004.pdf": "/static/media/SS-004.5e4c52c499af72e3b59c.pdf",
     "static/media/SS-005.pdf": "/static/media/SS-005.b189e6c716e9e5e43745.pdf",
@@ -95,11 +96,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.6aaf7e33.css.map": "/static/css/main.6aaf7e33.css.map",
-    "main.aadc5460.js.map": "/static/js/main.aadc5460.js.map",
+    "main.ddbdeaec.js.map": "/static/js/main.ddbdeaec.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6aaf7e33.css",
-    "static/js/main.aadc5460.js"
+    "static/js/main.ddbdeaec.js"
   ]
 }
