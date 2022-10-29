@@ -41,9 +41,16 @@ const spdata = [
 {
     anchor: require("./SS-005.pdf"),
     title: "SS_05: Artificial Intelligence and Allied Domain – A Key to the Emerging Technology",
-    organisers: ["Dr. Uzzal Sharma,India",
+    organisers: ["Dr. Uzzal Sharma, India",
                  ],
     spname: "Ss 005.pdf",
+},
+{
+    anchor: require("./SS-006.pdf"),
+    title: "SS_06: Emerging Trends, Issues, and Challenges in Artificial Intelligence, Internet of Things and Cloud Computing",
+    organisers: ["Dr.S.Balakrishnan, Coimbatore, India",
+                 ],
+    spname: "Ss 006.pdf",
 }
   
 ];
