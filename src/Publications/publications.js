@@ -11,12 +11,12 @@ const pubdata = [
     {
         anchor: require("./Images/2.jpg"),
         title:
-            "Computer & Electrical Engineering, Elsevier (SCIE indexed) IF 4.15)",
+            "Computer & Electrical Engineering, Elsevier (SCIE indexed) IF 4.15",
         
     },
     {
         anchor: require("./Images/1.jpg"),
-        title: "Expert Systems, Wiley (SCIE indexed IF 2.81)",
+        title: "Expert Systems, Wiley (SCIE indexed) IF 2.81",
         
     },    
     {
