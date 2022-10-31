@@ -1,25 +1,39 @@
 import React from "react";
-import Alert from 'react-bootstrap/Alert';
 import style from "../header.module.css";
 import Date from "../Date";
 
 
 const pubdata = [
     {
-        anchor: require("./Images/1.jpg"),
-        title: "Expert Systems, Wiley (SCIE indexed IF 2.58)",
-        
+        anchor: require("./Images/phy_comm.jpg"),
+        title: "Physical Communication, Elsevier (SCIE indexed) IF 2.37",
     },
     {
         anchor: require("./Images/2.jpg"),
         title:
-            "Computer & Electrical Engineering, Elsevier (SCIE indexed IF 3.81)",
+            "Computer & Electrical Engineering, Elsevier (SCIE indexed) IF 4.15)",
         
     },
     {
+        anchor: require("./Images/1.jpg"),
+        title: "Expert Systems, Wiley (SCIE indexed IF 2.81)",
+        
+    },    
+    {
         anchor: require("./Images/3.jpg"),
-        title: "Intelligent Decision Technologies, Indexed by SCOPUS & ESCI",
+        title: "Intelligent Decision Technologies (Indexed by SCOPUS & ESCI)",
     },
+   
+    {
+        anchor: require("./Images/cmes.jpeg"),
+        title: "Computer Modeling in Engineering & Sciences (SCIE Indexed IF 2.0)",
+    },
+    {
+        anchor: require("./Images/jmm_cover.jpg"),
+        title: "Journal of Mobile Multimedia(River)(Scopus and ESCI)",
+    },   
+     
+    
     
   ];
 
@@ -38,29 +52,31 @@ return(
         
             {pubdata.map(pub=>{
                 return(
-                    <div
+                    <ul
                     className={style.pubMem}>
+                    <li>
                     
-                    <img src={pub.anchor} style={{height:"250px",width:"175px"}}></img>
+                    <img src={pub.anchor} style={{height:"250px",width:"175px"}} alt=""></img>
                     <br />
                     
                     <p style={{width:"175px",fontWeight:"500",fontSize:15}}>{pub.title}</p>
-                    </div>
+                    </li>
+                    </ul>
                 );
             }) 
             }
         </div>
         <h3 style={{textAlign:"center"}}>INDEXING</h3><br />
         <div className={style.pubCont}>
-            <img src={require("./Images/Indexing/img01.png")}></img>
-            <img src={require("./Images/Indexing/img02.jpg")}></img>
-            <img src={require("./Images/Indexing/img03.jpg")}></img>
-            <img src={require("./Images/Indexing/img04.png")}></img>
-            <img src={require("./Images/Indexing/img05.png")}></img>
-            <img src={require("./Images/Indexing/img06.png")}></img>
-            <img src={require("./Images/Indexing/img07.png")}></img>
-            <img src={require("./Images/Indexing/img08.png")}></img>
-            <img src={require("./Images/Indexing/img09.png")}></img>
+            <img src={require("./Images/Indexing/img01.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img02.jpg")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img03.jpg")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img04.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img05.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img06.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img07.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img08.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img09.png")} alt="logo"></img>
             
         </div>
         </div>
