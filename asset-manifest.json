@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6aaf7e33.css",
-    "main.js": "/static/js/main.ec9bc9ed.js",
+    "main.js": "/static/js/main.8614435c.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -30,8 +30,10 @@
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/SS-004.pdf": "/static/media/SS-004.5e4c52c499af72e3b59c.pdf",
     "static/media/SS-005.pdf": "/static/media/SS-005.b189e6c716e9e5e43745.pdf",
+    "static/media/SS-009.pdf": "/static/media/SS-009.4f7be7640a07b52e1079.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.62aa5393225acf6a66fa.pdf",
     "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
+    "static/media/SS-008.pdf": "/static/media/SS-008.58ac9d000550abbbcfce.pdf",
     "static/media/19.jpeg": "/static/media/19.d60d05127bca68525070.jpeg",
     "static/media/ic20-1.jpeg": "/static/media/ic20-1.6c5ffab27b2756a8e496.jpeg",
     "static/media/Checklist.pdf": "/static/media/Checklist.53f333387521d291e859.pdf",
@@ -97,11 +99,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.6aaf7e33.css.map": "/static/css/main.6aaf7e33.css.map",
-    "main.ec9bc9ed.js.map": "/static/js/main.ec9bc9ed.js.map",
+    "main.8614435c.js.map": "/static/js/main.8614435c.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6aaf7e33.css",
-    "static/js/main.ec9bc9ed.js"
+    "static/js/main.8614435c.js"
   ]
 }
