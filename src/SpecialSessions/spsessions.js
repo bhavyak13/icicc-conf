@@ -58,7 +58,21 @@ const spdata = [
     organisers: ["Dr. Imran Khan, Kanpur, India","Dr Asif Khan, Lucknow, India","Dr. Ahmad Neyaz Khan, Lucknow, India"
                  ],
     spname: "Ss 007.pdf",
-}
+},
+{
+    anchor: require("./SS-008.pdf"),
+    title: "SS_08: Advancements in Wireless Communication Systems",
+    organisers: ["Ravi Shankar, Telangana, India","Usha Desai, Telangana, India","Sumit Gupta, Telangana, India","S. N. Panda, Punjab, India"
+                 ],
+    spname: "Ss 008.pdf",
+},
+{
+    anchor: require("./SS-009.pdf"),
+    title: "SS_09: Blockchain-based Networks and their Applications",
+    organisers: ["Dr. Anuj Kr. Singh, Roorkee, India","Dr. Ankit Garg, Roorkee, India"
+                 ],
+    spname: "Ss 009.pdf",
+},
   
 ];
 
