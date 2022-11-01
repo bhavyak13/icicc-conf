@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.500f119e.css",
-    "main.js": "/static/js/main.76a51669.js",
+    "main.js": "/static/js/main.fa8a42e7.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -14,6 +14,7 @@
     "static/media/Award Form- Individual Award.pdf": "/static/media/Award Form- Individual Award.c0a7f20f87c3f3e58886.pdf",
     "static/media/Award Form- Higher Education Award.pdf": "/static/media/Award Form- Higher Education Award.6f6760b12462bdba7feb.pdf",
     "static/media/ic18-1.png": "/static/media/ic18-1.9ea8e81ebcbe9b63a998.png",
+    "static/media/SS-011.pdf": "/static/media/SS-011.8e4db12c839a5a8925d3.pdf",
     "static/media/ic18-3.png": "/static/media/ic18-3.75caca575ef3ff36e66c.png",
     "static/media/ic18-5.png": "/static/media/ic18-5.98c7c31ddfe57df909bb.png",
     "static/media/ManuscriptguidelinesforEnglishbooks.pdf": "/static/media/ManuscriptguidelinesforEnglishbooks.b4c0e227c2235ee1639f.pdf",
@@ -44,6 +45,7 @@
     "static/media/11.jpeg": "/static/media/11.51ea402e7a5ea413334d.jpeg",
     "static/media/13.jpeg": "/static/media/13.973c90e54d11974e2a90.jpeg",
     "static/media/10.jpeg": "/static/media/10.f08424998d89826fb5b3.jpeg",
+    "static/media/SS-010.pdf": "/static/media/SS-010.30697597cdc317ab51a6.pdf",
     "static/media/22.jpeg": "/static/media/22.e8912342a1835f017220.jpeg",
     "static/media/8.jpeg": "/static/media/8.5a48266d4b02381f89d7.jpeg",
     "static/media/18.jpeg": "/static/media/18.8095bedb323ff7266b57.jpeg",
@@ -102,11 +104,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.500f119e.css.map": "/static/css/main.500f119e.css.map",
-    "main.76a51669.js.map": "/static/js/main.76a51669.js.map",
+    "main.fa8a42e7.js.map": "/static/js/main.fa8a42e7.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.500f119e.css",
-    "static/js/main.76a51669.js"
+    "static/js/main.fa8a42e7.js"
   ]
 }
