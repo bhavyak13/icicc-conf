@@ -12,7 +12,7 @@ const spdata = [
           "Dr. Neelam Sharma, New Delhi, India",
           
       ],
-      spname: "Ss 001.pdf",
+      spname: "SS 001.pdf",
   },
   {
       anchor: require("./SS-002.pdf"),
@@ -22,56 +22,70 @@ const spdata = [
           "Dr. Abhishek Kumar Mishra, Moradabad, India ",
           "Dr. Rakes Kumar Yadav, Lucknow, India"
       ],
-      spname: "Ss 002.pdf",
+      spname: "SS 002.pdf",
   },
   {
       anchor: require("./SS-003.pdf"),
       title: "SS_03: Recent Advancement in Integration of Renewable Energy to the Grids: Techniques, Challenges, Applications",
       organisers: ["Abhishek Vishnoi, Kanpur, India",
                    "Vikas Verma, Delhi, India"],
-      spname: "Ss 003.pdf",
+      spname: "SS 003.pdf",
   },
   {
     anchor: require("./SS-004.pdf"),
     title: "SS_04: AIoT for Images: Application, Challenges and Future Scope",
     organisers: ["Dr. Pooja Singh, India",
                  "Dr. Usha Chauhan, India"],
-    spname: "Ss 004.pdf",
+    spname: "SS 004.pdf",
 },
 {
     anchor: require("./SS-005.pdf"),
     title: "SS_05: Artificial Intelligence and Allied Domain – A Key to the Emerging Technology",
     organisers: ["Dr. Uzzal Sharma, India",
                  ],
-    spname: "Ss 005.pdf",
+    spname: "SS 005.pdf",
 },
 {
     anchor: require("./SS-006.pdf"),
     title: "SS_06: Emerging Trends, Issues, and Challenges in Artificial Intelligence, Internet of Things and Cloud Computing",
     organisers: ["Dr.S.Balakrishnan, Coimbatore, India",
                  ],
-    spname: "Ss 006.pdf",
+    spname: "SS 006.pdf",
 },
 {
     anchor: require("./SS-007.pdf"),
     title: "SS_07: Emerging Trends, Challenges and Applications in Data Intelligence and Networking",
     organisers: ["Dr. Imran Khan, Kanpur, India","Dr Asif Khan, Lucknow, India","Dr. Ahmad Neyaz Khan, Lucknow, India"
                  ],
-    spname: "Ss 007.pdf",
+    spname: "SS 007.pdf",
 },
 {
     anchor: require("./SS-008.pdf"),
     title: "SS_08: Advancements in Wireless Communication Systems",
     organisers: ["Ravi Shankar, Telangana, India","Usha Desai, Telangana, India","Sumit Gupta, Telangana, India","S. N. Panda, Punjab, India"
                  ],
-    spname: "Ss 008.pdf",
+    spname: "SS 008.pdf",
 },
 {
     anchor: require("./SS-009.pdf"),
     title: "SS_09: Blockchain-based Networks and their Applications",
     organisers: ["Dr. Anuj Kr. Singh, Roorkee, India","Dr. Ankit Garg, Roorkee, India"
                  ],
-    spname: "Ss 009.pdf",
+    spname: "SS 009.pdf",
+},
+{
+    anchor: require("./SS-010.pdf"),
+    title: "SS_10: Recent Advances in Natural Language Processing and Computer Vision Techniques",
+    organisers: ["Dr. Mohd Zeeshan Ansari, India","Dr. Faiyaz Ahmad, India"
+                 ],
+    spname: "SS 010.pdf",
+},
+{
+    anchor: require("./SS-011.pdf"),
+    title: "SS_11: Emerging trends in Computational Intelligence to solve Real-World Problems",
+    organisers: ["Dr.Archana Purwar, Noida, India","Dr Indu Chawla, Noida, India"
+                 ],
+    spname: "SS 011.pdf",
 },
   
 ];
