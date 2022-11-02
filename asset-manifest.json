@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.500f119e.css",
-    "main.js": "/static/js/main.fa8a42e7.js",
+    "main.js": "/static/js/main.fefb8970.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -16,6 +16,7 @@
     "static/media/ic18-1.png": "/static/media/ic18-1.9ea8e81ebcbe9b63a998.png",
     "static/media/SS-011.pdf": "/static/media/SS-011.8e4db12c839a5a8925d3.pdf",
     "static/media/ic18-3.png": "/static/media/ic18-3.75caca575ef3ff36e66c.png",
+    "static/media/SS-012.pdf": "/static/media/SS-012.bcc589e7802f185e0b94.pdf",
     "static/media/ic18-5.png": "/static/media/ic18-5.98c7c31ddfe57df909bb.png",
     "static/media/ManuscriptguidelinesforEnglishbooks.pdf": "/static/media/ManuscriptguidelinesforEnglishbooks.b4c0e227c2235ee1639f.pdf",
     "static/media/SS-002.pdf": "/static/media/SS-002.d0dfd09e11870e9ec04f.pdf",
@@ -104,11 +105,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.500f119e.css.map": "/static/css/main.500f119e.css.map",
-    "main.fa8a42e7.js.map": "/static/js/main.fa8a42e7.js.map",
+    "main.fefb8970.js.map": "/static/js/main.fefb8970.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.500f119e.css",
-    "static/js/main.fa8a42e7.js"
+    "static/js/main.fefb8970.js"
   ]
 }
