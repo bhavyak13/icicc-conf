@@ -87,6 +87,13 @@ const spdata = [
                  ],
     spname: "SS 011.pdf",
 },
+{
+    anchor: require("./SS-012.pdf"),
+    title: "SS_12: Paradigms of Data Analytics, AI, and Sustainable Development",
+    organisers: ["Dr. Arti Jain, Noida, India","Dr. Dileep Kumar Yadav, Greater Noida, India"
+                 ],
+    spname: "SS 012.pdf",
+},
   
 ];
 
