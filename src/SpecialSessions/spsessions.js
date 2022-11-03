@@ -94,6 +94,19 @@ const spdata = [
                  ],
     spname: "SS 012.pdf",
 },
+{
+    anchor: require("./SS-013.pdf"),
+    title: "SS_13: Intelligent Vision Systems and Edge Computing for Image Sensor Communications",
+    organisers: ["Dr. A. Suresh, Chennai, India",],
+    spname: "SS 013.pdf",
+},
+{
+    anchor: require("./SS-014.pdf"),
+    title: "SS_14: Intelligent Vision and Computing",
+    organisers: ["Dr. Naeem Ahmad, Raipur, India","Dr. Deepak Singh, Raipur, India"
+                 ],
+    spname: "SS 014.pdf",
+},
   
 ];
 
