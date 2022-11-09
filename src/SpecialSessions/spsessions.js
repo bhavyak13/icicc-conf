@@ -121,6 +121,14 @@ const spdata = [
                  ],
     spname: "SS 016.pdf",
 },
+{
+    anchor: require("./SS-017.pdf"),
+    title: "SS_17: Machine Learning and deep learning applied to complex problems in computer science",
+    organisers: ["Dr. Rachna Jain, New Delhi, India",
+                "Dr. Preeti Nagrath, New Delhi, India"
+                 ],
+    spname: "SS 017.pdf",
+},
   
 ];
 
