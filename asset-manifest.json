@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.500f119e.css",
-    "main.js": "/static/js/main.c120173b.js",
+    "main.js": "/static/js/main.5862e103.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -30,6 +30,7 @@
     "static/media/SS-017.pdf": "/static/media/SS-017.7923231bebfc83959282.pdf",
     "static/media/1.png": "/static/media/1.aa05e9f34a5360141d63.png",
     "static/media/SS-020.pdf": "/static/media/SS-020.584dbe00008e6d078db3.pdf",
+    "static/media/SS-021.pdf": "/static/media/SS-021.075abbf24ae92a15e47c.pdf",
     "static/media/SS-019.pdf": "/static/media/SS-019.0412f6e6f6d1ab03a08a.pdf",
     "static/media/SS-003.pdf": "/static/media/SS-003.bb7beb49f8e78ad6f01a.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
@@ -39,6 +40,7 @@
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/SS-013.pdf": "/static/media/SS-013.bd206bebe061edea9950.pdf",
     "static/media/SS-004.pdf": "/static/media/SS-004.5e4c52c499af72e3b59c.pdf",
+    "static/media/SS-022.pdf": "/static/media/SS-022.893097238e8c975f805a.pdf",
     "static/media/SS-005.pdf": "/static/media/SS-005.b189e6c716e9e5e43745.pdf",
     "static/media/SS-009.pdf": "/static/media/SS-009.4f7be7640a07b52e1079.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.62aa5393225acf6a66fa.pdf",
@@ -113,11 +115,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.500f119e.css.map": "/static/css/main.500f119e.css.map",
-    "main.c120173b.js.map": "/static/js/main.c120173b.js.map",
+    "main.5862e103.js.map": "/static/js/main.5862e103.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.500f119e.css",
-    "static/js/main.c120173b.js"
+    "static/js/main.5862e103.js"
   ]
 }
