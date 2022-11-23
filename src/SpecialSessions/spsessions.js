@@ -152,6 +152,20 @@ const spdata = [
             "Dr. Vikash Yadav, Uttar Pradesh, India", "Dr. Vimal Kumar, Uttar Pradesh, India"
         ],
         spname: "SS 020.pdf"
+    },{
+        anchor: require("./SS-021.pdf"),
+        title: "SS_21: AI & Deep Learning based Smart Healthcare Systems and other Applications",
+        organisers: [
+            "Dr. Ritu Chauhan Associate Professor, India", "Dr. Harleen Kaur, New Delhi, India"
+        ],
+        spname: "SS 021.pdf"
+    },{
+        anchor: require("./SS-022.pdf"),
+        title: "SS_22: Privacy, Secure, and Enabling Trustworthiness using Data Analytics",
+        organisers: [
+            "Dr. Mohammad Zunnun Khan, Kingdom of Saudi Arabia", 
+        ],
+        spname: "SS 022.pdf"
     },
 
 ];
