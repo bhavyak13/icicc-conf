@@ -166,6 +166,15 @@ const spdata = [
             "Dr. Mohammad Zunnun Khan, Kingdom of Saudi Arabia", 
         ],
         spname: "SS 022.pdf"
+    },{
+        anchor: require("./SS-023.pdf"),
+        title: "SS_23: Innovative Techniques and Emerging trends in the Healthcare industry using new-age Technologies",
+        organisers: [
+            "Dr. Rajat Bhardwaj, Bangalore, India", 
+            "Dr. Chandramma. R., Bangalore, India",
+            "Dr Amanpreet Kaur, Punjab, India"
+        ],
+        spname: "SS 023.pdf"
     },
 
 ];
