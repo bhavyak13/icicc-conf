@@ -175,6 +175,13 @@ const spdata = [
             "Dr Amanpreet Kaur, Punjab, India"
         ],
         spname: "SS 023.pdf"
+    },{
+        anchor: require("./SS-024.pdf"),
+        title: "SS_24: Application of AI and Deep learning in the diagnosis of diseases",
+        organisers: [
+            "Dr. Bhagyashree S R, India",             
+        ],
+        spname: "SS 024.pdf"
     },
 
 ];

@@ -77,9 +77,14 @@ const SteerCom=()=>{
             {"MemName":"Dr. Jafar A. Alzubi",
             "InstName":"(Al-Balqa Applied University, Salt – Jordan)"},
             {"MemName":"Dr. Hamid Reza Boveiri",
-            "InstName":"(Sama College, IAU, Shoushtar Branch, Shoushtar, Iran)"},{
+            "InstName":"(Sama College, IAU, Shoushtar Branch, Shoushtar, Iran)"},
+            {
             "MemName":"Dr. M. Tanveer",
             "InstName":"(Indian Institute of Technology, Indore)"
+            },
+            {
+            "MemName":"Dr. Umesh Gupta",
+            "InstName":"(Bennett University, Greater Noida)"
             }
         ]
     },  {
