@@ -3,6 +3,7 @@ import Alert from 'react-bootstrap/Alert';
 import style from "../header.module.css";
 import Date from '../Date';
 
+
 const PaperSubmission=()=>{
   return(
   <div>
@@ -14,7 +15,7 @@ const PaperSubmission=()=>{
   </p>
   <ol>
     <li>Kindly ensure that your paper is formatted as per  <a href="">Springer Guidelines </a>(not exceeding 8 pages written in A4 size). Please refer the attached springer template for preparation of your paper.</li>
-    <li>All papers must be submitted online. via <a href="https://easychair.org/account/signin?l=bdpHbA7ZYqspPTtYvdfens">Easychair Submission</a></li>
+    <li>All papers must be submitted online. via <a href="https://easychair.org/conferences/?conf=icicc2023">Easychair Submission</a></li>
     <li>All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.</li>
     <li>Only papers presenting original content with novel research results or successful innovative applications will be considered for publication in the conference proceedings (as chapters in edited volumes of Springer Series).</li>
   </ol>

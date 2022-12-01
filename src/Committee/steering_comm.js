@@ -18,7 +18,7 @@ const SteerCom=()=>{
         "Name":"General Chair(s)",
         List:[
             {"MemName":"Dr. Prabhat Kumar",
-            "InstName":"(Associate Professor, CSE, National Institute of Technology Patna)"},
+            "InstName":"(Professor, CSE, National Institute of Technology Patna)"},
             {"MemName":"Prof. Oscar Castillo",
             "InstName":"(Tijuana Institute of Technology, Mexico)"}
         ]
@@ -77,9 +77,14 @@ const SteerCom=()=>{
             {"MemName":"Dr. Jafar A. Alzubi",
             "InstName":"(Al-Balqa Applied University, Salt – Jordan)"},
             {"MemName":"Dr. Hamid Reza Boveiri",
-            "InstName":"(Sama College, IAU, Shoushtar Branch, Shoushtar, Iran)"},{
+            "InstName":"(Sama College, IAU, Shoushtar Branch, Shoushtar, Iran)"},
+            {
             "MemName":"Dr. M. Tanveer",
             "InstName":"(Indian Institute of Technology, Indore)"
+            },
+            {
+            "MemName":"Dr. Umesh Gupta",
+            "InstName":"(Bennett University, Greater Noida)"
             }
         ]
     },  {
@@ -115,7 +120,7 @@ const SteerCom=()=>{
             {"MemName":"Dr. Ashish Khanna",
             "InstName":"(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)"},
             {"MemName":"Dr. Gulshan Shrivastava",
-            "InstName":"( Sharda University, Gr. Noida.)"}
+            "InstName":"( Galgotias University, India.)"}
         ]
     },  {
         "Name":"Convener(s)",
