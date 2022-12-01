@@ -92,7 +92,7 @@ const Registration = () => {
               </tr>
               <tr>
                 <td><b>ACCOUNT NUMBER </b></td>
-                <td> 510909010104807</td>
+                <td> 510909010080523</td>
               </tr>
               <tr>
                 <td><b>BANK </b></td>
