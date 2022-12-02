@@ -88,7 +88,7 @@ const Registration = () => {
             <tbody>
               <tr>
                 <td><b>ACCOUNT NAME </b></td>
-                <td> ONLINE CONFERENCE</td>
+                <td> ICICC</td>
               </tr>
               <tr>
                 <td><b>ACCOUNT NUMBER </b></td>
