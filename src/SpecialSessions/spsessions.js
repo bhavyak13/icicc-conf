@@ -182,7 +182,25 @@ const spdata = [
             "Dr. Bhagyashree S R, India",             
         ],
         spname: "SS 024.pdf"
+    },{
+        anchor: require("./SS-025.pdf"),
+        title: "SS_25:  Role of ML and DL Techniques in Healthcare: Security, Privacy & Open Challenges ",
+        organisers: [
+            "Dr Neha Sharma, Rajpura, Punjab, India",   
+            "Dr Deepika Kumar, New Delhi, India"          
+        ],
+        spname: "SS 025.pdf"
+    },{
+        anchor: require("./SS-026.pdf"),
+        title: "SS_26:  Security and Privacy in the Cloud ",
+        organisers: [
+            "Prof. Naren.J, Bangalore, India",   
+            "Dr. Suchitra. R. Nair, Bangalore, India"          
+        ],
+        spname: "SS 026.pdf"
     },
+    
+   
 
 ];
 
