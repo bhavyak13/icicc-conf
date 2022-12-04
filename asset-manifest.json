@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.500f119e.css",
-    "main.js": "/static/js/main.16ecd9fa.js",
+    "main.js": "/static/js/main.5dfb32d2.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -31,10 +31,10 @@
     "static/media/1.png": "/static/media/1.aa05e9f34a5360141d63.png",
     "static/media/SS-020.pdf": "/static/media/SS-020.584dbe00008e6d078db3.pdf",
     "static/media/SS-021.pdf": "/static/media/SS-021.075abbf24ae92a15e47c.pdf",
-    "static/media/SS-019.pdf": "/static/media/SS-019.0412f6e6f6d1ab03a08a.pdf",
     "static/media/SS-003.pdf": "/static/media/SS-003.bb7beb49f8e78ad6f01a.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
     "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
+    "static/media/SS-026.pdf": "/static/media/SS-026.54b9d8054320eee99cd4.pdf",
     "static/media/SS-006.pdf": "/static/media/SS-006.ebd03e3cd243ef95ca9d.pdf",
     "static/media/SS-018.pdf": "/static/media/SS-018.c39c66703ecea9c96747.pdf",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
@@ -47,6 +47,7 @@
     "static/media/SS-001.pdf": "/static/media/SS-001.62aa5393225acf6a66fa.pdf",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/SS-024.pdf": "/static/media/SS-024.046a52fcf63b4cca7aa7.pdf",
+    "static/media/SS-025.pdf": "/static/media/SS-025.1cdd53c3a3f255ca686c.pdf",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
     "static/media/SS-016.pdf": "/static/media/SS-016.02f1e7051d4261f96313.pdf",
     "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
@@ -69,6 +70,7 @@
     "static/media/20.jpeg": "/static/media/20.48b160f439c1c28f19ad.jpeg",
     "static/media/ic20-5.jpeg": "/static/media/ic20-5.bc6c58a1369ffbb04f19.jpeg",
     "static/media/17.jpeg": "/static/media/17.7d40aa4f2acf0355696c.jpeg",
+    "static/media/SS-019.pdf": "/static/media/SS-019.61892d22341381160be0.pdf",
     "static/media/ic20-6.jpeg": "/static/media/ic20-6.20b3167040231c9f69e7.jpeg",
     "static/media/img08.png": "/static/media/img08.fb333a86d66648ffa9ed.png",
     "static/media/icicc-21-7.jpeg": "/static/media/icicc-21-7.65b75929f74ebfedd57b.jpeg",
@@ -117,11 +119,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.500f119e.css.map": "/static/css/main.500f119e.css.map",
-    "main.16ecd9fa.js.map": "/static/js/main.16ecd9fa.js.map",
+    "main.5dfb32d2.js.map": "/static/js/main.5dfb32d2.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.500f119e.css",
-    "static/js/main.16ecd9fa.js"
+    "static/js/main.5dfb32d2.js"
   ]
 }
