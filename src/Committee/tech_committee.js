@@ -215,7 +215,8 @@ const list_of_tec=["Prof (Dr.) Vincenzo Piuri :  University of Milan Italy.",
 ,"Balamurugan Shanmugam : Director-Research and Development Mindnotix Technologies India"
 ,"Arunn Vignesh Ganesan : Research Associate Mindnotix Technologies India"
 ,"Dr. Rachit Garg : Associate Professor & Deputy Secretary, School of Computer Science & Engineering, Lovely Professional University"
-,"Dr. Ahmed J. Obaid : Assistant Professor ,Faculty of Computer Science and Mathematics University of Kufa Iraq"];
+,"Dr. Ahmed J. Obaid : Assistant Professor ,Faculty of Computer Science and Mathematics University of Kufa Iraq",
+"Belfin Robinson : Postdoctoral Fellow, School of Medicine, BRIC, University of North Carolina"];
 
 return(
     <div>
