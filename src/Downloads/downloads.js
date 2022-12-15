@@ -10,9 +10,7 @@ const Downloads = () => {
                 style.abtHeader
             }>Downloads</h2>
             <hr/>
-            <div className={
-                style.flex
-            }>
+            <div style={{display:'flex'}}>
                 <div className={
                     style.dCont
                 }>
@@ -58,11 +56,11 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
-                    </div>
+                    {/* </div> */}
 
-                    <div style={
+                    {/* <div style={
                         {width: "50vw"}
-                    }>
+                    }> */}
                         <Button variant="primary"
                             className={
                                 style.downloadBadges
@@ -98,6 +96,20 @@ const Downloads = () => {
                         href={require("./docs/Special_Session_Proposal_Template.docx")}
                         target="_blank"
                         >Special Session Proposal Template
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/Elsevier SSRN_Word Template.docx")}
+                        target="_blank"
+                        >Elsevier SSRN Paper Template
                             <img src={
                                     require('./docs/icon.png')
                                 }
