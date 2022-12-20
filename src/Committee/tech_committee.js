@@ -5,7 +5,7 @@ import Date from "../Date";
 
 const TechCom=()=>{
 const list_of_tec=["Prof (Dr.) Vincenzo Piuri :  University of Milan Italy.",
-"Prof (Dr.) Valentina Emilia Balas : Aurel Vlaicu University of Arad Romania.",
+"Prof (Dr.) Valentina Emilia Balas : Aurel Vlaicu University of Arad Romania."
 ,"Prof (Dr.) Marius Balas :  Aurel Vlaicu University of Arad Romania."
 ,"Prof (Dr.) Mohamed Salim Bouhlel : Sfax University Tunisia."
 ,"Prof (Dr.) Aboul Ella Hassanien :  Cairo University Egypt."
@@ -216,7 +216,10 @@ const list_of_tec=["Prof (Dr.) Vincenzo Piuri :  University of Milan Italy.",
 ,"Arunn Vignesh Ganesan : Research Associate Mindnotix Technologies India"
 ,"Dr. Rachit Garg : Associate Professor & Deputy Secretary, School of Computer Science & Engineering, Lovely Professional University"
 ,"Dr. Ahmed J. Obaid : Assistant Professor ,Faculty of Computer Science and Mathematics University of Kufa Iraq",
-"Belfin Robinson : Postdoctoral Fellow, School of Medicine, BRIC, University of North Carolina"];
+"Dr. Gaurav Agarwal: Assistant Professor, Department of Computer Science & Engineering, KIET Group of Institutions, Ghaziabad, India",
+"Prof. (Dr.) Sachi Gupta: Professor & Head, Department of Information Technology, IMS Engineering college, Ghaziabad, India",
+"Belfin Robinson : Postdoctoral Fellow, School of Medicine, BRIC, University of North Carolina",
+];
 
 return(
     <div>
