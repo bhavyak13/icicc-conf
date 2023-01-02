@@ -21,7 +21,7 @@ const Awards=()=>{
 <Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
         <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>31st January, 2023</b></ListGroup.Item>
-        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>28th February, 2023</b></ListGroup.Item>
+        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>05th February, 2023</b></ListGroup.Item>
       </ListGroup>
 </Card>
 <br />
