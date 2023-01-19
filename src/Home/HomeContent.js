@@ -62,7 +62,20 @@ const HomeCont = () => {
 
 
             </Alert>
+            <Alert key='primary' variant='primary'
+                className={
+                    style.alert
+            }>
+                <a 
+                    className={
+                        style.alertContent
+                } >Online presentation of papers is allowed due to pandemic</a>
 
+
+            </Alert>
+            {/* <div class="alert alert-info" role="alert" >
+        <h4 class="alert-heading text-center">  </h4>
+      </div> */}
             <div className="btnn">
                 <button className={
                     style.paymentBtn
@@ -76,6 +89,7 @@ const HomeCont = () => {
                     }>Submit Paper</a>
                 </button>
             </div>
+            
             {/* TABLE */}
             <div className="cont">
                 {
@@ -100,7 +114,10 @@ const HomeCont = () => {
                 ))
             } 
             </div>
-            <br /><br />
+            
+            <br />
+         
+<br />
             <h3 className={
                 style.abtHeader
             }>About Conference</h3>
