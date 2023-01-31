@@ -117,6 +117,82 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
+                        
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/ICICC_2023_Elsevier_Template.pdf")}
+                        target="_blank"
+                        >ICICC-2023 Elsevier Template
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
+                        
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/ICICC_2023_Elsevier_Template.pptx")}
+                        target="_blank"
+                        >ICICC-2023 Elsevier Template (PPT)
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
+
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/ICICC_2023_Springer_Template.pdf")}
+                        target="_blank"
+                        >ICICC-2023 Springer Template
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
+
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/ICICC_2023_Springer_Template.pptx")}
+                        target="_blank"
+                        >ICICC-2023 Springer Template (PPT)
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>  
+                        
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/Licence to Publish Proceeding Paper.docx")}
+                        target="_blank"
+                        >Licence to Publish Proceeding Paper
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>  
+
                     </div>
 
                 </div>
