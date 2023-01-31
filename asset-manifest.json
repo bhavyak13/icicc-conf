@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.030ae821.css",
-    "main.js": "/static/js/main.78d5dcad.js",
+    "main.js": "/static/js/main.97930d2d.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -46,10 +46,12 @@
     "static/media/SS-005.pdf": "/static/media/SS-005.b189e6c716e9e5e43745.pdf",
     "static/media/SS-009.pdf": "/static/media/SS-009.4f7be7640a07b52e1079.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.62aa5393225acf6a66fa.pdf",
+    "static/media/ICICC_2023_Elsevier_Template.pptx": "/static/media/ICICC_2023_Elsevier_Template.d95e8f6e63e57fb37fa3.pptx",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/SS-024.pdf": "/static/media/SS-024.046a52fcf63b4cca7aa7.pdf",
     "static/media/SS-025.pdf": "/static/media/SS-025.1cdd53c3a3f255ca686c.pdf",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
+    "static/media/ICICC_2023_Springer_Template.pptx": "/static/media/ICICC_2023_Springer_Template.aebdc5bcf7e20f158cd1.pptx",
     "static/media/SS-016.pdf": "/static/media/SS-016.02f1e7051d4261f96313.pdf",
     "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
     "static/media/SS-008.pdf": "/static/media/SS-008.58ac9d000550abbbcfce.pdf",
@@ -67,9 +69,11 @@
     "static/media/ic20-9.jpeg": "/static/media/ic20-9.7dd574d5d834c4537ca3.jpeg",
     "static/media/ic20-7.jpeg": "/static/media/ic20-7.2fbf67117f64fea58d40.jpeg",
     "static/media/7.jpeg": "/static/media/7.4ab865efe38574438393.jpeg",
+    "static/media/ICICC_2023_Elsevier_Template.pdf": "/static/media/ICICC_2023_Elsevier_Template.5163bbcb918031000723.pdf",
     "static/media/12.jpeg": "/static/media/12.277c9f45e7fdbfd8b292.jpeg",
     "static/media/20.jpeg": "/static/media/20.48b160f439c1c28f19ad.jpeg",
     "static/media/ic20-5.jpeg": "/static/media/ic20-5.bc6c58a1369ffbb04f19.jpeg",
+    "static/media/ICICC_2023_Springer_Template.pdf": "/static/media/ICICC_2023_Springer_Template.f30c1dd06277ae9ba9b5.pdf",
     "static/media/17.jpeg": "/static/media/17.7d40aa4f2acf0355696c.jpeg",
     "static/media/SS-019.pdf": "/static/media/SS-019.61892d22341381160be0.pdf",
     "static/media/ic20-6.jpeg": "/static/media/ic20-6.20b3167040231c9f69e7.jpeg",
@@ -91,6 +95,7 @@
     "static/media/icicc-21-12.jpeg": "/static/media/icicc-21-12.d478791b0d44cbb8e1f4.jpeg",
     "static/media/6.jpeg": "/static/media/6.646fb128f69a22b3c001.jpeg",
     "static/media/icicc-21-8.jpeg": "/static/media/icicc-21-8.49d0692d41ebb3c7ee90.jpeg",
+    "static/media/Licence to Publish Proceeding Paper.docx": "/static/media/Licence to Publish Proceeding Paper.ebe0d4bf5db874f903cd.docx",
     "static/media/icicc-21-9.jpeg": "/static/media/icicc-21-9.90c646107ca92c2e802d.jpeg",
     "static/media/icicc-21-3.jpeg": "/static/media/icicc-21-3.edfee2fabbedf3311050.jpeg",
     "static/media/icicc-21-1.jpeg": "/static/media/icicc-21-1.0149f916a43707384814.jpeg",
@@ -120,11 +125,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.030ae821.css.map": "/static/css/main.030ae821.css.map",
-    "main.78d5dcad.js.map": "/static/js/main.78d5dcad.js.map",
+    "main.97930d2d.js.map": "/static/js/main.97930d2d.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.030ae821.css",
-    "static/js/main.78d5dcad.js"
+    "static/js/main.97930d2d.js"
   ]
 }
