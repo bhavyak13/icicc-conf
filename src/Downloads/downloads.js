@@ -192,6 +192,21 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>  
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/Final_Schedule_SSCBS_confirmed-2023-SPRINGER.pdf")}
+                        target="_blank"
+                        >Final Presentation Schedule -ICICC 2023
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button> 
+                        
 
                     </div>
 
