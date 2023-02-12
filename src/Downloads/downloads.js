@@ -206,6 +206,19 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button> 
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./BACKGROUND IMAGE.jpg")}
+                        download>Background Banner for Zoom
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button> 
                         
 
                     </div>
