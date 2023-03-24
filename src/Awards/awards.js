@@ -7,21 +7,25 @@ import ListGroup from 'react-bootstrap/ListGroup';
 const Awards=()=>{
     return(
         <div className={style.awardsCont}>
-		<Alert> <h4><a style={{textTransform:"uppercase"}}>Click here to see the registration details for participation in UILA 2022</a></h4></Alert>
-		<h4>4th Universal Inovators LEADERSHIP AWARDS (UILA 2023)</h4>
+		{/* <Alert> <h4><a style={{textTransform:"uppercase"}}>Click here to see the registration details for participation in UILA 2022</a></h4></Alert> */}
+		<h4>5th Universal Inovators LEADERSHIP AWARDS (UILA 2024)</h4>
 		<hr />
 		
 		<b>About Universal Inovators Leadership Awards (UILA)</b>
-		<p>UI Leadership Awards is to honor the determined effort and achievements of Change makers who have made their performance and innovative excellence in their respective field. It is a very special and unique set up, it involves <span className={style.highlight}>International Excellence awards</span> in various categories. UI Leadership award creates a world-wide recognition and reserves the own space in the Society for the winning profiles. As such it also provides participants with an ideal opportunity to make their work visible to a wider audience.</p>
+		<p>UI Leadership Awards honor the determined effort and achievements of Changemakers who have made their performance and innovative excellence in their respective field. It is a very special and unique setup involving <span className={style.highlight}>International Excellence awards</span>in various categories. UI Leadership award creates worldwide recognition and reserves its space in Society for the winning profiles. As such, it also gives participants an ideal opportunity to make their work visible to a broader audience.</p><p>
 
-<p>Third UI Leadership awards will be organized along with 5th International Conference on Innovative Computing and Communication organized jointly by Shaheed Sukhdev College of Business Studies (University of Delhi) and Universal Inovators at Shaheed Sukhdev College of Business Studies, New Delhi, India.</p>
+Third UI Leadership awards will be organized along with the 7th International Conference on Innovative Computing and Communication jointly by Shaheed Sukhdev College of Business Studies (University of Delhi) and Universal Inovators at Shaheed Sukhdev College of Business Studies, New Delhi, India.
+
+	</p>
+
+
 <br />
 <h4 style={{textTransform:"uppercase",fontWeight:"700"}}>Important dates:</h4>
 <hr />
 <Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>31st January, 2023</b></ListGroup.Item>
-        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>05th February, 2023</b></ListGroup.Item>
+        <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>31st December, 2023</b></ListGroup.Item>
+        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>15th January, 2024</b></ListGroup.Item>
       </ListGroup>
 </Card>
 <br />
@@ -586,8 +590,8 @@ Supervisor of the Year
 			<p>Please fill the attached form and send it along with complete CV to <span style={{color:"#4183c4"}}>universalinovators@gmail.com</span>(<b>Subject: Award [Category/Sub-Category] </b>).<br />If applying for best paper or thesis awards, then mail us filled form, CV, paper/thesis to <span style={{color:"#4183c4"}}>universalinovators@gmail.com </span>(<b>Subject: Award [Category/Sub-Category]</b> ).</p>
 			<Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item><a href={require("./Award Form- Individual Award.pdf")}style={{textDecoration:"none"}}><b>Individual Award Form</b></a></ListGroup.Item>
-        <ListGroup.Item><a href={require("./Award Form- Higher Education Award.pdf")} style={{textDecoration:"none"}}><b>Higher Education Award Form</b></a></ListGroup.Item>
+        <ListGroup.Item><a href={require("./Award Form- Individual Award.docx")}style={{textDecoration:"none"}}><b>Individual Award Form</b></a></ListGroup.Item>
+        <ListGroup.Item><a href={require("./Award Form- Higher Education Award.docx")} style={{textDecoration:"none"}}><b>Higher Education Award Form</b></a></ListGroup.Item>
       </ListGroup>
 </Card>
 <br /><br />

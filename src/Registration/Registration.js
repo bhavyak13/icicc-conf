@@ -137,13 +137,13 @@ const Registration = () => {
 </div> 
 <hr />
 
-<p style={{fontWeight:"700",fontSize:"17px"}}>Registration Fee For ICICC 2023 (Springer)</p>
+<p style={{fontWeight:"700",fontSize:"17px"}}>Registration Fee For ICICC 2024 (Springer)</p>
 <table class="table table-bordered table-hover">
           <thead>
             <tr>
               <th><b>Category</b></th>
-              <th><b>Early Registration (before 20th January, 2023) </b></th>
-              <th><b>Late Registration (after 20th January, 2023) </b></th>
+              <th><b>Early Registration (before 05th January, 2024) </b></th>
+              <th><b>Late Registration (after 05th January, 2024) </b></th>
             </tr>
           </thead>
 

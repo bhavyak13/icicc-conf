@@ -10,10 +10,10 @@ const CallForPaper=()=>{
   <div className={style.flex}>
   <div className={style.abtInstCont}>
 
-  <p >The scope of this conference is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in various topics of Engineering and Technology. It allows participants an opportunity to discuss the recent developments in the field of solidification computer science and management and review challenges faced by the community in the 21st century. The conference consists of invited
+  <p >The scope of this conference is to provide a platform for researchers, engineers, academicians, and industry professionals from all over the world to present their research results and development activities in various topics of Engineering and Technology. It allows participants to discuss the recent developments in the solidification of computer science and management and review challenges faced by the community in the 21st century. The conference consists of invited.
   </p>
   <hr></hr>
-  <b>ICICC 2023 will be an amalgamation of four different Tracks organized parallel to each other, as listed below:</b>
+  <b>ICICC 2024 will be an amalgamation of four different Tracks organized parallel to each other, as listed below:</b>
 
   <p><strong>Innovative Communication Networks and Security</strong></p>
                             <p>
