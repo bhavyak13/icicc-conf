@@ -271,6 +271,16 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
+                                to="/icicc23">
+                                ICICC 2023
+                            </NavLink>
+                        </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
                                 to="/icicc22">
                                 ICICC 2022
                             </NavLink>

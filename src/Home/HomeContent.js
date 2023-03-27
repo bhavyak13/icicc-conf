@@ -55,10 +55,11 @@ const HomeCont = () => {
                 className={
                     style.alert
             }>
-                <a href="https://scholar.google.com/citations?hl=en&user=fFvhHUAAAAAJ" target="_blank"
+                <a 
+                href="https://scholar.google.com/citations?hl=en&user=fFvhHUAAAAAJ" target="_blank"
                     className={
                         style.alertContent
-                }>A FLAGSHIP CONFERENCE : ICICC - 2023</a>
+                }>A FLAGSHIP CONFERENCE : ICICC - 2024</a>
 
 
             </Alert>
@@ -80,7 +81,8 @@ const HomeCont = () => {
                 <button className={
                     style.paymentBtn
                 }>
-                    <a href="https://easychair.org/conferences/?conf=icicc2023" target="_blank"
+                    <a 
+                    // href="https://easychair.org/conferences/?conf=icicc2023" target="_blank"
                         className={
                             style.links
                         }

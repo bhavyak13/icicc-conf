@@ -19,6 +19,7 @@ import IndExp from './Committee/ind_exp';
 import Publications from './Publications/publications';
 import SteerCom from './Committee/steering_comm';
 import Registration from './Registration/Registration';
+import Icicc23 from './PrevConf/icicc23';
 import Icicc22 from './PrevConf/icicc22';
 import Icicc21 from './PrevConf/icicc21';
 import Icicc20 from './PrevConf/icicc20';
@@ -106,6 +107,10 @@ const router = createBrowserRouter([
       {
         path: 'registrations',
         element: <Registration />
+      },
+      {
+        path: 'icicc23',
+        element: <Icicc23 />
       },
       {
         path: 'icicc22',
