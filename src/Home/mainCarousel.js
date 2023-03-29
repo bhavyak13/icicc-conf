@@ -58,7 +58,7 @@ const ControlledCarousel=() =>{
                                         className="d-block w-100"
                                         src={require('./images/1.jpg')}
                                         alt="First slide"
-                                        style={{height:500}}
+                                        // style={{height:500}}
                                     />
                                 </Carousel.Item>
 
@@ -67,7 +67,7 @@ const ControlledCarousel=() =>{
                                         className="d-block w-100"
                                         src={require('./images/venue.png')}
                                         alt="Second slide"
-                                        style={{height:500}}
+                                        // style={{height:500}}
                                     />
                                 </Carousel.Item>
 
@@ -76,7 +76,7 @@ const ControlledCarousel=() =>{
                                         className="d-block w-100"
                                         src={require('./images/Untitled design.png')}
                                         alt="Third slide"
-                                        style={{height:500}}
+                                        // style={{height:500}}
                                     />
                                 </Carousel.Item>
 

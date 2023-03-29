@@ -6,11 +6,11 @@ import Date from "../Date";
 const Downloads = () => {
     return (
         <div>
-            <h2 class={
+            <h2 className={
                 style.abtHeader
             }>Downloads</h2>
             <hr/>
-            <div style={{display:'flex'}}>
+            <div className={style.box}>
                 <div className={
                     style.dCont
                 }>
@@ -76,8 +76,9 @@ const Downloads = () => {
                     </div>
 
                 </div>
-                <Date/>
+                <Date/>    
             </div>
+            
         </div>
 
     );
