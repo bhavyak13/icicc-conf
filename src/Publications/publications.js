@@ -32,6 +32,18 @@ const pubdata = [
         anchor: require("./Images/jmm_cover.jpg"),
         title: "Journal of Mobile Multimedia(River)(Scopus and ESCI)",
     },   
+    {
+        anchor: require("./Images/4.jpg"),
+        title: "Computer & Electrical Engineering Journal (Elsevier) SCI IF 4.15",
+    },   
+    {
+        anchor: require("./Images/5.jpeg"),
+        title: "Expert Systems Journal (Wiley) SCI IF 2.58",
+    },   
+    {
+        anchor: require("./Images/6.jpeg"),
+        title: "Alexandria Engineering Journal (Elsevier) SCI IF 6.6",
+    },   
      
     
     
