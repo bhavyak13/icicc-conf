@@ -82,7 +82,7 @@ const HomeCont = () => {
                     style.paymentBtn
                 }>
                     <a 
-                    // href="https://easychair.org/conferences/?conf=icicc2023" target="_blank"
+                    href="https://cmt3.research.microsoft.com/ICICC2024" target="_blank"
                         className={
                             style.links
                         }
