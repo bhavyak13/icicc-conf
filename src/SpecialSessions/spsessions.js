@@ -4,15 +4,15 @@ import style from "../header.module.css";
 
 
 const spdata = [
-    // {
-    //     anchor: require("./SS-001.pdf"),
-    //     title: "Emerging Intelligent Computing Techniques and their Applications (EICTA)",
-    //     organisers: [
-    //         "Dr. Nitish Pathak, New Delhi, India", "Dr. Neelam Sharma, New Delhi, India",
-
-    //     ],
-    //     spname: "SS 001.pdf"
-    // },
+    {
+        anchor: require("./SS-001.pdf"),
+        title: "Artificial Intelligence in Cyber Security",
+        organisers: [
+            "Dr. Shivi Garg, J.C. Bose University of Science & Technology, YMCA, Faridabad, India",
+            "Dr. Saumya Bansal, Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM), New Delhi, India"
+        ],
+        spname: "SS 001.pdf"
+    },
     // {
     //     anchor: require("./SS-002.pdf"),
     //     title: "SS_02: Recent Trends in Machine Learning and Information System",
