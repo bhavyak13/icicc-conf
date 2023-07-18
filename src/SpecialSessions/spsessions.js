@@ -13,14 +13,15 @@ const spdata = [
         ],
         spname: "SS 001.pdf"
     },
-    // {
-    //     anchor: require("./SS-002.pdf"),
-    //     title: "SS_02: Recent Trends in Machine Learning and Information System",
-    //     organisers: [
-    //         "Dr. Abhishek Kumar Mishra, Moradabad, India ", "Dr. Rakes Kumar Yadav, Lucknow, India"
-    //     ],
-    //     spname: "SS 002.pdf"
-    // },
+    {
+        anchor: require("./SS-002.pdf"),
+        title: "SS_02: Multidisciplinary Aspects of Cyber Security",
+        organisers: [
+            "Dr. Zahid, State University of New York Polytechnic Institute, Utica, USA",
+            "Dr. Shivi Garg, J.C. Bose University of Science & Technology, YMCA, Faridabad, India","Dr. Bhawna Narwal, Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India"
+        ],
+        spname: "SS 002.pdf"
+    },
     // {
     //     anchor: require("./SS-003.pdf"),
     //     title: "SS_03: Recent Advancement in Integration of Renewable Energy to the Grids: Techniques, Challenges, Applications",
