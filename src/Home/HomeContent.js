@@ -9,34 +9,34 @@ const HomeCont = () => {
     const items = [
         {
             key: 'Citations',
-            val: '2494'
+            val: '3575'
         },
         {
             key: 'H - Index',
-            val: '20'
+            val: '22'
         },
         {
             key: 'H5 - Index',
-            val: '20'
+            val: '22'
         },
         {
             key: 'No.of Published Papers in Proceedings',
-            val: '1553'
+            val: '1866'
         }, {
             key: 'No.of Keynotes',
-            val: '64'
+            val: '70'
         }, {
             key: 'No.of Workshops',
             val: '13'
         }, {
             key: 'Acceptance Rate',
-            val: '23%'
+            val: '22%'
         }, {
             key: 'No.of Participating Countries',
-            val: '49'
+            val: '50'
         }, {
             key: 'No.of Volumes Published',
-            val: '15'
+            val: '18'
         }, {
             key: 'No.of Published Papers in Extended Journals(Scopus)',
             val: '103'
@@ -45,7 +45,7 @@ const HomeCont = () => {
             val: '59'
         }, {
             key: 'Total No.of Participation',
-            val: '3990'
+            val: '4790'
         },
     ]
 
