@@ -131,11 +131,11 @@ const HomeCont = () => {
                 <div className={
                     style.abtContent
                 }>
-                    <p>International Conference on Innovative Computing and Communication (ICICC 2024) is organized to bring together innovative scientists, professors, research scholars, students, and industrial experts in the field of Computing and Communication to a common forum. The primary goal of the conference is to promote the exchange of innovative scientific information between researchers, developers, engineers, students, and practitioners. Another goal is to promote the transformation of fundamental research into institutional and industrialized research and to convert applied exploration into the real-time application. Overall, the conference will provide the researchers and attendees with prospects for national and international collaboration and networking among universities and institutions from India and abroad for promoting research. ICICC- 2024 will be held at Shaheed Sukhdev College of Business Studies, University of Delhi, New Delhi. All the accepted papers (after double-blinded peer review) will be published as proceedings of ICICC-2024 in Springer (Proposed).
+                    <p>International Conference on Innovative Computing and Communication (ICICC 2024) is organized to bring together innovative scientists, professors, research scholars, students, and industrial experts in the field of Computing and Communication to a common forum. The primary goal of the conference is to promote the exchange of innovative scientific information between researchers, developers, engineers, students, and practitioners. Another goal is to promote the transformation of fundamental research into institutional and industrialized research and to convert applied exploration into the real-time application. Overall, the conference will provide the researchers and attendees with prospects for national and international collaboration and networking among universities and institutions from India and abroad for promoting research. ICICC- 2024 will be held at Shaheed Sukhdev College of Business Studies, University of Delhi, New Delhi. All the accepted papers (after double-blinded peer review) will be published as proceedings of ICICC-2024 in Springer (Accepted).
                     </p>
                     <p>Paper Submission Link :
-                    {/* <a href="https://easychair.org/conferences/?conf=icicc2023"> */}
-                            {/* Easychair Submission</a> */}
+                    <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICICC2024">
+                            Paper Submission</a>
                     </p>
 
 {/* 
