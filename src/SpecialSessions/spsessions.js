@@ -22,14 +22,14 @@ const spdata = [
         ],
         spname: "SS 002.pdf"
     },
-    // {
-    //     anchor: require("./SS-003.pdf"),
-    //     title: "SS_03: Recent Advancement in Integration of Renewable Energy to the Grids: Techniques, Challenges, Applications",
-    //     organisers: [
-    //         "Abhishek Vishnoi, Kanpur, India", "Vikas Verma, Delhi, India"
-    //     ],
-    //     spname: "SS 003.pdf"
-    // },
+    {
+        anchor: require("./SS-003.pdf"),
+        title: "SS_03: Massive IoT Connectivity for Large-Scale Mobile Communications",
+        organisers: [
+            "Dr. A. Suresh,Associate Professor, Department of Networking and Communications,School of Computing, SRM Institute of Science and Technology, Chennai, Tamil Nadu, India"
+        ],
+        spname: "SS 003.pdf"
+    },
     // {
     //     anchor: require("./SS-004.pdf"),
     //     title: "SS_04: AIoT for Images: Application, Challenges and Future Scope",
