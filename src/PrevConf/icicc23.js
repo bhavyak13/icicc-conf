@@ -10,13 +10,13 @@ const Icicc23=()=>{
     },
     {
         title:"Volume 2",
-        anchor:require("https://link.springer.com/book/9789819940721"),
+        anchor:"https://link.springer.com/book/9789819940721",
         val:"https://link.springer.com/book/9789819940721"
 
     },
     {
         title:"Volume 3",
-        anchor:require("https://link.springer.com/book/9789819930098"),
+        anchor:"https://link.springer.com/book/9789819930098",
         val:"https://link.springer.com/book/9789819930098"
     }
     ]
