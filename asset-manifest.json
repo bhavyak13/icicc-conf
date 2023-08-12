@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d1d4f0c1.css",
-    "main.js": "/static/js/main.70840425.js",
+    "main.js": "/static/js/main.93d934b4.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -25,6 +25,7 @@
     "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
     "static/media/SS-001.pdf": "/static/media/SS-001.8120271ec06d2d874b58.pdf",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
+    "static/media/SS-004.pdf": "/static/media/SS-004.0eecc2009d86d92d30bd.pdf",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
     "static/media/1.jpg": "/static/media/1.1b860a84c252c6ff29d5.jpg",
@@ -95,11 +96,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d1d4f0c1.css.map": "/static/css/main.d1d4f0c1.css.map",
-    "main.70840425.js.map": "/static/js/main.70840425.js.map",
+    "main.93d934b4.js.map": "/static/js/main.93d934b4.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d4f0c1.css",
-    "static/js/main.70840425.js"
+    "static/js/main.93d934b4.js"
   ]
 }
