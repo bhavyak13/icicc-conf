@@ -30,14 +30,16 @@ const spdata = [
         ],
         spname: "SS 003.pdf"
     },
-    // {
-    //     anchor: require("./SS-004.pdf"),
-    //     title: "SS_04: AIoT for Images: Application, Challenges and Future Scope",
-    //     organisers: [
-    //         "Dr. Pooja Singh, India", "Dr. Usha Chauhan, India"
-    //     ],
-    //     spname: "SS 004.pdf"
-    // }, {
+    {
+        anchor: require("./SS-004.pdf"),
+        title: "SS_04: Emerging Intelligent Computing Techniques and their Applications (EICTA)",
+        organisers: [
+            "Dr. Nitish Pathak Associate Professor,Bhagwan Parshuram Institute of Technology (BPIT), Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India",
+            "Dr. Neelam Sharma Assistant Professor, Maharaja Agrasen Institute of Technology (MAIT), Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India"
+        ],
+        spname: "SS 004.pdf"
+    },
+    //  {
     //     anchor: require("./SS-005.pdf"),
     //     title: "SS_05: Artificial Intelligence and Allied Domain – A Key to the Emerging Technology",
     //     organisers: [

@@ -85,6 +85,9 @@ const SteerCom=()=>{
             {
             "MemName":"Dr. Umesh Gupta",
             "InstName":"(Bennett University, Greater Noida)"
+            },{
+                "MemName":"Dr. Nitish Pathak",
+                "InstName":"(Bhagwan Parshuram Institute of Technology, New Delhi, India)"
             }
         ]
     },  {
