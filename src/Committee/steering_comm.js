@@ -88,6 +88,10 @@ const SteerCom=()=>{
             },{
                 "MemName":"Dr. Nitish Pathak",
                 "InstName":"(Bhagwan Parshuram Institute of Technology, New Delhi, India)"
+            },
+            {
+                "MemName":"Ahmed J. Obaid",
+                "InstName":"(University of Kufa, Iraq)"
             }
         ]
     },  {
