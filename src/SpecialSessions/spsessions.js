@@ -39,14 +39,15 @@ const spdata = [
         ],
         spname: "SS 004.pdf"
     },
-    //  {
-    //     anchor: require("./SS-005.pdf"),
-    //     title: "SS_05: Artificial Intelligence and Allied Domain – A Key to the Emerging Technology",
-    //     organisers: [
-    //         "Dr. Uzzal Sharma, India",
-    //     ],
-    //     spname: "SS 005.pdf"
-    // }, {
+     {
+        anchor: require("./SS-005.pdf"),
+        title: "SS_05: Research Trends in Data Science, IoT and Computational Intelligence in 6G Communications",
+        organisers: [
+            "1.	Dr. Rajendra Kumar, Department of Computer Science & Engineering, Sharda University, India",
+        ],
+        spname: "SS 005.pdf"
+    }, 
+    // {
     //     anchor: require("./SS-006.pdf"),
     //     title: "SS_06: Emerging Trends, Issues, and Challenges in Artificial Intelligence, Internet of Things and Cloud Computing",
     //     organisers: [
