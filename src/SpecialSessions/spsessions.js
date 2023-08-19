@@ -47,14 +47,15 @@ const spdata = [
         ],
         spname: "SS 005.pdf"
     }, 
+    {
+        anchor: require("./SS-006.pdf"),
+        title: "SS_06: Innovative Research Trends in Business Intelligence and Analytics",
+        organisers: [
+            "Dr. Abha Kiran Rajpoot, Department of CSE(AI&ML), KIET Group of Institutions, Ghaziabad, India",
+        ],
+        spname: "SS 006.pdf"
+    }, 
     // {
-    //     anchor: require("./SS-006.pdf"),
-    //     title: "SS_06: Emerging Trends, Issues, and Challenges in Artificial Intelligence, Internet of Things and Cloud Computing",
-    //     organisers: [
-    //         "Dr.S.Balakrishnan, Coimbatore, India",
-    //     ],
-    //     spname: "SS 006.pdf"
-    // }, {
     //     anchor: require("./SS-007.pdf"),
     //     title: "SS_07: Emerging Trends, Challenges and Applications in Data Intelligence and Networking",
     //     organisers: [
