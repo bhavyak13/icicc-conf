@@ -43,7 +43,8 @@ const spdata = [
         anchor: require("./SS-005.pdf"),
         title: "SS_05: Research Trends in Data Science, IoT and Computational Intelligence in 6G Communications",
         organisers: [
-            "1.	Dr. Rajendra Kumar, Department of Computer Science & Engineering, Sharda University, India",
+            "Dr. Rajendra Kumar, Department of Computer Science & Engineering, Sharda University, India",
+            "Dr. Shruti Aggarwal, Department of Computer Science and Engineering, Thapar University, Patiala, India"
         ],
         spname: "SS 005.pdf"
     }, 
@@ -55,14 +56,17 @@ const spdata = [
         ],
         spname: "SS 006.pdf"
     }, 
+    {
+        anchor: require("./SS-007.pdf"),
+        title: "SS_07: Artificial Intelligence for Sustainable Computing and Business Practices",
+        organisers: [
+            "Dr. Arti Jain, Jaypee Institute of Information Technology, Noida, Uttar Pradesh, India",
+            "Prof. Divakar Yadav, School of Computer and Information Sciences, IGNOU, New Delhi, India",
+            "Prof. Santoshi Sengupta, Graphic Era Hill University, Bhimtal, Uttarakhand, India"
+        ],
+        spname: "SS 007.pdf"
+    }, 
     // {
-    //     anchor: require("./SS-007.pdf"),
-    //     title: "SS_07: Emerging Trends, Challenges and Applications in Data Intelligence and Networking",
-    //     organisers: [
-    //         "Dr. Imran Khan, Kanpur, India", "Dr Asif Khan, Lucknow, India", "Dr. Ahmad Neyaz Khan, Lucknow, India"
-    //     ],
-    //     spname: "SS 007.pdf"
-    // }, {
     //     anchor: require("./SS-008.pdf"),
     //     title: "SS_08: Advancements in Wireless Communication Systems",
     //     organisers: [
