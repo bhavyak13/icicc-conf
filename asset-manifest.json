@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d1d4f0c1.css",
-    "main.js": "/static/js/main.f8fa03a8.js",
+    "main.js": "/static/js/main.7576c541.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
@@ -42,6 +42,7 @@
     "static/media/11.jpeg": "/static/media/11.51ea402e7a5ea413334d.jpeg",
     "static/media/13.jpeg": "/static/media/13.973c90e54d11974e2a90.jpeg",
     "static/media/10.jpeg": "/static/media/10.f08424998d89826fb5b3.jpeg",
+    "static/media/award-2023.pdf": "/static/media/award-2023.de8ce1ed775011fb051b.pdf",
     "static/media/22.jpeg": "/static/media/22.e8912342a1835f017220.jpeg",
     "static/media/8.jpeg": "/static/media/8.5a48266d4b02381f89d7.jpeg",
     "static/media/18.jpeg": "/static/media/18.8095bedb323ff7266b57.jpeg",
@@ -101,11 +102,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d1d4f0c1.css.map": "/static/css/main.d1d4f0c1.css.map",
-    "main.f8fa03a8.js.map": "/static/js/main.f8fa03a8.js.map",
+    "main.7576c541.js.map": "/static/js/main.7576c541.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d4f0c1.css",
-    "static/js/main.f8fa03a8.js"
+    "static/js/main.7576c541.js"
   ]
 }
