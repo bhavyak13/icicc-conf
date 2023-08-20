@@ -66,28 +66,35 @@ const spdata = [
         ],
         spname: "SS 007.pdf"
     }, 
+    {
+        anchor: require("./SS-008.pdf"),
+        title: "SS_08: Multi-Objective Optimization: Advancements and Future Prospects",
+        organisers: [
+            "Dr. Aditya Gupta, Manipal University Jaipur, India",
+            "Dr. Vibha Jain, Manipal University Jaipur, India",
+            "Dr. Gunjan, National Institute of Technology, Delhi, India"
+        ],
+        spname: "SS 008.pdf"
+    }, {
+        anchor: require("./SS-009.pdf"),
+        title: "SS_09: Contemporary Innovations in Data Sciences, Internet of Things (IoT) and Wireless Communication",
+        organisers: [
+            "Dr. Gurpreet Singh, Punjab Institute of Technology, Rajpura (MRSPTU, Bathinda), Punjab",
+            "Dr. Amanpreet Kaur, CUIET, Chitkara University, Rajpura, Punjab",
+            "Dr. Aashdeep Singh, Punjab Institute of Technology, Rajpura (MRSPTU, Bathinda), Punjab",
+            "Dr. Rohan Gupta, Chandigarh University, Gharaun, Mohali, Punjab"
+        ],
+        spname: "SS 009.pdf"
+    }, 
     // {
-    //     anchor: require("./SS-008.pdf"),
-    //     title: "SS_08: Advancements in Wireless Communication Systems",
-    //     organisers: [
-    //         "Ravi Shankar, Telangana, India", "Usha Desai, Telangana, India", "Sumit Gupta, Telangana, India", "S. N. Panda, Punjab, India"
-    //     ],
-    //     spname: "SS 008.pdf"
-    // }, {
-    //     anchor: require("./SS-009.pdf"),
-    //     title: "SS_09: Blockchain-based Networks and their Applications",
-    //     organisers: [
-    //         "Dr. Anuj Kr. Singh, Roorkee, India", "Dr. Ankit Garg, Roorkee, India"
-    //     ],
-    //     spname: "SS 009.pdf"
-    // }, {
     //     anchor: require("./SS-010.pdf"),
     //     title: "SS_10: Recent Advances in Natural Language Processing and Computer Vision Techniques",
     //     organisers: [
     //         "Dr. Mohd Zeeshan Ansari, India", "Dr. Faiyaz Ahmad, India"
     //     ],
     //     spname: "SS 010.pdf"
-    // }, {
+    // }, 
+    // {
     //     anchor: require("./SS-011.pdf"),
     //     title: "SS_11: Emerging trends in Computational Intelligence to solve Real-World Problems",
     //     organisers: [
