@@ -88,7 +88,7 @@ const spdata = [
     }, 
     {
         anchor: require("./SS-010.pdf"),
-        title: "SS_10: Recent Advances in Natural Language Processing and Computer Vision Techniques",
+        title: "SS_10:Recent Advances in Intelligent Systems and Communication & Machine Learning",
         organisers: [
             "Dr. Vikash Yadav, Government Polytechnic Bighapur Unnao, Uttar Pradesh, India, vikas.yadav.cs@gmail.com",
             "Dr. Chuan-Ming Liu, National Taipei University of Technology (NTUT),Taipei,Taiwan",
