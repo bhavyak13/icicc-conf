@@ -53,6 +53,8 @@ const spdata = [
         title: "SS_06: Innovative Research Trends in Business Intelligence and Analytics",
         organisers: [
             "Dr. Abha Kiran Rajpoot, Department of CSE(AI&ML), KIET Group of Institutions, Ghaziabad, India",
+            "Dr. Gaurav Agrawal, Department of CSE(AI), KIET Group of Institutions, Ghaziabad, India",
+            "Mr. Anurag Gupta, Department of CSE(AI), KIET Group of Institutions, Ghaziabad, India"
         ],
         spname: "SS 006.pdf"
     }, 
@@ -96,14 +98,15 @@ const spdata = [
         ],
         spname: "SS 010.pdf"
     }, 
-    // {
-    //     anchor: require("./SS-011.pdf"),
-    //     title: "SS_11: Emerging trends in Computational Intelligence to solve Real-World Problems",
-    //     organisers: [
-    //         "Dr.Archana Purwar, Noida, India", "Dr Indu Chawla, Noida, India"
-    //     ],
-    //     spname: "SS 011.pdf"
-    // }, 
+    {
+        anchor: require("./SS-011.pdf"),
+        title: "SS_11: Intelligent Applications and Contemporary Business Prospects for Autonomous Vehicles",
+        organisers: [
+            "Dr Suganthi Evangeline, Assistant Professor (Sl. Gr), Consultant in Embedded and IoT Research,Department of Electronics and Communication Engineering, Sri Eshwar College of Engineering, Coimbatore, India",
+            "Dr Emmanuel Joy, Assistant Professor, School of Computer Science and Technology,Karunya Institute of Technology and Sciences, Coimbatore, India"
+        ],
+        spname: "SS 011.pdf"
+    }, 
     // {
     //     anchor: require("./SS-012.pdf"),
     //     title: "SS_12: Paradigms of Data Analytics, AI, and Sustainable Development",
