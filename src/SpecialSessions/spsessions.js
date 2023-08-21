@@ -86,14 +86,16 @@ const spdata = [
         ],
         spname: "SS 009.pdf"
     }, 
-    // {
-    //     anchor: require("./SS-010.pdf"),
-    //     title: "SS_10: Recent Advances in Natural Language Processing and Computer Vision Techniques",
-    //     organisers: [
-    //         "Dr. Mohd Zeeshan Ansari, India", "Dr. Faiyaz Ahmad, India"
-    //     ],
-    //     spname: "SS 010.pdf"
-    // }, 
+    {
+        anchor: require("./SS-010.pdf"),
+        title: "SS_10: Recent Advances in Natural Language Processing and Computer Vision Techniques",
+        organisers: [
+            "Dr. Vikash Yadav, Government Polytechnic Bighapur Unnao, Uttar Pradesh, India, vikas.yadav.cs@gmail.com",
+            "Dr. Chuan-Ming Liu, National Taipei University of Technology (NTUT),Taipei,Taiwan",
+            "Dr. Ajimuse, Muyiwa Sunday, Federal university Oye Ekiti, Nigeria"
+        ],
+        spname: "SS 010.pdf"
+    }, 
     // {
     //     anchor: require("./SS-011.pdf"),
     //     title: "SS_11: Emerging trends in Computational Intelligence to solve Real-World Problems",
@@ -101,7 +103,8 @@ const spdata = [
     //         "Dr.Archana Purwar, Noida, India", "Dr Indu Chawla, Noida, India"
     //     ],
     //     spname: "SS 011.pdf"
-    // }, {
+    // }, 
+    // {
     //     anchor: require("./SS-012.pdf"),
     //     title: "SS_12: Paradigms of Data Analytics, AI, and Sustainable Development",
     //     organisers: [
