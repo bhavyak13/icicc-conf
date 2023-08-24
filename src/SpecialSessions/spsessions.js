@@ -107,21 +107,22 @@ const spdata = [
         ],
         spname: "SS 011.pdf"
     }, 
+    {
+        anchor: require("./SS-012.pdf"),
+        title: "SS_12: Paradigms of Data Analytics, AI, and Sustainable Development",
+        organisers: [
+            "Hamzah M. Marhoon, Al-Nahrain University, College of Information Engineering, Republic of Iraq"
+        ],
+        spname: "SS 012.pdf"
+    }, {
+        anchor: require("./SS-013.pdf"),
+        title: "SS_13: Antennas and Embedded Systems",
+        organisers: [
+            "Dr. Umesh Gupta, Associate Professor, SR University, Warangal, India",
+        ],
+        spname: "SS 013.pdf"
+    }, 
     // {
-    //     anchor: require("./SS-012.pdf"),
-    //     title: "SS_12: Paradigms of Data Analytics, AI, and Sustainable Development",
-    //     organisers: [
-    //         "Dr. Arti Jain, Noida, India", "Dr. Dileep Kumar Yadav, Greater Noida, India"
-    //     ],
-    //     spname: "SS 012.pdf"
-    // }, {
-    //     anchor: require("./SS-013.pdf"),
-    //     title: "SS_13: Intelligent Vision Systems and Edge Computing for Image Sensor Communications",
-    //     organisers: [
-    //         "Dr. A. Suresh, Chennai, India",
-    //     ],
-    //     spname: "SS 013.pdf"
-    // }, {
     //     anchor: require("./SS-014.pdf"),
     //     title: "SS_14: Intelligent Vision and Computing",
     //     organisers: [
