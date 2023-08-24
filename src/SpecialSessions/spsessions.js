@@ -109,14 +109,14 @@ const spdata = [
     }, 
     {
         anchor: require("./SS-012.pdf"),
-        title: "SS_12: Paradigms of Data Analytics, AI, and Sustainable Development",
+        title: "SS_12: Antennas and Embedded Systems",
         organisers: [
             "Hamzah M. Marhoon, Al-Nahrain University, College of Information Engineering, Republic of Iraq"
         ],
         spname: "SS 012.pdf"
     }, {
         anchor: require("./SS-013.pdf"),
-        title: "SS_13: Antennas and Embedded Systems",
+        title: "SS_13: AI and Machine Learning for Blockchain, Social network analysis, and Computational Intelligence Optimization",
         organisers: [
             "Dr. Umesh Gupta, Associate Professor, SR University, Warangal, India",
         ],
