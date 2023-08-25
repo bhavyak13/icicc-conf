@@ -122,14 +122,15 @@ const spdata = [
         ],
         spname: "SS 013.pdf"
     }, 
-    // {
-    //     anchor: require("./SS-014.pdf"),
-    //     title: "SS_14: Intelligent Vision and Computing",
-    //     organisers: [
-    //         "Dr. Naeem Ahmad, Raipur, India", "Dr. Deepak Singh, Raipur, India"
-    //     ],
-    //     spname: "SS 014.pdf"
-    // }, {
+    {
+        anchor: require("./SS-014.pdf"),
+        title: "SS_14: Interpretable Machine Learning and Model Explainability",
+        organisers: [
+            "Dr. Uzzal Sharma, Associate Professor, Birangana Sati Sadhani Rajyik Viswavidyalaya, India"
+        ],
+        spname: "SS 014.pdf"
+    },
+    //  {
     //     anchor: require("./SS-015.pdf"),
     //     title: "SS_15: Emerging Trends in Information Technology & Biosciences",
     //     organisers: [
