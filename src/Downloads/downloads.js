@@ -71,6 +71,34 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/Workshop_Proposal_Template.docx")}
+                        target="_blank"
+                        >Workshop Proposal Template
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/INTERNATIONAL WORKSHOP -2024.docx")}
+                        target="_blank"
+                        >International Workshop - 2024
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
                         
 
                     </div>
