@@ -130,14 +130,16 @@ const spdata = [
         ],
         spname: "SS 014.pdf"
     },
-    //  {
-    //     anchor: require("./SS-015.pdf"),
-    //     title: "SS_15: Emerging Trends in Information Technology & Biosciences",
-    //     organisers: [
-    //         "Dr. Sushma Jaiswal, Bilaspur, India",
-    //     ],
-    //     spname: "SS 015.pdf"
-    // }, {
+     {
+        anchor: require("./SS-015.pdf"),
+        title: "SS_15: Data Driven Intelligence for Future Generation Computing Systems",
+        organisers: [
+            "Dr. Akash Sinha, School of Computer Science and Engineering,            Vellore Institute of Technology, Vellore, India",
+            "Dr. Hiteshwar Kumar Azad, School of Computer Science and Engineering,    Vellore Institute of Technology, Vellore, India",
+        ],
+        spname: "SS 015.pdf"
+    }, 
+    // {
     //     anchor: require("./SS-016.pdf"),
     //     title: "SS_16: Communication & Networking",
     //     organisers: [
