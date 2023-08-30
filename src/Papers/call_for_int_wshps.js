@@ -47,7 +47,7 @@ Organizer and Convener<br />
 
 <b>ICICC-2024</b></p>
 
-{/* <Button variant="primary" href="">Workshop Proposal Template</Button> */}
+<Button variant="primary" > <a href={require("./Workshop_Proposal_Template.docx")} style={{color:"white",textDecoration:"none"}}>Workshop Proposal Template</a></Button>
   </div>
 );
 };
