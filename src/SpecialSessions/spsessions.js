@@ -139,14 +139,17 @@ const spdata = [
         ],
         spname: "SS 015.pdf"
     }, 
-    // {
-    //     anchor: require("./SS-016.pdf"),
-    //     title: "SS_16: Communication & Networking",
-    //     organisers: [
-    //         "Anvesha Katti, India",
-    //     ],
-    //     spname: "SS 016.pdf"
-    // }, {
+    {
+        anchor: require("./SS-016.pdf"),
+        title: "SS_16: [BlockChain and Artificial Intelligence]",
+        organisers: [
+            "Dr. Anshu Khurana, Maharaja Agrasen Institute of Technology, Rohini, India",
+            "Dr. Deepika Bansal, Maharaja Agrasen Institute of Technology, Rohini, India"
+
+        ],
+        spname: "SS 016.pdf"
+    },
+    //  {
     //     anchor: require("./SS-017.pdf"),
     //     title: "SS_17: Machine Learning and deep learning applied to complex problems in computer science",
     //     organisers: [
