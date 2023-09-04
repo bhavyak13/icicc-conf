@@ -149,32 +149,35 @@ const spdata = [
         ],
         spname: "SS 016.pdf"
     },
+     {
+        anchor: require("./SS-017.pdf"),
+        title: "SS_17: Computational Optimization and AI in Civil Engineering",
+        organisers: [
+            "Prof. Dr. Gebrail BEKDAŞ, Istanbul University- Cerrahpaşa, Turkey",
+            "Prof. Dr. Sinan Melih NİGDELİ, Istanbul University- Cerrahpaşa, Turkey"
+        ],
+        spname: "SS 017.pdf"
+    }, {
+        anchor: require("./SS-018.pdf"),
+        title: "SS_18: Emerging Trends, Challenges and Applications in Data Intelligence and Biomedical Sciences",
+        organisers: [
+            "Dr. Imran Khan, Assistant Professor, Harcourt Butler Technical University (H.B.T.U.) Kanpur, Uttar Pradesh",            
+            "Dr Asif Khan, Assistant Professor, Integral University, Lucknow",            
+            "Dr. Ahmad Neyaz Khan, Assistant Professor,Integral University, Lucknow"
+        ],
+        spname: "SS 018.pdf"
+    },
+     {
+        anchor: require("./SS-019.pdf"),
+        title: "SS_19:The Future of AI: Emerging Innovative Computing Techniques and Applications",
+        organisers: [
+            "Dr. Jyoti Khurana, Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU), New-Delhi, India",
+            "Dr. Pooja Kherwa, Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU), New-Delhi, India",
+            "Mr. Akshay Singh, Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU), New-Delhi, India",
+        ],
+        spname: "SS 019.pdf"
+    },
     //  {
-    //     anchor: require("./SS-017.pdf"),
-    //     title: "SS_17: Machine Learning and deep learning applied to complex problems in computer science",
-    //     organisers: [
-    //         "Dr. Rachna Jain, New Delhi, India", "Dr. Preeti Nagrath, New Delhi, India"
-    //     ],
-    //     spname: "SS 017.pdf"
-    // }, {
-    //     anchor: require("./SS-018.pdf"),
-    //     title: "SS_18: AI & ML based Image processing applications",
-    //     organisers: [
-    //         "Dr. Ritu Gupta, New Delhi, India", "Dr. Abhilasha Singh, Delhi, India"
-    //     ],
-    //     spname: "SS 018.pdf"
-    // }, {
-    //     anchor: require("./SS-019.pdf"),
-    //     title: "SS_19: Intelligent System with Wireless Communication, Big Data Analytics and Quantum Computing.",
-    //     organisers: [
-    //         "Dr. Gurpreet Singh, Punjab, India",
-    //         "Dr. Amanpreet Kaur, Punjab, India",
-    //         "Dr. Aashdeep Singh, Punjab, India",
-    //         "Dr. Gurbakash Phonsa, Punjab, India",
-    //         "Dr. Sudhanshu Prakash Tiwari, Punjab, India",
-    //     ],
-    //     spname: "SS 019.pdf"
-    // }, {
     //     anchor: require("./SS-020.pdf"),
     //     title: "SS_20: Recent Advances in Intelligent Systems and Communication & Machine Learning",
     //     organisers: [
