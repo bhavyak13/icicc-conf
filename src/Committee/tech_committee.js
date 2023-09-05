@@ -219,6 +219,7 @@ const list_of_tec=["Prof (Dr.) Vincenzo Piuri :  University of Milan Italy.",
 "Dr. Gaurav Agarwal: Assistant Professor, Department of Computer Science & Engineering, KIET Group of Institutions, Ghaziabad, India",
 "Prof. (Dr.) Sachi Gupta: Professor & Head, Department of Information Technology, IMS Engineering college, Ghaziabad, India",
 "Belfin Robinson : Postdoctoral Fellow, School of Medicine, BRIC, University of North Carolina",
+"Dr. S.Vimal : Associate Professor,Department of Artificial Intelligence and Data Science,Ramco Institute of Technology,Tamilnadu,India"
 ];
 
 return(
