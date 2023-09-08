@@ -32,10 +32,10 @@ const pubdata = [
         anchor: require("./Images/jmm_cover.jpg"),
         title: "Journal of Mobile Multimedia(River)(Scopus and ESCI)",
     },   
-    // {
-    //     anchor: require("./Images/4.jpg"),
-    //     title: "Computer & Electrical Engineering Journal (Elsevier) SCI IF 4.15",
-    // },   
+    {
+        anchor: require("./Images/scpe.png"),
+        title: "SCPE( ESCI, SCOPUS)",
+    },   
     // {
     //     anchor: require("./Images/5.jpeg"),
     //     title: "Expert Systems Journal (Wiley) SCI IF 2.58",
