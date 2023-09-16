@@ -17,6 +17,34 @@ const Downloads = () => {
                     <div style={
                         {width: "50vw"}
                     }>
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/ICICC2024 POSTER.pdf")}
+                        target="_blank"
+                        >ICICC-2024
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/Market_Material.pdf")}
+                        target="_blank"
+                        >Market Material
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
                         <Button className={
                             style.downloadBadges
                         } href={require("./docs/ManuscriptguidelinesforEnglishbooks.pdf")}
