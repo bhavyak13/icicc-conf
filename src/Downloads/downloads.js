@@ -31,7 +31,7 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
-                        <Button variant="primary"
+                        {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
                         }
@@ -44,7 +44,7 @@ const Downloads = () => {
                                 className={
                                     style.icon
                             }></img>
-                        </Button>
+                        </Button> */}
                         <Button className={
                             style.downloadBadges
                         } href={require("./docs/ManuscriptguidelinesforEnglishbooks.pdf")}
@@ -89,9 +89,9 @@ const Downloads = () => {
                             className={
                                 style.downloadBadges
                         }
-                        href={require("./docs/ICICC_Brochure.pdf")}
+                        href={require("./docs/Market_Material.pdf")}
                         target="_blank"
-                        >Icicc Brochure
+                        >ICICC Brochure
                             <img src={
                                     require('./docs/icon.png')
                                 }
