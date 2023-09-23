@@ -185,14 +185,16 @@ const spdata = [
         ],
         spname: "SS 020.pdf"
     },
+    {
+        anchor: require("./SS-021.pdf"),
+        title: "SS_21: SPECIAL SESSION ON BIG DATA ANALYTICS, DATA SCIENCES AND NEURAL NETWORKS",
+        organisers: [
+            "Dr. Preeti Nagrath, Bharati Vidyapeeth’s College of Engineering, New Delhi",
+            "Dr. Rachna Jain, Bhagwan Parshuram Institute of Technology, New Delhi"
+        ],
+        spname: "SS 021.pdf"
+    },
     // {
-    //     anchor: require("./SS-021.pdf"),
-    //     title: "SS_21: AI & Deep Learning based Smart Healthcare Systems and other Applications",
-    //     organisers: [
-    //         "Dr. Ritu Chauhan Associate Professor, India", "Dr. Harleen Kaur, New Delhi, India"
-    //     ],
-    //     spname: "SS 021.pdf"
-    // },{
     //     anchor: require("./SS-022.pdf"),
     //     title: "SS_22: Privacy, Secure, and Enabling Trustworthiness using Data Analytics",
     //     organisers: [
