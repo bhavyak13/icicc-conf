@@ -123,6 +123,47 @@ const Registration = () => {
                 <td> CURRENT</td>
               </tr>
             </tbody>
+      </table>
+      <p style={{fontWeight:"700",fontSize:"17px"}}>Secondary Bank Account</p>
+      <table class="table table-bordered table-hover" style={{textAlign:"left"}}>
+            <tbody>
+              <tr>
+                <td><b>ACCOUNT NAME </b></td>
+                <td>ui-educon</td>
+              </tr>
+              <tr>
+                <td><b>ACCOUNT NUMBER </b></td>
+                <td> 510909010229212</td>
+              </tr>
+              <tr>
+                <td><b>BANK </b></td>
+                <td> City Union Bank</td>
+              </tr>
+              <tr>
+                <td><b>BRANCH </b></td>
+                <td> Sector-8, Rohini Delhi </td>
+              </tr>
+              <tr>
+                <td><b> BRANCH CODE </b></td>
+                <td> 244</td>
+              </tr>
+              <tr>
+                <td><b> IFSC CODE </b></td>
+                <td> CIUB0000244 </td>
+              </tr>
+              {/* <tr>
+                <td><b> MICR </b></td>
+                <td> 600054027</td>
+              </tr>
+              <tr>
+                <td><b> SWIFT CODE </b></td>
+                <td> CIUBIN5M</td>
+              </tr>*/}
+              <tr> 
+                <td><b> ACCOUNT TYPE </b></td>
+                <td> CURRENT</td>
+              </tr>
+            </tbody>
           </table>
 </div>
 

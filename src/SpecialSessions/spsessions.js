@@ -194,14 +194,15 @@ const spdata = [
         ],
         spname: "SS 021.pdf"
     },
+    {
+        anchor: require("./SS-022.pdf"),
+        title: "SS_22: Harvesting the Future: Advancements in innovative computing and communication for Agricultural Applications",
+        organisers: [
+            "Stefano Rinaldi, University of Brescia – Department of Information Engineering, Italy", 
+        ],
+        spname: "SS 022.pdf"
+    },
     // {
-    //     anchor: require("./SS-022.pdf"),
-    //     title: "SS_22: Privacy, Secure, and Enabling Trustworthiness using Data Analytics",
-    //     organisers: [
-    //         "Dr. Mohammad Zunnun Khan, Kingdom of Saudi Arabia", 
-    //     ],
-    //     spname: "SS 022.pdf"
-    // },{
     //     anchor: require("./SS-023.pdf"),
     //     title: "SS_23: Innovative Techniques and Emerging trends in the Healthcare industry using new-age Technologies",
     //     organisers: [
