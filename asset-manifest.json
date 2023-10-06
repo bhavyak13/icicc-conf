@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d1d4f0c1.css",
-    "main.js": "/static/js/main.8e36af0f.js",
+    "main.js": "/static/js/main.2bd4a33e.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -34,6 +34,7 @@
     "static/media/SS-022.pdf": "/static/media/SS-022.3ecfda078decd8c68198.pdf",
     "static/media/SS-021.pdf": "/static/media/SS-021.cd991b2f856562725bba.pdf",
     "static/media/SS-017.pdf": "/static/media/SS-017.731b0a4299e2112b0211.pdf",
+    "static/media/SS-023.pdf": "/static/media/SS-023.e79c75a128dae240f688.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
     "static/media/SS-020.pdf": "/static/media/SS-020.92b0ed0e8f5580213eb5.pdf",
     "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
@@ -119,11 +120,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d1d4f0c1.css.map": "/static/css/main.d1d4f0c1.css.map",
-    "main.8e36af0f.js.map": "/static/js/main.8e36af0f.js.map",
+    "main.2bd4a33e.js.map": "/static/js/main.2bd4a33e.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d4f0c1.css",
-    "static/js/main.8e36af0f.js"
+    "static/js/main.2bd4a33e.js"
   ]
 }
