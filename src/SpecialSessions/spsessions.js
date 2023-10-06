@@ -202,23 +202,24 @@ const spdata = [
         ],
         spname: "SS 022.pdf"
     },
+    {
+        anchor: require("./SS-023.pdf"),
+        title: "SS_23: Computational Optimization and AI in Civil Engineering",
+        organisers: [
+            "Prof. Dr. Gebrail BEKDAŞ, Istanbul University- Cerrahpaşa, Turkey", 
+            "Prof. Dr. Sinan Melih NİGDELİ, Istanbul University- Cerrahpaşa, Turkey"
+        ],
+        spname: "SS 023.pdf"
+    },
     // {
-    //     anchor: require("./SS-023.pdf"),
-    //     title: "SS_23: Innovative Techniques and Emerging trends in the Healthcare industry using new-age Technologies",
-    //     organisers: [
-    //         "Dr. Rajat Bhardwaj, Bangalore, India", 
-    //         "Dr. Chandramma. R., Bangalore, India",
-    //         "Dr Amanpreet Kaur, Punjab, India"
-    //     ],
-    //     spname: "SS 023.pdf"
-    // },{
     //     anchor: require("./SS-024.pdf"),
     //     title: "SS_24: Application of AI and Deep learning in the diagnosis of diseases",
     //     organisers: [
     //         "Dr. Bhagyashree S R, India",             
     //     ],
     //     spname: "SS 024.pdf"
-    // },{
+    // },
+    // {
     //     anchor: require("./SS-025.pdf"),
     //     title: "SS_25:  Role of ML and DL Techniques in Healthcare: Security, Privacy & Open Challenges ",
     //     organisers: [
