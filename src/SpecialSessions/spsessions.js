@@ -204,10 +204,12 @@ const spdata = [
     },
     {
         anchor: require("./SS-023.pdf"),
-        title: "SS_23: Computational Optimization and AI in Civil Engineering",
+        title: "SS_23: Computer Networking, Security & Data Analytics",
         organisers: [
-            "Prof. Dr. Gebrail BEKDAŞ, Istanbul University- Cerrahpaşa, Turkey", 
-            "Prof. Dr. Sinan Melih NİGDELİ, Istanbul University- Cerrahpaşa, Turkey"
+            "Prof Bal Virdee, Senior Professor & Head of Communications Technology Research Centre Chair & Executive Member of IET Technical Professional Network Chair of Judges - The IET Excellence & Innovation Awards,2023 London Metropolitan University, UK",
+            "Mrs Richa Sharma, Senior Lecturer in Computer Networking,London Metropolitan University, UK",
+            "Dr Sandra Fernando,Senior Lecturer in Computing,London Metropolitan University, UK"
+            
         ],
         spname: "SS 023.pdf"
     },
