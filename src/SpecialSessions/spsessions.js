@@ -213,14 +213,17 @@ const spdata = [
         ],
         spname: "SS 023.pdf"
     },
-    // {
-    //     anchor: require("./SS-024.pdf"),
-    //     title: "SS_24: Application of AI and Deep learning in the diagnosis of diseases",
-    //     organisers: [
-    //         "Dr. Bhagyashree S R, India",             
-    //     ],
-    //     spname: "SS 024.pdf"
-    // },
+    {
+        anchor: require("./SS-024.pdf"),
+        title: "SS_24: System Design & ML/AI for Secure IoE in Cloud Era",
+        organisers: [
+            "Dr Manoj Sharma, Associate Professor, BVCOE ND, Afflt. GGSIPU, New Delhi, India",
+            "Dr Kanchan Sharma, Assistant Professor, IGDTUW, Delhi, India",
+            "Dr Nitin Sharma, Assistant Professor, MAIT, ND",
+            "Dr Manoj Kumar, Assistant Professor, , USAR, GGSIPU, East Delhi Campus, ND",             
+        ],
+        spname: "SS 024.pdf"
+    },
     // {
     //     anchor: require("./SS-025.pdf"),
     //     title: "SS_25:  Role of ML and DL Techniques in Healthcare: Security, Privacy & Open Challenges ",

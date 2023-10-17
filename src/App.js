@@ -26,6 +26,7 @@ import Icicc20 from './PrevConf/icicc20';
 import Icicc19 from './PrevConf/icicc19';
 import Icicc18 from './PrevConf/icicc18';
 import './App.css'
+import PosterSubmission from './Papers/postersubmission';
 
 const router = createBrowserRouter([
   {
@@ -59,6 +60,10 @@ const router = createBrowserRouter([
       {
         path: 'call_for_international_workshops',
         element: <IntWorkshops />,
+      },
+      {
+        path: 'call_for_posters',
+        element: <PosterSubmission />,
       },
       {
         path: 'publications',

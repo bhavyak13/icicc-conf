@@ -90,6 +90,7 @@ High-quality selected extended conference papers will be invited to submit for p
             <img src={require("./Images/Indexing/img07.png")} alt="logo"></img>
             <img src={require("./Images/Indexing/img08.png")} alt="logo"></img>
             <img src={require("./Images/Indexing/img09.png")} alt="logo"></img>
+            <img src={require("./Images/Indexing/img04.jpg")} alt="logo"></img>
             
         </div>
         </div>

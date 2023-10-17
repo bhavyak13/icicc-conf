@@ -86,6 +86,16 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
+                                to="call_for_posters">
+                                Call For Poster Paper Presentation
+                            </NavLink>
+                        </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
                                 to="paper_submission">
                                 Paper Submission
                             </NavLink>
