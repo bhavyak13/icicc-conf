@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d1d4f0c1.css",
-    "main.js": "/static/js/main.162846bf.js",
+    "main.js": "/static/js/main.74f5a7b0.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -36,6 +36,7 @@
     "static/media/SS-021.pdf": "/static/media/SS-021.cd991b2f856562725bba.pdf",
     "static/media/SS-017.pdf": "/static/media/SS-017.731b0a4299e2112b0211.pdf",
     "static/media/SS-023.pdf": "/static/media/SS-023.854d74dda6a3a3f61ed0.pdf",
+    "static/media/SS-024.pdf": "/static/media/SS-024.5cbfa30cf51f607a5e4f.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
     "static/media/SS-020.pdf": "/static/media/SS-020.92b0ed0e8f5580213eb5.pdf",
     "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
@@ -72,6 +73,7 @@
     "static/media/ic20-5.jpeg": "/static/media/ic20-5.bc6c58a1369ffbb04f19.jpeg",
     "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.309c1fbf8c6814e8044e.docx",
     "static/media/17.jpeg": "/static/media/17.7d40aa4f2acf0355696c.jpeg",
+    "static/media/img04.jpg": "/static/media/img04.853a9c55574bc91a3d58.jpg",
     "static/media/ic20-6.jpeg": "/static/media/ic20-6.20b3167040231c9f69e7.jpeg",
     "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.a85e2bed14ba54b41e91.docx",
     "static/media/img08.png": "/static/media/img08.fb333a86d66648ffa9ed.png",
@@ -121,11 +123,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d1d4f0c1.css.map": "/static/css/main.d1d4f0c1.css.map",
-    "main.162846bf.js.map": "/static/js/main.162846bf.js.map",
+    "main.74f5a7b0.js.map": "/static/js/main.74f5a7b0.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d4f0c1.css",
-    "static/js/main.162846bf.js"
+    "static/js/main.74f5a7b0.js"
   ]
 }
