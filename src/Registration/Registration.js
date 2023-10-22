@@ -228,7 +228,60 @@ const Registration = () => {
             </tr>
 
           </tbody>
-        </table>
+</table>
+
+
+<p style={{fontWeight:"700",fontSize:"17px"}}>Registration Fee For ICICC 2024 (Elsevier)</p>
+<table class="table table-bordered table-hover">
+          <thead>
+            <tr>
+              <th><b>Category</b></th>
+              <th><b>Early Registration (before 05th January, 2024) </b></th>
+              <th><b>Late Registration (after 05th January, 2024) </b></th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>Research Scholar/Student</td>
+              <td>INR 5000</td>
+              <td>INR 5500</td>
+
+            </tr>
+            <tr>
+              <td>Academician</td>
+              <td>INR 5500</td>
+              <td>INR 6000</td>
+
+            </tr>
+            <tr>
+              <td>Industrial Participants</td>
+              <td>INR 6000</td>
+              <td>INR 6500</td>
+
+            </tr>
+            <tr>
+              <td>Foreigner Research Scholar/Student (Outside India)</td>
+              <td>USD 120</td>
+              <td>USD 150</td>
+
+            </tr>
+            <tr>
+              <td>Foreigner Academician (Outside India)</td>
+              <td>USD 150</td>
+              <td>USD 200</td>
+
+            </tr>
+
+            <tr>
+              <td>Foreigner Industrial Participant (Outside India)</td>
+              <td>USD 200</td>
+              <td>USD 250</td>
+
+            </tr>
+
+          </tbody>
+</table>
 		<b>Special Discount of 10% for Universal Inovator (UI) Member</b>
     </div>
     )
