@@ -69,6 +69,10 @@ const SteerCom=()=>{
         List:[
             {"MemName":"Moolchand Sharma",
             "InstName":"(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)"},
+            {
+                "MemName":"Dr. Simar Preet Singh",
+                "InstName":"(School of Computer Science Engineering and Technology (SCSET), Bennett University, Greater Noida, Uttar Pradesh, India)"
+            }
          
         ]
     },  {

@@ -231,7 +231,7 @@ const Registration = () => {
 </table>
 
 
-<p style={{fontWeight:"700",fontSize:"17px"}}>Registration Fee For ICICC 2024 (Elsevier)</p>
+<p style={{fontWeight:"700",fontSize:"17px"}}>Registration Fee For ICICC 2024 (Poster Paper Presentation)</p>
 <table class="table table-bordered table-hover">
           <thead>
             <tr>

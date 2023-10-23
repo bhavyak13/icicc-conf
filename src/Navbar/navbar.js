@@ -16,7 +16,7 @@ function CommonNavbar() {
                     () => setExpanded(expanded ? false : "expanded")
                 }/>
             <Navbar.Collapse id="basic-navbar-nav">
-                <Nav className="me-auto"
+                <Nav  className="me-auto"
                     style={
                         {
                             display: 'flex',
@@ -80,16 +80,7 @@ function CommonNavbar() {
                                 Call for Papers
                             </NavLink>
                         </NavDropdown.Item>
-                        <NavDropdown.Item onClick={
-                            () => setExpanded(false)
-                        }>
-                            <NavLink className={
-                                    style.links
-                                }
-                                to="call_for_posters">
-                                Call For Poster Paper Presentation
-                            </NavLink>
-                        </NavDropdown.Item>
+                        
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
                         }>
@@ -122,6 +113,19 @@ function CommonNavbar() {
                             </NavLink>
                         </NavDropdown.Item>
                     </NavDropdown>
+                    <NavLink className={
+                            style.links
+                        }
+                      
+                        onClick={
+                            () => setExpanded(false)
+                        }
+                        to="call_for_posters">
+                                
+                        <p className={
+                            style.navLink
+                        }>Poster Paper Presentation</p>
+                    </NavLink>
 
                     <NavLink className={
                             style.links
