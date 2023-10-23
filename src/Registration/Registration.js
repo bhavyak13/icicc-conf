@@ -62,6 +62,7 @@ const Registration = () => {
 
   const url1="https://pages.razorpay.com/pl_IOTJy0iZ8kxq43/view";
   const url2="https://www.paypal.com/paypalme/ICICCConference?locale.x=en_GB";
+  const url3="https://buy.stripe.com/fZeaFtdH9c9QeFG9AH";
 
     return (
     <div className={style.container}>		  
@@ -170,7 +171,8 @@ const Registration = () => {
 <hr />
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via Paypal</p>
 <p>For Payment from International Authors/Attendees, use the following paypal link with additional 5% service charges applies</p>
-    	<button  className={style.paymentBtn}><a href={url2} target="_blank" className={style.links} style={{color:"white"}}>Pay via Paypal</a></button>
+    	<button  className={style.paymentBtn}><a href={url2} target="_blank" className={style.links} style={{color:"white"}}>Pay via Paypal</a></button><br /><span>OR</span><br />
+      <button  className={style.paymentBtn}><a href={url3} target="_blank" className={style.links} style={{color:"white"}}>Pay via Stripe</a></button>
 <hr />
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via RazorPay</p>
 <p>For payment from Indian Authors/Attendees, use the following payment link</p>
