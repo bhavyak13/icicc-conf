@@ -85,7 +85,7 @@ const Registration = () => {
 		<div className={style.paymentCont}>
 		<p style={{fontWeight:"700",fontSize:"17px"}}>Pay via Bank Transfer</p><br></br>
 		<div style={{width:"70vw",margin:"auto"}}>
-		<table class="table table-bordered table-hover" style={{textAlign:"left"}}>
+		{/* <table class="table table-bordered table-hover" style={{textAlign:"left"}}>
             <tbody>
               <tr>
                 <td><b>ACCOUNT NAME </b></td>
@@ -125,7 +125,7 @@ const Registration = () => {
               </tr>
             </tbody>
       </table>
-      <p style={{fontWeight:"700",fontSize:"17px"}}>Secondary Bank Account</p>
+      <p style={{fontWeight:"700",fontSize:"17px"}}>Secondary Bank Account</p> */}
       <table class="table table-bordered table-hover" style={{textAlign:"left"}}>
             <tbody>
               <tr>
