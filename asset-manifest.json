@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d1d4f0c1.css",
-    "main.js": "/static/js/main.b1c58f8c.js",
+    "main.js": "/static/js/main.196f4829.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -28,6 +28,7 @@
     "static/media/ic18-4.png": "/static/media/ic18-4.c097d3d1a865fa799795.png",
     "static/media/SS-009.pdf": "/static/media/SS-009.080044af20d2933be5a8.pdf",
     "static/media/award-2022.pdf": "/static/media/award-2022.7fb75f6677a09b06012a.pdf",
+    "static/media/Spl_Session_ICICC_Delhi.pdf": "/static/media/Spl_Session_ICICC_Delhi.11aafe553376c1a0be82.pdf",
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
     "static/media/SS-002.pdf": "/static/media/SS-002.66da086f7ac618dacc7a.pdf",
     "static/media/SS-008.pdf": "/static/media/SS-008.9c8a06f891f4552b630d.pdf",
@@ -123,11 +124,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d1d4f0c1.css.map": "/static/css/main.d1d4f0c1.css.map",
-    "main.b1c58f8c.js.map": "/static/js/main.b1c58f8c.js.map",
+    "main.196f4829.js.map": "/static/js/main.196f4829.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d4f0c1.css",
-    "static/js/main.b1c58f8c.js"
+    "static/js/main.196f4829.js"
   ]
 }
