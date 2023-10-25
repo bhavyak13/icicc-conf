@@ -227,10 +227,10 @@ const spdata = [
     
 {
         anchor: require("./Spl_Session_ICICC_Delhi.pdf"),
-        title: "SS_25:  Role of ML and DL Techniques in Healthcare: Security, Privacy & Open Challenges ",
+        title: "SS_25:  Recent Trends in Computer Communication, Networking and Technology ",
         organisers: [
-            "Dr Neha Sharma, Rajpura, Punjab, India",   
-            "Dr Deepika Kumar, New Delhi, India"          
+            "Dr. Kavitha C,Prof. and Head-Department of Computer Science and Engineering, Dayananda Sagar Academy of Technology and Management,        Bangaluru, Karnataka-INDIA     ",   
+                
         ],
         spname: "SS 025.pdf"
     },
