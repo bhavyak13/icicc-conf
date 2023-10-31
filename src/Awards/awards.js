@@ -56,8 +56,8 @@ Third UI Leadership awards will be organized along with the 7th International Co
     <div className="col-md-12">		
 
 			<div className="row">
-				<h3 className="container">  </h3>				
-				<div className="col-md-12">
+							
+				<div className="col-md-4">
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}> Young Researcher Award </h5>
 						<hr />
@@ -352,6 +352,57 @@ Supervisor of the Year
 				</Alert>
 					
 				</div>
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}> Social Initiative taken by Individuals 
+ </h5>
+						
+				</Alert>
+					
+				</div>
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}> International Research Project award
+ </h5>
+						
+				</Alert>
+					
+				</div>
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}> National Research award 
+ </h5>
+						
+				</Alert>
+					
+				</div>
+				
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}>Multidisciplinary Research award
+ </h5>
+						
+				</Alert>
+					
+				</div>
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}> Multidisciplinary International Research award
+ </h5>
+						
+						
+				</Alert>
+					
+				</div>
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}> Transdisciplinary research award with International impact
+</h5>
+						
+						
+				</Alert>
+					
+				</div>
 			</div>
 
 			<br />
@@ -577,6 +628,17 @@ Supervisor of the Year
 				<div className="col-md-4">
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}>   Best Medical College of the Year (Regional / National)
+ </h5>
+						<hr />
+						<p className={style.alertCont}>
+						</p>
+				</Alert>
+					
+				</div>
+				<div className="col-md-4">
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}>Social Initiatives taken by Higher Education Institutions
+
  </h5>
 						<hr />
 						<p className={style.alertCont}>

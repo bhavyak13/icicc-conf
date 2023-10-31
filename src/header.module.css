@@ -142,6 +142,8 @@
   background-color: #d9edf7 !important;
   border-radius: 5px;
   padding: 5px;
+  min-height: 140px;
+  height: auto;
 }
 
 .alertCont {
