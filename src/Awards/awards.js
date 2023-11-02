@@ -356,7 +356,8 @@ Supervisor of the Year
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}> Social Initiative taken by Individuals 
  </h5>
-						
+						<p className={style.alertCont}> Award given to Social Initiative taken by Individuals 
+						</p>
 				</Alert>
 					
 				</div>
@@ -364,7 +365,8 @@ Supervisor of the Year
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}> International Research Project award
  </h5>
-						
+						<p className={style.alertCont}> Award given to International Research Project award.
+						</p>
 				</Alert>
 					
 				</div>
@@ -372,7 +374,8 @@ Supervisor of the Year
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}> National Research award 
  </h5>
-						
+						<p className={style.alertCont}> Award given to National Research award.
+						</p>
 				</Alert>
 					
 				</div>
@@ -381,7 +384,8 @@ Supervisor of the Year
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}>Multidisciplinary Research award
  </h5>
-						
+						<p className={style.alertCont}> Award given to Multidisciplinary Research award
+						</p>
 				</Alert>
 					
 				</div>
@@ -389,7 +393,8 @@ Supervisor of the Year
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}> Multidisciplinary International Research award
  </h5>
-						
+						<p className={style.alertCont}> Award given to Multidisciplinary International Research award
+						</p>
 						
 				</Alert>
 					
@@ -398,7 +403,8 @@ Supervisor of the Year
 				<Alert className={style.awardAlert}>
 						<h5 style={{color:"#31708f"}}> Transdisciplinary research award with International impact
 </h5>
-						
+						<p className={style.alertCont}> Award given to Transdisciplinary research award with International impact
+						</p>
 						
 				</Alert>
 					
@@ -600,7 +606,7 @@ Supervisor of the Year
 						<h5 style={{color:"#31708f"}}>  Best Infrastructure of the Year
  </h5>
 						<hr />
-						<p className={style.alertCont}> 
+						<p className={style.alertCont}>Award given to Best Infrastructure of the Year
 						</p>
 				</Alert>
 					
@@ -610,7 +616,7 @@ Supervisor of the Year
 						<h5 style={{color:"#31708f"}}> Institute with best placement
  </h5>
 						<hr />
-						<p className={style.alertCont}> 
+						<p className={style.alertCont}> Award given to Best 
 						</p>
 				</Alert>
 				
@@ -620,7 +626,7 @@ Supervisor of the Year
 						<h5 style={{color:"#31708f"}}> Best Engineering College of the Year (Regional / National)
  </h5>
 						<hr />
-						<p className={style.alertCont}>
+						<p className={style.alertCont}>Award given to Best Engineering College of the Year (Regional / National)
 						</p>
 				</Alert>
 					
@@ -630,7 +636,7 @@ Supervisor of the Year
 						<h5 style={{color:"#31708f"}}>   Best Medical College of the Year (Regional / National)
  </h5>
 						<hr />
-						<p className={style.alertCont}>
+						<p className={style.alertCont}>Award given to Best Medical College of the Year (Regional / National)
 						</p>
 				</Alert>
 					
@@ -641,7 +647,7 @@ Supervisor of the Year
 
  </h5>
 						<hr />
-						<p className={style.alertCont}>
+						<p className={style.alertCont}>Award given to Best Social Initiatives taken by Higher Education Institutions
 						</p>
 				</Alert>
 					
