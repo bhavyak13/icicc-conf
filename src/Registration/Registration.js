@@ -1,6 +1,7 @@
 import React from "react";
 // import Alert from 'react-bootstrap/Alert';
 import style from "../header.module.css";
+import upi from "./upi.png";
 // import Date from "../Date";
 
 // function loadScript(src) {
@@ -177,6 +178,9 @@ const Registration = () => {
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via RazorPay</p>
 <p>For payment from Indian Authors/Attendees, use the following payment link</p>
     	<button  className={style.paymentBtn}><a href={url1} target="_blank" className={style.links} style={{color:"white"}}>Pay via Razorpay</a></button>
+      <p>OR</p>
+      <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via UPI</p>
+      <img src={upi} style={{width:"150px"}}/>
 </div> 
 <hr />
 
