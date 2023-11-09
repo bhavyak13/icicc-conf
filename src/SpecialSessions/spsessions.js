@@ -234,15 +234,16 @@ const spdata = [
         ],
         spname: "SS 025.pdf"
     },
-    // {
-    //     anchor: require("./SS-026.pdf"),
-    //     title: "SS_26:  Security and Privacy in the Cloud ",
-    //     organisers: [
-    //         "Prof. Naren.J, Bangalore, India",   
-    //         "Dr. Suchitra. R. Nair, Bangalore, India"          
-    //     ],
-    //     spname: "SS 026.pdf"
-    // },
+    {
+        anchor: require("./SS-026.pdf"),
+        title: "SS_26:  Emerging trends and technologies in Artificial intelligence ",
+        organisers: [
+            "Dr. Rajakumar Arul, Vellore Institute of Technology, Chennai, India",   
+            "Dr. Kalaipriyan, T., Vellore Institute of Technology, Chennai, India"      ,
+            "Dr. Ali Kashif Bashir, Professor, Computer Networks and Cybersecurity, Manchester Metropolitan University, United Kingdom"    
+        ],
+        spname: "SS 026.pdf"
+    },
     
    
 
