@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d343376.css",
-    "main.js": "/static/js/main.f2ec3424.js",
+    "main.js": "/static/js/main.b0d16cb5.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -31,6 +31,7 @@
     "static/media/Spl_Session_ICICC_Delhi.pdf": "/static/media/Spl_Session_ICICC_Delhi.11aafe553376c1a0be82.pdf",
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
     "static/media/SS-002.pdf": "/static/media/SS-002.66da086f7ac618dacc7a.pdf",
+    "static/media/SS-026.pdf": "/static/media/SS-026.1f932eeef83fd179bab7.pdf",
     "static/media/SS-008.pdf": "/static/media/SS-008.9c8a06f891f4552b630d.pdf",
     "static/media/SS-019.pdf": "/static/media/SS-019.348de3540c797c98a948.pdf",
     "static/media/SS-022.pdf": "/static/media/SS-022.3ecfda078decd8c68198.pdf",
@@ -125,11 +126,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2d343376.css.map": "/static/css/main.2d343376.css.map",
-    "main.f2ec3424.js.map": "/static/js/main.f2ec3424.js.map",
+    "main.b0d16cb5.js.map": "/static/js/main.b0d16cb5.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d343376.css",
-    "static/js/main.f2ec3424.js"
+    "static/js/main.b0d16cb5.js"
   ]
 }
