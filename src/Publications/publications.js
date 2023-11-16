@@ -36,6 +36,14 @@ const pubdata = [
         anchor: require("./Images/scpe.png"),
         title: "SCPE( ESCI, SCOPUS)",
     },   
+    {
+        anchor: require("./Images/jbhi.jpg"),
+        title: "IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, SCI,IF-7.7",
+    },
+    {
+        anchor: require("./Images/ctsoc.jpg"),
+        title: "IEEE Transactions on Consumer Electronics, SCI, IF-4.3",
+    },
     // {
     //     anchor: require("./Images/5.jpeg"),
     //     title: "Expert Systems Journal (Wiley) SCI IF 2.58",
