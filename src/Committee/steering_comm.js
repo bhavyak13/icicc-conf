@@ -96,6 +96,10 @@ const SteerCom=()=>{
             {
                 "MemName":"Ahmed J. Obaid",
                 "InstName":"(University of Kufa, Iraq)"
+            },
+            {
+                "MemName":"Dr. Sushil Kumar Singh",
+                "InstName":"(Department of Computer Engineering,Marwadi University, Rajkot, Gujrat, India)",
             }
         ]
     },  {
