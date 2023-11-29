@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d343376.css",
-    "main.js": "/static/js/main.75b0206d.js",
+    "main.js": "/static/js/main.1b93c411.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -128,11 +128,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2d343376.css.map": "/static/css/main.2d343376.css.map",
-    "main.75b0206d.js.map": "/static/js/main.75b0206d.js.map",
+    "main.1b93c411.js.map": "/static/js/main.1b93c411.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d343376.css",
-    "static/js/main.75b0206d.js"
+    "static/js/main.1b93c411.js"
   ]
 }
