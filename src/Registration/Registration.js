@@ -214,6 +214,12 @@ const Registration = () => {
 
             </tr>
             <tr>
+              <td>Attendee</td>
+              <td>INR 5000</td>
+              <td>INR 6000</td>
+
+            </tr>
+            <tr>
               <td>Foreigner Research Scholar/Student (Outside India)</td>
               <td>USD 200</td>
               <td>USD 250</td>
@@ -230,6 +236,12 @@ const Registration = () => {
               <td>Foreigner Industrial Participant (Outside India)</td>
               <td>USD 300</td>
               <td>USD 350</td>
+
+            </tr>
+            <tr>
+              <td>Attendee (Outside India)</td>
+              <td>USD 100</td>
+              <td>USD 150</td>
 
             </tr>
 
