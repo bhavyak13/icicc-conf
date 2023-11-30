@@ -476,7 +476,7 @@ Supervisor of the Year
 				</div>
 				<div className="col-md-4">
 				<Alert className={style.awardAlert}>
-						<h5 style={{color:"#31708f"}}>  BUniversity of the Year (West) 
+						<h5 style={{color:"#31708f"}}>  University of the Year (West) 
 
  </h5>
 						<hr />
