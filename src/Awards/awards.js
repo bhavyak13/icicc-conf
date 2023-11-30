@@ -647,7 +647,15 @@ Supervisor of the Year
 
  </h5>
 						<hr />
-						<p className={style.alertCont}>Award given to Best Social Initiatives taken by Higher Education Institutions
+						<p className={style.alertCont}>Social Initiatives award to higher educational institutions and individuals who worked with the people of rural India in identifying development challenges and evolving appropriate solutions for accelerating sustainable growth. The applicants must have created a virtuous cycle between society and an inclusive academic system by providing knowledge and practices for emerging professions and to upgrade the capabilities of both the public and the private sectors in responding to the develop.
+						</p>
+				</Alert>
+				<Alert className={style.awardAlert}>
+						<h5 style={{color:"#31708f"}}>Student Mentorship Award
+
+ </h5>
+						<hr />
+						<p className={style.alertCont}>Faculties nominated for this award should show a sustained record of mentoring and advising research and creative endeavours of students with significant outcomes from those students. Mentors should show evidence of fostering the intellectual, creative, and professional growth of students while inculcating the students in a culture of intellectual challenge and success.
 						</p>
 				</Alert>
 					
