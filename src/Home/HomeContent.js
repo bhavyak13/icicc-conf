@@ -3,7 +3,7 @@ import Alert from 'react-bootstrap/Alert';
 import style from "../header.module.css";
 import Date from '../Date'
 import Button from 'react-bootstrap/Button';
-
+import './home.css'
 
 const HomeCont = () => {
     const items = [
@@ -204,6 +204,19 @@ const HomeCont = () => {
                     </marquee>
                 </div>
             </div>
+            <section class="OrgAssPartners">
+                <h3>Keynote Speakers of ICICC-2024 Conference</h3>
+                <div class="publicationContainer">
+                <div class="speaker21">
+                        <img src={require("./images/Bal_Virdee.jpg")} alt="prof"/>
+                        <p>
+                            <strong>Prof Bal Virdee</strong>
+                            <span>London Metropolitan University, Centre for Communications Techology, School of Computing & Digital Media.</span>
+                        </p>
+                    </div>
+                </div>
+                                        
+            </section>
 
             <div className={
                 style.flex

@@ -100,6 +100,10 @@ const SteerCom=()=>{
             {
                 "MemName":"Dr. Sushil Kumar Singh",
                 "InstName":"(Department of Computer Engineering,Marwadi University, Rajkot, Gujrat, India)",
+            },
+            {
+                "MemName":"Dr. Sherin Zafar",
+                "InstName":"(Jamia Hamdard,Deputy Director Innovation Cell,Coordinator Unnat Bharat Abhiyan Jamia Hamdard)",
             }
         ]
     },  {

@@ -1,0 +1,38 @@
+.OrgAssPartners {
+    margin: 2rem auto;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 92%;
+
+}
+.publicationContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.publicationContainer img {
+    margin: 1rem;
+    height: 20vw;
+    max-height: 100px;
+    min-height: 100px;
+}
+
+.speaker21 {
+    width: 220px;
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    vertical-align: super;
+    box-shadow: 2px 1px 3px 3px #eee;
+}
+
+.speaker21 p {
+    margin-top: 10px;
+}
+
+.speaker21 p span {
+    display: block;
+}
