@@ -63,7 +63,7 @@ const Registration = () => {
 
   const url1="https://pages.razorpay.com/pl_IOTJy0iZ8kxq43/view";
   const url2="https://www.paypal.com/paypalme/ICICCConference?locale.x=en_GB";
-  const url3="https://buy.stripe.com/fZeaFtdH9c9QeFG9AH";
+  const url3="https://buy.stripe.com/bIY7uP0PB8CMbjWbII";
 
     return (
     <div className={style.container}>		  
