@@ -44,10 +44,10 @@ const pubdata = [
         anchor: require("./Images/ctsoc.jpg"),
         title: "IEEE Transactions on Consumer Electronics, SCI, IF-4.3",
     },
-    // {
-    //     anchor: require("./Images/5.jpeg"),
-    //     title: "Expert Systems Journal (Wiley) SCI IF 2.58",
-    // },   
+    {
+        anchor: require("./Images/hccis.jpeg"),
+        title: "Human-centric Computing and Information Sciences Journal, SCI -IF 6.6",
+    },   
     // {
     //     anchor: require("./Images/6.jpeg"),
     //     title: "Alexandria Engineering Journal (Elsevier) SCI IF 6.6",
