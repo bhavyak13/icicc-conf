@@ -65,6 +65,16 @@ function CommonNavbar() {
                                 About Universal Innovators
                             </NavLink>
                         </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="policy">
+                                Policy
+                            </NavLink>
+                        </NavDropdown.Item>
                     </NavDropdown>
                     <NavDropdown title="Papers" id="basic-nav-dropdown"
                         className={
@@ -343,6 +353,7 @@ function CommonNavbar() {
 
                 </Nav>
             </Navbar.Collapse>
+            
 
         </Navbar>
     );
