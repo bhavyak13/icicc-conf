@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aa5def98.css",
-    "main.js": "/static/js/main.3514f1b8.js",
+    "main.js": "/static/js/main.8bd0e151.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -98,6 +98,7 @@
     "static/media/icicc-21-12.jpeg": "/static/media/icicc-21-12.d478791b0d44cbb8e1f4.jpeg",
     "static/media/6.jpeg": "/static/media/6.646fb128f69a22b3c001.jpeg",
     "static/media/icicc-21-8.jpeg": "/static/media/icicc-21-8.49d0692d41ebb3c7ee90.jpeg",
+    "static/media/License to Publish Agreement form 2024.docx": "/static/media/License to Publish Agreement form 2024.77a3e6fd19ec29d60036.docx",
     "static/media/icicc-21-9.jpeg": "/static/media/icicc-21-9.90c646107ca92c2e802d.jpeg",
     "static/media/icicc-21-3.jpeg": "/static/media/icicc-21-3.edfee2fabbedf3311050.jpeg",
     "static/media/icicc-21-1.jpeg": "/static/media/icicc-21-1.0149f916a43707384814.jpeg",
@@ -130,11 +131,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.aa5def98.css.map": "/static/css/main.aa5def98.css.map",
-    "main.3514f1b8.js.map": "/static/js/main.3514f1b8.js.map",
+    "main.8bd0e151.js.map": "/static/js/main.8bd0e151.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa5def98.css",
-    "static/js/main.3514f1b8.js"
+    "static/js/main.8bd0e151.js"
   ]
 }
