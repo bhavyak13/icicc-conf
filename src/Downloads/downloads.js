@@ -127,7 +127,20 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
-                        
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/License to Publish Agreement form 2024.docx")}
+                        target="_blank"
+                        >License to Publish Agreement form 2024
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
 
                     </div>
 
