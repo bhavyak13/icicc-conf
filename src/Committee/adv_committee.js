@@ -55,7 +55,8 @@ const list_of_adv=["Prof(Dr.) Valentina Emilia Balas , Aurel Vlaicu University o
 "Dr. Alex Norta , Associate Professor, Tallinn University of Technology, Estonia",
 "Prof(Dr.) Amit Prakash Singh , GGSIPU, Delhi, India",
 "Prof(Dr.) Abhishek Swaroop , Bhagwan Parshuram Institute of Technology, Delhi",
-"Belfin Robinson, Postdoctoral Fellow, School of Medicine, BRIC, University of North Carolina, Chapel Hill , NC, USA"];
+"Belfin Robinson, Postdoctoral Fellow, School of Medicine, BRIC, University of North Carolina, Chapel Hill , NC, USA",
+"Dr Naresh Kumar, PhD,Assistant Professor,Computer Science, DMPS, College of Arts and Sciences, University of Nizwa, Oman"];
 
 
 
