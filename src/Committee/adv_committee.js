@@ -7,6 +7,7 @@ const AdvCom=()=>{
 const list_of_adv=["Prof(Dr.) Valentina Emilia Balas , Aurel Vlaicu University of Arad, Romania",
 "Prof(Dr.) Vincenzo Piuri , University of Milan, Italy",
 "Prof(Dr.) Marius Balas , Aurel Vlaicu University of Arad, Romania",
+"Prof. Punam Bedi, Senior Professor,Department of Computer Science,University of Delhi",
 "Prof(Dr.) Mohamed Salim Bouhlel , Sfax University, Tunisia",
 "Prof(Dr.) Aboul Ella Hassanien , Cairo University, Egypt",
 "Prof(Dr.) Cenap Ozel , King Abdulaziz University, Saudi Arabia",
