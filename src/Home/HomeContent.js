@@ -5,6 +5,8 @@ import Date from '../Date'
 import Button from 'react-bootstrap/Button';
 import './home.css'
 
+
+
 const HomeCont = () => {
     const items = [
         {
@@ -137,6 +139,14 @@ const HomeCont = () => {
                     <a href="https://cmt3.research.microsoft.com/ICICC2024/Submission/Index">
                             Paper Submission</a>
                     </p>
+                    <div className="partnerContainer">
+  <div className="flex-container">
+    <img src={require('./images/oneapi.jpg')} />
+    <h4 style={{fontSize:'1.1rem',padding: 10, textAlign: 'center', alignItems: 'center', marginTop: '-5px'}}>Intel® oneAPI <br />ICICC OFFICIAL PARTNER</h4>
+  </div>
+</div>
+
+
 
 {/* 
                     <h3 className={

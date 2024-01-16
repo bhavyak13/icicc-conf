@@ -18,6 +18,34 @@
     max-height: 100px;
     min-height: 100px;
 }
+.partnerContainer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:1.5rem;
+    border: 2px solid #231834;
+    border-radius: 5px;
+        box-shadow: 7px 7px grey;
+        width:15rem;
+        height:13rem;
+
+    }
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        max-width: 20rem;
+    }
+    .flex-container img {
+        align-items: center;
+        width: 13rem;
+        height: auto;
+        margin: 10px;
+        
+    }
+
+
 
 .speaker21 {
     width: 220px;
