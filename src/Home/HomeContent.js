@@ -224,6 +224,13 @@ const HomeCont = () => {
                             <span>London Metropolitan University, Centre for Communications Techology, School of Computing & Digital Media.</span>
                         </p>
                     </div>
+                    <div class="speaker21">
+                        <img src={require("./images/intel.jpg")} alt="prof"/>
+                        <p>
+                            <strong>Shriram Kris Vasudevan</strong>
+                            <span>Intel Corporation</span>
+                        </p>
+                    </div>
                 </div>
                                         
             </section>
