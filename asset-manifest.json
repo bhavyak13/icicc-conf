@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa5def98.css",
-    "main.js": "/static/js/main.5ef81e7c.js",
+    "main.css": "/static/css/main.84909841.css",
+    "main.js": "/static/js/main.e12268c1.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -109,6 +109,7 @@
     "static/media/icicc-21-13.jpeg": "/static/media/icicc-21-13.fa1df39ef75030b5b232.jpeg",
     "static/media/16.jpeg": "/static/media/16.8fa56d253d1a7b6fbe48.jpeg",
     "static/media/icicc-21-5.jpeg": "/static/media/icicc-21-5.33d07882f52fd89341fd.jpeg",
+    "static/media/intel.jpg": "/static/media/intel.1e972292c118af2957b5.jpg",
     "static/media/img01.png": "/static/media/img01.e1cc46e8ea2bf347519f.png",
     "static/media/icicc-21-11.jpeg": "/static/media/icicc-21-11.dcdd228ac79c1126fc2e.jpeg",
     "static/media/img07.png": "/static/media/img07.749f89d58600c4d84f7d.png",
@@ -130,12 +131,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.aa5def98.css.map": "/static/css/main.aa5def98.css.map",
-    "main.5ef81e7c.js.map": "/static/js/main.5ef81e7c.js.map",
+    "main.84909841.css.map": "/static/css/main.84909841.css.map",
+    "main.e12268c1.js.map": "/static/js/main.e12268c1.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa5def98.css",
-    "static/js/main.5ef81e7c.js"
+    "static/css/main.84909841.css",
+    "static/js/main.e12268c1.js"
   ]
 }
