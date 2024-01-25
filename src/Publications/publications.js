@@ -52,6 +52,10 @@ const pubdata = [
         anchor: require("./Images/itl.jpg"),
         title: "Internet Technology letters , Wiley-ESCI & SCOPUS",
     },   
+    {
+        anchor: require("./Images/slas.jpg"),
+        title: "SLAS TECHNOLOGY, ELSEVIER-SCIE (IF-2.8)",
+    }, 
      
     
     
