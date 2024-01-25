@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84909841.css",
-    "main.js": "/static/js/main.7e6a77f4.js",
+    "main.js": "/static/js/main.6c419869.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -21,6 +21,7 @@
     "static/media/ic18-5.png": "/static/media/ic18-5.98c7c31ddfe57df909bb.png",
     "static/media/Manuscript guidelines for English books.pdf": "/static/media/Manuscript guidelines for English books.b4c0e227c2235ee1639f.pdf",
     "static/media/ManuscriptguidelinesforEnglishbooks.pdf": "/static/media/ManuscriptguidelinesforEnglishbooks.b4c0e227c2235ee1639f.pdf",
+    "static/media/slas.jpg": "/static/media/slas.a90852c9f60fd7b74cf6.jpg",
     "static/media/SS-003.pdf": "/static/media/SS-003.a8db1cbcd67be44d9dd2.pdf",
     "static/media/SS-007.pdf": "/static/media/SS-007.d5f901f48c4a11d80d4f.pdf",
     "static/media/SS-018.pdf": "/static/media/SS-018.ee393b2020d30be57d48.pdf",
@@ -133,11 +134,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.84909841.css.map": "/static/css/main.84909841.css.map",
-    "main.7e6a77f4.js.map": "/static/js/main.7e6a77f4.js.map",
+    "main.6c419869.js.map": "/static/js/main.6c419869.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84909841.css",
-    "static/js/main.7e6a77f4.js"
+    "static/js/main.6c419869.js"
   ]
 }
