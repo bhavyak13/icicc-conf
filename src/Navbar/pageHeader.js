@@ -35,6 +35,20 @@ const Header = () => {
                 <div className={style.mobile}>
                 <div className={style.logoCont}>
                 <img src={
+                        require('./images/logo.png')
+                    }
+                    className={
+                        style.headerLogo
+                }></img>
+                <img src={
+                        require('./images/logo2.jpeg')
+                    }
+                    className={
+                        style.headerLogo
+                }></img>
+                </div>
+                <div className={style.logoCont}>
+                <img src={
                         require('./images/logospain.png')
                     }
                     className={
@@ -48,20 +62,7 @@ const Header = () => {
                 }></img>
                 </div>
 
-                <div className={style.logoCont}>
-                <img src={
-                        require('./images/logo.png')
-                    }
-                    className={
-                        style.headerLogo
-                }></img>
-                <img src={
-                        require('./images/logo2.jpeg')
-                    }
-                    className={
-                        style.headerLogo
-                }></img>
-                </div>
+                
                 </div>
             </div>
 
