@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.84909841.css",
-    "main.js": "/static/js/main.6c419869.js",
+    "main.css": "/static/css/main.f9407f18.css",
+    "main.js": "/static/js/main.f1c72153.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -81,6 +81,7 @@
     "static/media/img04.jpg": "/static/media/img04.853a9c55574bc91a3d58.jpg",
     "static/media/ic20-6.jpeg": "/static/media/ic20-6.20b3167040231c9f69e7.jpeg",
     "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.a85e2bed14ba54b41e91.docx",
+    "static/media/sp3.png": "/static/media/sp3.ce0292e2f7d6360a430f.png",
     "static/media/img08.png": "/static/media/img08.fb333a86d66648ffa9ed.png",
     "static/media/icicc-21-7.jpeg": "/static/media/icicc-21-7.65b75929f74ebfedd57b.jpeg",
     "static/media/ic20-8.jpeg": "/static/media/ic20-8.169ed6cf2bbe2819941b.jpeg",
@@ -111,6 +112,7 @@
     "static/media/16.jpeg": "/static/media/16.8fa56d253d1a7b6fbe48.jpeg",
     "static/media/icicc-21-5.jpeg": "/static/media/icicc-21-5.33d07882f52fd89341fd.jpeg",
     "static/media/intel.jpg": "/static/media/intel.1e972292c118af2957b5.jpg",
+    "static/media/sp4.jpg": "/static/media/sp4.899282303527893daa52.jpg",
     "static/media/itl.jpg": "/static/media/itl.5f0ff1e565c63f4d6ff6.jpg",
     "static/media/img01.png": "/static/media/img01.e1cc46e8ea2bf347519f.png",
     "static/media/icicc-21-11.jpeg": "/static/media/icicc-21-11.dcdd228ac79c1126fc2e.jpeg",
@@ -122,6 +124,7 @@
     "static/media/linkedin.webp": "/static/media/linkedin.6620a4776ae8550d2fe4.webp",
     "static/media/email.png": "/static/media/email.1f2838d3c9e4aeeca523.png",
     "static/media/jbhi.jpg": "/static/media/jbhi.cbe250a1003f245db8a4.jpg",
+    "static/media/icicc.jpg": "/static/media/icicc.8fdf59f44e037ad83293.jpg",
     "static/media/INTERNATIONAL WORKSHOP -2024.docx": "/static/media/INTERNATIONAL WORKSHOP -2024.54c7fb366801469b55a8.docx",
     "static/media/ctsoc.jpg": "/static/media/ctsoc.e23bcff81c51aac16a23.jpg",
     "static/media/2.jpg": "/static/media/2.237394f0eb102caf1c5a.jpg",
@@ -133,12 +136,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.84909841.css.map": "/static/css/main.84909841.css.map",
-    "main.6c419869.js.map": "/static/js/main.6c419869.js.map",
+    "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
+    "main.f1c72153.js.map": "/static/js/main.f1c72153.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84909841.css",
-    "static/js/main.6c419869.js"
+    "static/css/main.f9407f18.css",
+    "static/js/main.f1c72153.js"
   ]
 }
