@@ -345,10 +345,11 @@
  
     /* justify-content: space-around; */
   }
-  .logoCont{
-    /* display: flex;
-    justify-content: space-between;     */
-    margin:10px 20vw;
+
+  .headerLogo {
+    height: 80px;
+    width: 80px;
+    margin: 10px;
   }
   .navLink{
     margin:5px 10px;
@@ -457,6 +458,11 @@
   color: white;
   width: 80vw;
   /* margin:10px auto; */
+}
+.mobile{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 }

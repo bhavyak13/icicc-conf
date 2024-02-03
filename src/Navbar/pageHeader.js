@@ -7,20 +7,16 @@ const Header = () => {
         <div  >
             <div className={
                 style.headerCont
-            }><div className={style.logoCont}>
-                <img src={
-                        require('./images/logo.png')
+            }>
+            
+            
+            <div className={style.logoCont}>
+            <img src={
+                        require('./images/icicc.jpg')
                     }
-                    className={
-                        style.headerLogo
-                }></img>
-                <img src={
-                        require('./images/logo2.jpeg')
-                    }
-                    className={
-                        style.headerLogo
-                }></img>
+                    style={{"width":"22rem","height":"10rem","margin":"auto"}}></img>
                 </div>
+                
                 <div>
                     <h1 className={
                         style.icicc
@@ -36,6 +32,7 @@ const Header = () => {
                         style.dates
                     }>16-17th FEBRUARY 2024</h2>
                 </div>
+                <div className={style.mobile}>
                 <div className={style.logoCont}>
                 <img src={
                         require('./images/logospain.png')
@@ -49,6 +46,22 @@ const Header = () => {
                     className={
                         style.headerLogo
                 }></img>
+                </div>
+
+                <div className={style.logoCont}>
+                <img src={
+                        require('./images/logo.png')
+                    }
+                    className={
+                        style.headerLogo
+                }></img>
+                <img src={
+                        require('./images/logo2.jpeg')
+                    }
+                    className={
+                        style.headerLogo
+                }></img>
+                </div>
                 </div>
             </div>
 

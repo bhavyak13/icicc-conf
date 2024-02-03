@@ -231,6 +231,20 @@ const HomeCont = () => {
                             <span>Intel Corporation</span>
                         </p>
                     </div>
+                    <div class="speaker21">
+                        <img src={require("./images/sp3.png")} alt="prof"/>
+                        <p>
+                            <strong>Dr. Jagdish Chand Bansal</strong>
+                            <span>South Asian University, India</span>
+                        </p>
+                    </div>
+                    <div class="speaker21">
+                        <img src={require("./images/sp4.jpg")} alt="prof"/>
+                        <p>
+                            <strong>Prof. Vivek Bohara</strong>
+                            <span>IIIT Delhi</span>
+                        </p>
+                    </div>
                 </div>
                                         
             </section>
