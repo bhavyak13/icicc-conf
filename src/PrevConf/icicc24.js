@@ -22,17 +22,17 @@ const Icicc24=()=>{
     ]
     const videos=[{
         title:"Inaugural Ceremony of ICICC 2024",
-        anchor:<iframe width="420" height="265" src="https://www.youtube.com/embed/JcfW9UUq_hs?si=TRCm4o1YPFtR8wwu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
+        anchor:<iframe width="360" height="240" src="https://www.youtube.com/embed/JcfW9UUq_hs?si=TRCm4o1YPFtR8wwu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
         
     },
     {
         title:"ICICC 2024 Keynotes (Day 1)",
-        anchor:<iframe width="420" height="265" src="https://www.youtube.com/embed/3Xvj5eOH_xI?si=c9snQGDPH_ygul6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        anchor:<iframe width="360" height="240" src="https://www.youtube.com/embed/3Xvj5eOH_xI?si=c9snQGDPH_ygul6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
     },
     {
         title:"ICICC 2024 Keynotes (Day 2)",
-        anchor:<iframe width="420" height="265" src="https://www.youtube.com/embed/uOyFLThnwfo?si=OHy52Z5g_Z92hSsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        anchor:<iframe width="360" height="240" src="https://www.youtube.com/embed/uOyFLThnwfo?si=OHy52Z5g_Z92hSsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     }
     ]
   return(
