@@ -288,7 +288,17 @@ function CommonNavbar() {
                     <NavDropdown title="Previous Conferences" id="basic-nav-dropdown"
                         className={
                             style.navDD
-                    }>
+                    }>  
+                    <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="/icicc24">
+                                ICICC 2024
+                            </NavLink>
+                        </NavDropdown.Item>
                         <NavDropdown.Item onClick={
                             () => setExpanded(false)
                         }>

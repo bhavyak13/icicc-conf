@@ -28,6 +28,7 @@ import Icicc18 from './PrevConf/icicc18';
 import './App.css'
 import PosterSubmission from './Papers/postersubmission';
 import Policy from './Policy/Policy';
+import Icicc24 from './PrevConf/icicc24';
 
 const router = createBrowserRouter([
   {
@@ -113,6 +114,10 @@ const router = createBrowserRouter([
       {
         path: 'registrations',
         element: <Registration />
+      },
+      {
+        path: 'icicc24',
+        element: <Icicc24 />
       },
       {
         path: 'icicc23',
