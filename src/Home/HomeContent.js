@@ -61,7 +61,7 @@ const HomeCont = () => {
                 href="https://scholar.google.com/citations?hl=en&user=fFvhHUAAAAAJ" target="_blank"
                     className={
                         style.alertContent
-                }>A FLAGSHIP CONFERENCE : ICICC - 2024</a>
+                }>A FLAGSHIP CONFERENCE : ICICC - 2025</a>
 
 
             </Alert>
@@ -84,7 +84,7 @@ const HomeCont = () => {
                     style.paymentBtn
                 }>
                     <a 
-                    href="https://cmt3.research.microsoft.com/ICICC2024" target="_blank"
+                    href="https://cmt3.research.microsoft.com/ICICC2025" target="_blank"
                         className={
                             style.links
                         }
@@ -133,10 +133,10 @@ const HomeCont = () => {
                 <div className={
                     style.abtContent
                 }>
-                    <p>International Conference on Innovative Computing and Communication (ICICC 2024) is organized to bring together innovative scientists, professors, research scholars, students, and industrial experts in the field of Computing and Communication to a common forum. The primary goal of the conference is to promote the exchange of innovative scientific information between researchers, developers, engineers, students, and practitioners. Another goal is to promote the transformation of fundamental research into institutional and industrialized research and to convert applied exploration into the real-time application. Overall, the conference will provide the researchers and attendees with prospects for national and international collaboration and networking among universities and institutions from India and abroad for promoting research. ICICC- 2024 will be held at Shaheed Sukhdev College of Business Studies, University of Delhi, New Delhi. All the accepted papers (after double-blinded peer review) will be published as proceedings of ICICC-2024 in Springer LNNS Series (Accepted)
+                    <p>International Conference on Innovative Computing and Communication (ICICC 2025) is organized to bring together innovative scientists, professors, research scholars, students, and industrial experts in the field of Computing and Communication to a common forum. The primary goal of the conference is to promote the exchange of innovative scientific information between researchers, developers, engineers, students, and practitioners. Another goal is to promote the transformation of fundamental research into institutional and industrialized research and to convert applied exploration into the real-time application. Overall, the conference will provide the researchers and attendees with prospects for national and international collaboration and networking among universities and institutions from India and abroad for promoting research. ICICC- 2025 will be held at Shaheed Sukhdev College of Business Studies, University of Delhi, New Delhi. All the accepted papers (after double-blinded peer review) will be published as proceedings of ICICC-2025 in Springer LNNS Series (Accepted)
                     </p>
                     <p>Paper Submission Link :
-                    <a href="https://cmt3.research.microsoft.com/ICICC2024/Submission/Index">
+                    <a href="https://cmt3.research.microsoft.com/ICICC2025/Submission/Index">
                             Paper Submission</a>
                     </p>
                     <div className="partnerContainer">
@@ -215,7 +215,7 @@ const HomeCont = () => {
                 </div>
             </div>
             <section class="OrgAssPartners">
-                <h3>Keynote Speakers of ICICC-2024 Conference</h3>
+                <h3>Keynote Speakers of ICICC-2025 Conference</h3>
                 <div class="publicationContainer">
                 <div class="speaker21">
                         <img src={require("./images/Bal_Virdee.jpg")} alt="prof"/>
@@ -264,7 +264,7 @@ const HomeCont = () => {
                         className={
                             style.marquee
                     }>
-                        <p>ICICC - 2024 will be organized by Shaheed Sukhdev College of Business Studies, Delhi university, India, on 16-17 February 2024</p>
+                        <p>ICICC - 2025 will be organized by Shaheed Sukhdev College of Business Studies, Delhi university, India, on 16-17 February 2025</p>
                     </marquee>
                 </div>
             </div>

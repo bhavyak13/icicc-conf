@@ -69,7 +69,7 @@ return(
         <div className={style.flex}>
         <div className={style.publications}>
         <h3 style={{textAlign:"center"}}>PUBLICATION- PROCEEDINGS</h3><br />
-        <p>All the accepted papers of ICICC - 2024 will be published as proceedings of ICICC - 2024 indexed by Scopus, Ei, WoS, and other reputed databases.
+        <p>All the accepted papers of ICICC - 2025 will be published as proceedings of ICICC - 2025 indexed by Scopus, Ei, WoS, and other reputed databases.
 High-quality selected extended conference papers will be invited to submit for publication in the special issues.
 </p>
         

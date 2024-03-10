@@ -8,15 +8,15 @@ const IntWorkshops=()=>{
   
   <div >
   <hr />
-  <u><b>Invitation to conduct International Workshop in ICICC 2024</b></u>
+  <u><b>Invitation to conduct International Workshop in ICICC 2025</b></u>
   <br />
   <br />
 
 <p className={style.greet}>Dear Researcher/Colleagues</p>
   <p >
-Greeting from ICICC-2024!<br />
+Greeting from ICICC-2025!<br />
 <br />
-ICICC Conference team invites you to organize the <span className={style.highlight}>International Workshop</span> in the <span className={style.highlight}>sixth version of International Conference on Innovative Computing and Communications (ICICC-2024)</span>, to be held at Shaheed Sukhdev College of Business Studies (University of Delhi), Sector 16, Rohini, Delh110089, India during <span className={style.highlight}>16-17th February 2024</span> of your research domain. We are diligently working to bring some of the most knowledgeable academician from all over the world and business leaders to discuss critical research topics. The two-day conference will include a workshop, technical workshops and keynotes on our industry's cutting-edge technologies.  <br /><br /><span className={style.highlight}>The URL for the conference:</span> <a href="">icicc-conf.com</a>
+ICICC Conference team invites you to organize the <span className={style.highlight}>International Workshop</span> in the <span className={style.highlight}>sixth version of International Conference on Innovative Computing and Communications (ICICC-2025)</span>, to be held at Shaheed Sukhdev College of Business Studies (University of Delhi), Sector 16, Rohini, Delh110089, India during <span className={style.highlight}>16-17th February 2025</span> of your research domain. We are diligently working to bring some of the most knowledgeable academician from all over the world and business leaders to discuss critical research topics. The two-day conference will include a workshop, technical workshops and keynotes on our industry's cutting-edge technologies.  <br /><br /><span className={style.highlight}>The URL for the conference:</span> <a href="">icicc-conf.com</a>
 <br />
 <br />
 By being part of this conference as a session chair and leading your own session at this esteemed conference, please increase the importance of the conference. We understand your networking skills and have an eye on identifying quality research papers.
@@ -28,7 +28,7 @@ By being part of this conference as a session chair and leading your own session
     <ul>
     
 
-<li>All accepted papers will be published in the proceedings of ICICC-2024 (SCOPUS Indexed).</li>
+<li>All accepted papers will be published in the proceedings of ICICC-2025 (SCOPUS Indexed).</li>
 <li>The workshop organizers will be entitled to receive a renumeration of 20% of the total fees collected in the workshop.</li>
 <li>The minimum number of registrations should be 8 in the proposed workshop.</li>
 <li>Extended papers in SCI/Scopus/ESCI/DBLP/ACM Digital Library journals. For details see <a href="">http://icicc-conf.com/publication.</a></li>
@@ -38,14 +38,14 @@ By being part of this conference as a session chair and leading your own session
 <li>Many International and National key note speakers will be delivering their lectures on latest innovative technologies in the conference.</li>
 <li>Easy accessibility of the well-connected conference venue.</li>
     </ul>    
-    <p>If you are interested to conduct an International Workshop, please email us the workshop proposal at <a href="mailto:icicc.ui@gmail.com">icicc.ui@gmail.com</a> with subject line as<span className={style.highlight}> “Proposal for ICICC 2024 International Workshop” </span>by 30th August 2022 as per the format given on link: <a href="">http://icicc-conf.com/call_for_international_workshops</a></p>
-    <p>Looking to see you in ICICC-2024. <br /><br />
+    <p>If you are interested to conduct an International Workshop, please email us the workshop proposal at <a href="mailto:icicc.ui@gmail.com">icicc.ui@gmail.com</a> with subject line as<span className={style.highlight}> “Proposal for ICICC 2025 International Workshop” </span>by 30th August 2022 as per the format given on link: <a href="">http://icicc-conf.com/call_for_international_workshops</a></p>
+    <p>Looking to see you in ICICC-2025. <br /><br />
 
 Sincerely,<br />
 
 Organizer and Convener<br />
 
-<b>ICICC-2024</b></p>
+<b>ICICC-2025</b></p>
 
 <Button variant="primary" > <a href={require("./Workshop_Proposal_Template.docx")} style={{color:"white",textDecoration:"none"}}>Workshop Proposal Template</a></Button>
   </div>

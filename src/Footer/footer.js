@@ -32,7 +32,7 @@ const Footer=()=>{
     <a href="http://icicc-conf.com/" className={style.links} style={{color:"white"}}>Important Dates</a> <br />
     <a href="http://icicc-conf.com/venue" className={style.links} style={{color:"white"}}>Conference Venue</a> <br />
     <a href="http://icicc-conf.com/downloads" className={style.links} style={{color:"white"}}>Downloads</a><br />
-    <a className={style.links} style={{color:"white"}}href="https://cmt3.research.microsoft.com/ICICC2024">Paper Submission</a><br />
+    <a className={style.links} style={{color:"white"}}href="https://cmt3.research.microsoft.com/ICICC2025">Paper Submission</a><br />
     </div>    
   </div>
   <hr style={{borderTop:"3px solid #ffffff"}} />

@@ -21,7 +21,7 @@ const Header = () => {
                     <h1 className={
                         style.icicc
                     }>7th INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING AND COMMUNICATION<br/>
-                        (ICICC 2024)</h1>
+                        (ICICC 2025)</h1>
                     <br/>
                     <h2 className={
                         style.organiser
@@ -30,7 +30,7 @@ const Header = () => {
                     NATIONAL INSTITUTE OF TECHNOLOGY,PATNA & UNIVERSITY OF VALLADOLID SPAIN</h2>
                     <h2 className={
                         style.dates
-                    }>16-17th FEBRUARY 2024</h2>
+                    }>16-17th FEBRUARY 2025</h2>
                 </div>
                 <div className={style.mobile}>
                 <div className={style.logoCont}>

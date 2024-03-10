@@ -8,7 +8,7 @@ const Awards=()=>{
     return(
         <div className={style.awardsCont}>
 		{/* <Alert> <h4><a style={{textTransform:"uppercase"}}>Click here to see the registration details for participation in UILA 2022</a></h4></Alert> */}
-		<h4>5th Universal Inovators LEADERSHIP AWARDS (UILA 2024)</h4>
+		<h4>5th Universal Inovators LEADERSHIP AWARDS (UILA 2025)</h4>
 		<hr />
 		
 		<b>About Universal Inovators Leadership Awards (UILA)</b>
