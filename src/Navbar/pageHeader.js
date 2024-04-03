@@ -20,7 +20,7 @@ const Header = () => {
                 <div>
                     <h1 className={
                         style.icicc
-                    }>7th INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING AND COMMUNICATION<br/>
+                    }>8th INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING AND COMMUNICATION<br/>
                         (ICICC 2025)</h1>
                     <br/>
                     <h2 className={

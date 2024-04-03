@@ -8,13 +8,13 @@ const Awards=()=>{
     return(
         <div className={style.awardsCont}>
 		{/* <Alert> <h4><a style={{textTransform:"uppercase"}}>Click here to see the registration details for participation in UILA 2022</a></h4></Alert> */}
-		<h4>5th Universal Inovators LEADERSHIP AWARDS (UILA 2025)</h4>
+		<h4>6th Universal Inovators LEADERSHIP AWARDS (UILA 2025)</h4>
 		<hr />
 		
 		<b>About Universal Inovators Leadership Awards (UILA)</b>
 		<p>UI Leadership Awards honor the determined effort and achievements of Changemakers who have made their performance and innovative excellence in their respective field. It is a very special and unique setup involving <span className={style.highlight}>International Excellence awards</span>in various categories. UI Leadership award creates worldwide recognition and reserves its space in Society for the winning profiles. As such, it also gives participants an ideal opportunity to make their work visible to a broader audience.</p><p>
 
-Third UI Leadership awards will be organized along with the 7th International Conference on Innovative Computing and Communication jointly by Shaheed Sukhdev College of Business Studies (University of Delhi) and Universal Inovators at Shaheed Sukhdev College of Business Studies, New Delhi, India.
+Third UI Leadership awards will be organized along with the 8th International Conference on Innovative Computing and Communication jointly by Shaheed Sukhdev College of Business Studies (University of Delhi) and Universal Inovators at Shaheed Sukhdev College of Business Studies, New Delhi, India.
 
 	</p>
 

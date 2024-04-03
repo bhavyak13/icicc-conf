@@ -295,7 +295,7 @@ function CommonNavbar() {
                             <NavLink className={
                                     style.links
                                 }
-                                to="/icicc24">
+                    ion            to="/icicc24">
                                 ICICC 2024
                             </NavLink>
                         </NavDropdown.Item>

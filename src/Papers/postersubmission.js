@@ -16,7 +16,8 @@ const PosterSubmission=()=>{
   <ol>
     <li>The Original unpublished Research Papers, Articles and working papers having a maximum length of 8 pages on the topics related to the theme are invited for Poster Paper presentations in the conference proceedings.
     </li>
-    <li>Kindly ensure your paper is formatted s (not exceeding 8 pages written in A4 size).All papers must be submitted online via <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICICC2025">Microsoft CMT Submission Portal</a>
+    <li>Kindly ensure your paper is formatted (not exceeding 8 pages written in A4 size).
+    {/* All papers must be submitted online via <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICICC2025">Microsoft CMT Submission Portal</a> */}
     </li>
     <li>All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.</li>
     <li>Only papers presenting original content with novel research results or successful innovative applications will be considered for Poster Paper Presentation.</li>
