@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.e2911ee5.js",
+    "main.js": "/static/js/main.5d674dd7.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -29,7 +29,6 @@
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
-    "static/media/1.jpg": "/static/media/1.1b860a84c252c6ff29d5.jpg",
     "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
     "static/media/upi.png": "/static/media/upi.5db4b1e81bc7b43c8e51.png",
     "static/media/19.jpeg": "/static/media/19.d60d05127bca68525070.jpeg",
@@ -40,6 +39,7 @@
     "static/media/13.jpeg": "/static/media/13.973c90e54d11974e2a90.jpeg",
     "static/media/10.jpeg": "/static/media/10.f08424998d89826fb5b3.jpeg",
     "static/media/award-2023.pdf": "/static/media/award-2023.de8ce1ed775011fb051b.pdf",
+    "static/media/1.jpg": "/static/media/1.1b860a84c252c6ff29d5.jpg",
     "static/media/22.jpeg": "/static/media/22.e8912342a1835f017220.jpeg",
     "static/media/8.jpeg": "/static/media/8.5a48266d4b02381f89d7.jpeg",
     "static/media/18.jpeg": "/static/media/18.8095bedb323ff7266b57.jpeg",
@@ -111,11 +111,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.e2911ee5.js.map": "/static/js/main.e2911ee5.js.map",
+    "main.5d674dd7.js.map": "/static/js/main.5d674dd7.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9407f18.css",
-    "static/js/main.e2911ee5.js"
+    "static/js/main.5d674dd7.js"
   ]
 }
