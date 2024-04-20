@@ -141,7 +141,7 @@ const HomeCont = () => {
                     </p> */}
                     <div className="partnerContainer">
   <div className="flex-container">
-    <img src={require('./images/oneapi.jpg')} />
+    <img src={require('./images/oneapi.jpg')} style={{'width':'125px'}}/>
     <h4 style={{fontSize:'1.1rem',padding: 10, textAlign: 'center', alignItems: 'center', marginTop: '-5px'}}>Intel® oneAPI <br />ICICC OFFICIAL PARTNER</h4>
   </div>
 </div>
