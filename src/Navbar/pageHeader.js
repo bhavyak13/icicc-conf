@@ -26,8 +26,7 @@ const Header = () => {
                     <h2 className={
                         style.organiser
                     }>ORGANISED BY : SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES, UNIVERSITY OF DELHI, NEW DELHI
-                    IN ASSOCIATION WITH
-                    NATIONAL INSTITUTE OF TECHNOLOGY,PATNA & UNIVERSITY OF VALLADOLID SPAIN</h2>
+                    IN ASSOCIATION UNIVERSITY OF VALLADOLID SPAIN</h2>
                     <h2 className={
                         style.dates
                     }>16-17th FEBRUARY 2025</h2>
@@ -41,19 +40,14 @@ const Header = () => {
                         style.headerLogo
                 }></img>
                 <img src={
-                        require('./images/logo2.jpeg')
+                        require('./images/logospain.png')
                     }
                     className={
                         style.headerLogo
                 }></img>
                 </div>
                 <div className={style.logoCont}>
-                <img src={
-                        require('./images/logospain.png')
-                    }
-                    className={
-                        style.headerLogo
-                }></img>
+                
                 <img src={
                         require('./images/Springer.png')
                     }

@@ -215,7 +215,7 @@ const HomeCont = () => {
                 </div>
             </div>
             <section class="OrgAssPartners">
-                <h3>Keynote Speakers of ICICC-2025 Conference</h3>
+                <h3>Previous Keynote Speakers</h3>
                 <div class="publicationContainer">
                 <div class="speaker21">
                         <img src={require("./images/Bal_Virdee.jpg")} alt="prof"/>
