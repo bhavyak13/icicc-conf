@@ -264,7 +264,7 @@ const HomeCont = () => {
                         className={
                             style.marquee
                     }>
-                        <p>ICICC - 2025 will be organized by Shaheed Sukhdev College of Business Studies, Delhi university, India, on 16-17 February 2025</p>
+                        <p>ICICC - 2025 will be organized by Shaheed Sukhdev College of Business Studies, Delhi university, India, on 14-15 February 2025</p>
                     </marquee>
                 </div>
             </div>

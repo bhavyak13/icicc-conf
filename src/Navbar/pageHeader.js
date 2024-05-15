@@ -29,7 +29,7 @@ const Header = () => {
                     IN ASSOCIATION UNIVERSITY OF VALLADOLID SPAIN</h2>
                     <h2 className={
                         style.dates
-                    }>16-17th FEBRUARY 2025</h2>
+                    }>14-15th FEBRUARY 2025</h2>
                 </div>
                 <div className={style.mobile}>
                 <div className={style.logoCont}>
