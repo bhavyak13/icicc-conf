@@ -4,15 +4,15 @@ import style from "../header.module.css";
 
 
 const spdata = [
-//     {
-//         anchor: require("./SS-001.pdf"),
-//         title: "Artificial Intelligence in Cyber Security",
-//         organisers: [
-//             "Dr. Shivi Garg, J.C. Bose University of Science & Technology, YMCA, Faridabad, India",
-//             "Dr. Saumya Bansal, Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM), New Delhi, India"
-//         ],
-//         spname: "SS 001.pdf"
-//     },
+    {
+        anchor: require("./SS-001.pdf"),
+        title: "Comprehensive Trends and Patterns in AI, Deep Learning, NLP and Blockchain",
+        organisers: [
+            "Dr. Garima Jaiswal, Assistant Professor, SCSET, Bennett University, India",
+            "Dr. Ritu Rani, Research Associate -III (DST Curie AI Project), Indira Gandhi Delhi Technical University for Women, India"
+        ],
+        spname: "SS 001.pdf"
+    },
 //     {
 //         anchor: require("./SS-002.pdf"),
 //         title: "SS_02: Multidisciplinary Aspects of Cyber Security",
