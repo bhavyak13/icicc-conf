@@ -13,23 +13,24 @@ const spdata = [
         ],
         spname: "SS 001.pdf"
     },
-//     {
-//         anchor: require("./SS-002.pdf"),
-//         title: "SS_02: Multidisciplinary Aspects of Cyber Security",
-//         organisers: [
-//             "Dr. Zahid, State University of New York Polytechnic Institute, Utica, USA",
-//             "Dr. Shivi Garg, J.C. Bose University of Science & Technology, YMCA, Faridabad, India","Dr. Bhawna Narwal, Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India"
-//         ],
-//         spname: "SS 002.pdf"
-//     },
-//     {
-//         anchor: require("./SS-003.pdf"),
-//         title: "SS_03: Massive IoT Connectivity for Large-Scale Mobile Communications",
-//         organisers: [
-//             "Dr. A. Suresh,Associate Professor, Department of Networking and Communications,School of Computing, SRM Institute of Science and Technology, Chennai, Tamil Nadu, India"
-//         ],
-//         spname: "SS 003.pdf"
-//     },
+    {
+        anchor: require("./SS-002.pdf"),
+        title: "SS_02: Recent Advances in AI and Machine Learning: Innovations, Environmental Sustainability, and Healthcare",
+        organisers: [
+            "Dr. Sangeeta Kumari, Bennett University (The Times Group), Greater Noida, U.P., India"
+        ],
+        spname: "SS 002.pdf"
+    },
+    {
+        anchor: require("./SS-003.pdf"),
+        title: "SS_03: Recent Advances in Intelligent Systems and Communication & Machine Learning",
+        organisers: [
+            "Dr. Vikash Yadav, Government Polytechnic Bighapur Unnao, Uttar Pradesh",
+            "Mr. Anup Lal Yadav, Chandigarh University, Mohali, Punjab, India",
+            "Mr. Navjot Singh Talwandi, Chandigarh University, Mohali, Punjab, India"
+        ],
+        spname: "SS 003.pdf"
+    },
 //     {
 //         anchor: require("./SS-004.pdf"),
 //         title: "SS_04: Emerging Intelligent Computing Techniques and their Applications (EICTA)",
