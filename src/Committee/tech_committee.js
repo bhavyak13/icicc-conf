@@ -111,7 +111,7 @@ const list_of_tec=["Prof (Dr.) Vincenzo Piuri :  University of Milan Italy.",
 ,"Dr. Babita Pandey : Associate Professor School of Computer Application Lovely Professional ,University"
 ,"Dr. Samarjeet Borah : Associate Professor Sikkim Manipal Institute of Technology India"
 ,"Prof(Dr.) Siddhartha Bhattacharyya : Principal RCC Institute of Information Technology Kolkata ,India"
-,"Dr. Uzzal Sharma : Asst. Professor Department of Computer Science & EngineeringAssam Don Bosco ,University"
+,"Dr. Uzzal Sharma : Associate Professor, Department of Computer Science, Birangana Sati Sadhani Rajyik Vishwavidyalaya (A State Govt. University), Golaghat, India"
 ,"Dr. NANDINI PRASAD : K S Associate Professor Department of Computerscience & Engineering Dr. ,AIT Bangalore"
 ,"Dr. K. David : Assistant Professor PG & Research Department of Computer Science Government Arts ,College Udumalpet"
 ,"Prof(Dr.) S. Pushpa : St.Peter's University Avadi Chennai"
