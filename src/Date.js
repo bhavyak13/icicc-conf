@@ -13,28 +13,32 @@ const Date=()=>{
   <hr />
 <p>
 <b>Notification of first review:</b><br />
-<span className={style.colorDate}>January 05th, 2025</span>
+<span className={style.colorDate}>September 05th, 2024
+</span>
 <hr />
 </p>
 <p>
 <b>Submission of revised manuscript</b><br />
-<span className={style.colorDate}>January 10th, 2025</span>
+<span className={style.colorDate}>September 30th, 2024
+</span>
 <hr />
 </p>
 <p>
 <b>Notification of Acceptance / Rejection</b><br />
-<span className={style.colorDate}>January 15th, 2025
+<span className={style.colorDate}>October 15th, 2024
+
 </span>
 <hr />
 </p>
 <p>
 <b>Final manuscript due</b><br />
-<span className={style.colorDate}>January 20th, 2025</span>
+<span className={style.colorDate}>October 30th, 2024
+</span>
 <hr />
 </p>
 <p>
 <b>Registration Deadline</b><br />
-<span className={style.colorDate}>January 05th, 2025</span>
+<span className={style.colorDate}>November 30th, 2024</span>
 <hr />
 </p>
 <p>
