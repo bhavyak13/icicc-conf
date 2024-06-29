@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.f5c98669.js",
+    "main.js": "/static/js/main.780b36d2.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
     "static/media/ICICC2024 POSTER.pdf": "/static/media/ICICC2024 POSTER.842bd5eacfa35fbbd8e2.pdf",
     "static/media/cmes.jpeg": "/static/media/cmes.40491d1c11d97916bfe6.jpeg",
-    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.0f17863ff9e16d5c9c77.docx",
+    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.0b01942c2cd835903766.docx",
     "static/media/sponsor-content.png": "/static/media/sponsor-content.03723ac6a0358137f84d.png",
-    "static/media/Sponsorship.pdf": "/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
     "static/media/Workshop_Proposal_Template.docx": "/static/media/Workshop_Proposal_Template.d18afe1b387bf6e93015.docx",
+    "static/media/Sponsorship.pdf": "/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
     "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
     "static/media/Special_Session_Proposal_Template.docx": "/static/media/Special_Session_Proposal_Template.31f347006f168f90d745.docx",
     "static/media/ic18-1.png": "/static/media/ic18-1.9ea8e81ebcbe9b63a998.png",
@@ -25,9 +25,11 @@
     "static/media/award-2022.pdf": "/static/media/award-2022.7fb75f6677a09b06012a.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.230443cfdadb9cc11739.pdf",
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
+    "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.c248c3651f3d10a28dd4.docx",
     "static/media/SS-002.pdf": "/static/media/SS-002.601014e46efc79a1b0cb.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
     "static/media/SS-003.pdf": "/static/media/SS-003.d99525f96076782e97b9.pdf",
+    "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.b3ed4293c7c5682b4687.docx",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
@@ -52,11 +54,9 @@
     "static/media/20.jpeg": "/static/media/20.48b160f439c1c28f19ad.jpeg",
     "static/media/ic20-5.jpeg": "/static/media/ic20-5.bc6c58a1369ffbb04f19.jpeg",
     "static/media/Bal_Virdee.jpg": "/static/media/Bal_Virdee.84db0adf9416088a9be5.jpg",
-    "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.309c1fbf8c6814e8044e.docx",
     "static/media/17.jpeg": "/static/media/17.7d40aa4f2acf0355696c.jpeg",
     "static/media/img04.jpg": "/static/media/img04.853a9c55574bc91a3d58.jpg",
     "static/media/ic20-6.jpeg": "/static/media/ic20-6.20b3167040231c9f69e7.jpeg",
-    "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.a85e2bed14ba54b41e91.docx",
     "static/media/sp3.png": "/static/media/sp3.ce0292e2f7d6360a430f.png",
     "static/media/img08.png": "/static/media/img08.fb333a86d66648ffa9ed.png",
     "static/media/icicc-21-7.jpeg": "/static/media/icicc-21-7.65b75929f74ebfedd57b.jpeg",
@@ -114,11 +114,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.f5c98669.js.map": "/static/js/main.f5c98669.js.map",
+    "main.780b36d2.js.map": "/static/js/main.780b36d2.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9407f18.css",
-    "static/js/main.f5c98669.js"
+    "static/js/main.780b36d2.js"
   ]
 }
