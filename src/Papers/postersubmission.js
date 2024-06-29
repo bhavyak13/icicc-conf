@@ -14,9 +14,9 @@ const PosterSubmission=()=>{
   <p>  The scope of this conference is to provide a platform for researchers, engineers, academicians, and industry professionals from all over the world to present their research results and development activities in various topics of Engineering and Technology. It allows participants to discuss the recent developments in the solidification of computer science and management and review challenges faced by the community in the 21st century.
   </p>
   <ol>
-    <li>The Original unpublished Research Papers, Articles and working papers having a maximum length of 8 pages on the topics related to the theme are invited for Poster Paper presentations in the conference proceedings.
+    <li>The Original unpublished Research Papers, Articles and working papers having a maximum length of 10 pages on the topics related to the theme are invited for Poster Paper presentations in the conference proceedings.
     </li>
-    <li>Kindly ensure your paper is formatted (not exceeding 8 pages written in A4 size).
+    <li>Kindly ensure your paper is formatted (not exceeding 10 pages written in A4 size).
     All papers must be submitted online via <a href="https://cmt3.research.microsoft.com/ICICC2025">Microsoft CMT Submission Portal</a>
     </li>
     <li>All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.</li>

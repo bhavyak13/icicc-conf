@@ -11,10 +11,10 @@ const PaperSubmission=()=>{
   <hr />
   <div className={style.flex}>
   <div className={style.abtInstCont}>
-  <p >The Original unpublished Research Papers, Articles & Working papers having maximum length 8 pages on the topics related to the theme are invited for presentation/publication in the conference proceedings. 
+  <p >The Original unpublished Research Papers, Articles & Working papers having maximum length 10 pages on the topics related to the theme are invited for presentation/publication in the conference proceedings. 
   </p>
   <ol>
-    <li>Kindly ensure that your paper is formatted as per  <a href={require("./Manuscript guidelines for English books.pdf")}>Springer Guidelines </a>(not exceeding 8 pages written in A4 size). Please refer the attached springer template for preparation of your paper.</li>
+    <li>Kindly ensure that your paper is formatted as per  <a href={require("./Manuscript guidelines for English books.pdf")}>Springer Guidelines </a>(not exceeding 10 pages written in A4 size). Please refer the attached springer template for preparation of your paper.</li>
     <li>All papers must be submitted online. via 
     {/* <a href="https://easychair.org/conferences/?conf=icicc2023">Easychair Submission</a> */}
     </li>
