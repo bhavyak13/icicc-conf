@@ -9,7 +9,7 @@ const Date=()=>{
   <marquee  direction="up" className={style.marquee} style={{width:"30vw"}} >
 
   <p><b>Paper Submission Deadline:</b><br />
-  <span className={style.colorDate}>December 31st, 2024</span></p>
+  <span className={style.colorDate}>August 20th, 2024</span></p>
   <hr />
 <p>
 <b>Notification of first review:</b><br />
