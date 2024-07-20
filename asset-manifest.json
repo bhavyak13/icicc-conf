@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.e7ccf6da.js",
+    "main.js": "/static/js/main.7cef5589.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
     "static/media/ICICC2024 POSTER.pdf": "/static/media/ICICC2024 POSTER.842bd5eacfa35fbbd8e2.pdf",
     "static/media/cmes.jpeg": "/static/media/cmes.40491d1c11d97916bfe6.jpeg",
-    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.0b01942c2cd835903766.docx",
     "static/media/sponsor-content.png": "/static/media/sponsor-content.03723ac6a0358137f84d.png",
-    "static/media/Workshop_Proposal_Template.docx": "/static/media/Workshop_Proposal_Template.d18afe1b387bf6e93015.docx",
+    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.0b01942c2cd835903766.docx",
+    "static/media/Workshop_Proposal_Template.docx": "/static/media/Workshop_Proposal_Template.5d8a77a798497ba13328.docx",
     "static/media/Sponsorship.pdf": "/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
     "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
     "static/media/Special_Session_Proposal_Template.docx": "/static/media/Special_Session_Proposal_Template.31f347006f168f90d745.docx",
@@ -114,11 +114,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.e7ccf6da.js.map": "/static/js/main.e7ccf6da.js.map",
+    "main.7cef5589.js.map": "/static/js/main.7cef5589.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9407f18.css",
-    "static/js/main.e7ccf6da.js"
+    "static/js/main.7cef5589.js"
   ]
 }
