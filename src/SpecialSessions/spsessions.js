@@ -31,15 +31,14 @@ const spdata = [
         ],
         spname: "SS 003.pdf"
     },
-//     {
-//         anchor: require("./SS-004.pdf"),
-//         title: "SS_04: Emerging Intelligent Computing Techniques and their Applications (EICTA)",
-//         organisers: [
-//             "Dr. Nitish Pathak Associate Professor,Bhagwan Parshuram Institute of Technology (BPIT), Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India",
-//             "Dr. Neelam Sharma Assistant Professor, Maharaja Agrasen Institute of Technology (MAIT), Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India"
-//         ],
-//         spname: "SS 004.pdf"
-//     },
+    {
+        anchor: require("./SS-004.pdf"),
+        title: "SS_04: Smart Systems and Beyond: Unification of AI, ML and Deep learning in Modern Computing Paradigms",
+        organisers: [
+            "Dr. Lokesh Jain, Department of Information Technology, Jagan Institute of Management Studies, Rohini, Delhi, India"
+        ],
+        spname: "SS 004.pdf"
+    },
 //      {
 //         anchor: require("./SS-005.pdf"),
 //         title: "SS_05: Research Trends in Data Science, IoT and Computational Intelligence in 6G Communications",
