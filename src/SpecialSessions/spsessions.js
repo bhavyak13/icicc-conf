@@ -39,15 +39,15 @@ const spdata = [
         ],
         spname: "SS 004.pdf"
     },
-//      {
-//         anchor: require("./SS-005.pdf"),
-//         title: "SS_05: Research Trends in Data Science, IoT and Computational Intelligence in 6G Communications",
-//         organisers: [
-//             "Dr. Rajendra Kumar, Department of Computer Science & Engineering, Sharda University, India",
-//             "Dr. Shruti Aggarwal, Department of Computer Science and Engineering, Thapar University, Patiala, India"
-//         ],
-//         spname: "SS 005.pdf"
-//     }, 
+     {
+        anchor: require("./SS-005.pdf"),
+        title: "SS_05: Cutting-edge Research and Applications in Data Science, Machine Learning, IoT, and the Metaverse",
+        organisers: [
+            "Dr. Divya Agarwal, Assistant Professor, Vivekananda Institute of Professional Studies-Technical campus, Delhi, India",
+            "Dr. Sandhya Tarwani, Assistant Professor, Vivekananda Institute of Professional Studies-Technical campus, Delhi, India"
+        ],
+        spname: "SS 005.pdf"
+    }, 
 //     {
 //         anchor: require("./SS-006.pdf"),
 //         title: "SS_06: Innovative Research Trends in Business Intelligence and Analytics",
