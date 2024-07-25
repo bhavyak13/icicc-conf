@@ -48,16 +48,18 @@ const spdata = [
         ],
         spname: "SS 005.pdf"
     }, 
-//     {
-//         anchor: require("./SS-006.pdf"),
-//         title: "SS_06: Innovative Research Trends in Business Intelligence and Analytics",
-//         organisers: [
-//             "Dr. Abha Kiran Rajpoot, Department of CSE(AI&ML), KIET Group of Institutions, Ghaziabad, India",
-//             "Dr. Gaurav Agrawal, Department of CSE(AI), KIET Group of Institutions, Ghaziabad, India",
-//             "Mr. Anurag Gupta, Department of CSE(AI), KIET Group of Institutions, Ghaziabad, India"
-//         ],
-//         spname: "SS 006.pdf"
-//     }, 
+    {
+        anchor: require("./SS-006.pdf"),
+        title: "SS_06: Innovative AI-Driven Educational Solutions: Integrating Cutting-Edge Technology with Future Learning",
+        organisers: [
+            "Assoc. Prof. Mathias Fonkam, Associate Professor, College of Information Sciences and Technology, Penn State University, USA",
+            "Assoc. Prof. Narasimha Rao Vajjhala, Dean and Associate Professor, Senior Member of IEEE and ACM, Faculty of Engineering and Architecture, University of New York Tirana, Albania",
+            "Dr. Vasileios Paliktzoglou, Assistant Professor, Member of IEEE, School of Creative Media, Bahrain Polytechnic, Bahrain",
+            "Dr. Sandeep Singh Sengar, Senior Lecturer and Head of Computer Vision and Artificial Intelligence, College of Information Sciences and Technology, Cardiff Metropolitan University, United Kingdom",
+            "Dr. Eriona Çela, Assistant Professor, Department of Psychology and Education, University of New York Tirana, Albania"
+        ],
+        spname: "SS 006.pdf"
+    }, 
 //     {
 //         anchor: require("./SS-007.pdf"),
 //         title: "SS_07: Artificial Intelligence for Sustainable Computing and Business Practices",
