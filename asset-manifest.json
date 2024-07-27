@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.354532e2.js",
+    "main.js": "/static/js/main.db745a94.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -40,6 +40,7 @@
     "static/media/upi.png": "/static/media/upi.5db4b1e81bc7b43c8e51.png",
     "static/media/19.jpeg": "/static/media/19.d60d05127bca68525070.jpeg",
     "static/media/ic20-1.jpeg": "/static/media/ic20-1.6c5ffab27b2756a8e496.jpeg",
+    "static/media/hbet.jpg": "/static/media/hbet.a9e400b5418b30239a41.jpg",
     "static/media/1.jpg": "/static/media/1.1b860a84c252c6ff29d5.jpg",
     "static/media/Checklist.pdf": "/static/media/Checklist.53f333387521d291e859.pdf",
     "static/media/21.jpeg": "/static/media/21.b45c7c37ef7ea7e6c4de.jpeg",
@@ -117,11 +118,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.354532e2.js.map": "/static/js/main.354532e2.js.map",
+    "main.db745a94.js.map": "/static/js/main.db745a94.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9407f18.css",
-    "static/js/main.354532e2.js"
+    "static/js/main.db745a94.js"
   ]
 }
