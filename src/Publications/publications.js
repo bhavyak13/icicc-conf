@@ -56,7 +56,10 @@ const pubdata = [
         anchor: require("./Images/slas.jpg"),
         title: "SLAS TECHNOLOGY, ELSEVIER-SCIE (IF-2.8)",
     }, 
-     
+    {
+        anchor: require("./Images/hbet.jpg"),
+        title: "Human Behavior and Emerging Technologies, Wiley- ESCI & Scopus",
+    },  
     
     
   ];
