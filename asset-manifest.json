@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.db745a94.js",
+    "main.js": "/static/js/main.13bf3307.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -28,6 +28,7 @@
     "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.c248c3651f3d10a28dd4.docx",
     "static/media/SS-006.pdf": "/static/media/SS-006.0c963aaf20fb934445b7.pdf",
     "static/media/SS-004.pdf": "/static/media/SS-004.eede23b4d6e48c56b81e.pdf",
+    "static/media/SS-007.pdf": "/static/media/SS-007.698e91d5cf0f38f33c06.pdf",
     "static/media/SS-002.pdf": "/static/media/SS-002.601014e46efc79a1b0cb.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
     "static/media/SS-005.pdf": "/static/media/SS-005.db8084553f5b6005f0b3.pdf",
@@ -118,11 +119,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.db745a94.js.map": "/static/js/main.db745a94.js.map",
+    "main.13bf3307.js.map": "/static/js/main.13bf3307.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9407f18.css",
-    "static/js/main.db745a94.js"
+    "static/js/main.13bf3307.js"
   ]
 }
