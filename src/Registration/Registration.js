@@ -197,20 +197,20 @@ const Registration = () => {
           <tbody>
             <tr>
               <td>Research Scholar/Student</td>
-              <td>INR 10000</td>
               <td>INR 11000</td>
+              <td>INR 12000</td>
 
             </tr>
             <tr>
               <td>Academician</td>
-              <td>INR 11000</td>
               <td>INR 12000</td>
+              <td>INR 13000</td>
 
             </tr>
             <tr>
               <td>Industrial Participants</td>
-              <td>INR 12000</td>
               <td>INR 13000</td>
+              <td>INR 14000</td>
 
             </tr>
             <tr>

@@ -60,16 +60,14 @@ const spdata = [
         ],
         spname: "SS 006.pdf"
     }, 
-//     {
-//         anchor: require("./SS-007.pdf"),
-//         title: "SS_07: Artificial Intelligence for Sustainable Computing and Business Practices",
-//         organisers: [
-//             "Dr. Arti Jain, Jaypee Institute of Information Technology, Noida, Uttar Pradesh, India",
-//             "Prof. Divakar Yadav, School of Computer and Information Sciences, IGNOU, New Delhi, India",
-//             "Prof. Santoshi Sengupta, Graphic Era Hill University, Bhimtal, Uttarakhand, India"
-//         ],
-//         spname: "SS 007.pdf"
-//     }, 
+    {
+        anchor: require("./SS-007.pdf"),
+        title: "SS_07: Artificial Intelligence and its Impact on Emerging Technology",
+        organisers: [
+            "Dr. Uzzal Sharma, Department of Computer Science, Associate Professor, Birangana Sati Sadhani Rajyik Viswavidyalaya, India"
+        ],
+        spname: "SS 007.pdf"
+    }, 
 //     {
 //         anchor: require("./SS-008.pdf"),
 //         title: "SS_08: Multi-Objective Optimization: Advancements and Future Prospects",
