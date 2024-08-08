@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.13bf3307.js",
+    "main.js": "/static/js/main.2701bf58.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
     "static/media/ICICC2024 POSTER.pdf": "/static/media/ICICC2024 POSTER.842bd5eacfa35fbbd8e2.pdf",
     "static/media/cmes.jpeg": "/static/media/cmes.40491d1c11d97916bfe6.jpeg",
+    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.1986351bcc5cbb3c483e.docx",
+    "static/media/Workshop_Proposal_Template.docx": "/static/media/Workshop_Proposal_Template.e346ba5d91abf8758f31.docx",
     "static/media/sponsor-content.png": "/static/media/sponsor-content.03723ac6a0358137f84d.png",
-    "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.0b01942c2cd835903766.docx",
-    "static/media/Workshop_Proposal_Template.docx": "/static/media/Workshop_Proposal_Template.5d8a77a798497ba13328.docx",
     "static/media/Sponsorship.pdf": "/static/media/Sponsorship.b5e84e6fa1af26b4ba35.pdf",
     "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
     "static/media/Special_Session_Proposal_Template.docx": "/static/media/Special_Session_Proposal_Template.31f347006f168f90d745.docx",
@@ -31,18 +31,19 @@
     "static/media/SS-007.pdf": "/static/media/SS-007.698e91d5cf0f38f33c06.pdf",
     "static/media/SS-002.pdf": "/static/media/SS-002.601014e46efc79a1b0cb.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
+    "static/media/logo2.jpeg": "/static/media/logo2.408dbd4beaf34f2a2a21.jpeg",
     "static/media/SS-005.pdf": "/static/media/SS-005.db8084553f5b6005f0b3.pdf",
     "static/media/SS-003.pdf": "/static/media/SS-003.d99525f96076782e97b9.pdf",
     "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.b3ed4293c7c5682b4687.docx",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
+    "static/media/1.jpg": "/static/media/1.1b860a84c252c6ff29d5.jpg",
     "static/media/Untitled design.png": "/static/media/Untitled design.e6b88a50ab17ec656e78.png",
     "static/media/upi.png": "/static/media/upi.5db4b1e81bc7b43c8e51.png",
     "static/media/19.jpeg": "/static/media/19.d60d05127bca68525070.jpeg",
     "static/media/ic20-1.jpeg": "/static/media/ic20-1.6c5ffab27b2756a8e496.jpeg",
     "static/media/hbet.jpg": "/static/media/hbet.a9e400b5418b30239a41.jpg",
-    "static/media/1.jpg": "/static/media/1.1b860a84c252c6ff29d5.jpg",
     "static/media/Checklist.pdf": "/static/media/Checklist.53f333387521d291e859.pdf",
     "static/media/21.jpeg": "/static/media/21.b45c7c37ef7ea7e6c4de.jpeg",
     "static/media/11.jpeg": "/static/media/11.51ea402e7a5ea413334d.jpeg",
@@ -119,11 +120,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.13bf3307.js.map": "/static/js/main.13bf3307.js.map",
+    "main.2701bf58.js.map": "/static/js/main.2701bf58.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9407f18.css",
-    "static/js/main.13bf3307.js"
+    "static/js/main.2701bf58.js"
   ]
 }
