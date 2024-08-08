@@ -68,16 +68,16 @@ const spdata = [
         ],
         spname: "SS 007.pdf"
     }, 
-//     {
-//         anchor: require("./SS-008.pdf"),
-//         title: "SS_08: Multi-Objective Optimization: Advancements and Future Prospects",
-//         organisers: [
-//             "Dr. Aditya Gupta, Manipal University Jaipur, India",
-//             "Dr. Vibha Jain, Manipal University Jaipur, India",
-//             "Dr. Gunjan, National Institute of Technology, Delhi, India"
-//         ],
-//         spname: "SS 008.pdf"
-//     }, {
+    {
+        anchor: require("./SS-008.pdf"),
+        title: "SS_08: Next-Generation Networks for High-Performance Computing: Advanced Communication Technologies",
+        organisers: [
+            "Dr. A. Suresh, Associate Professor, Department of Networking and Communications, School of Computing, SRM Institute of Science and Technology, Chennai, Tamil Nadu, India",
+            "Dr. V. Anbarasu, Associate Professor, Department of Networking and Communications, School of Computing, SRM Institute of Science and Technology, Chennai, Tamil Nadu, India"
+        ],
+        spname: "SS 008.pdf"
+    },
+    //  {
 //         anchor: require("./SS-009.pdf"),
 //         title: "SS_09: Contemporary Innovations in Data Sciences, Internet of Things (IoT) and Wireless Communication",
 //         organisers: [
