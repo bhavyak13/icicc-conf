@@ -139,7 +139,7 @@ const SteerCom=()=>{
             {"MemName":"Dr. Ashish Khanna",
             "InstName":"(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)"},
             {"MemName":"Dr. Gulshan Shrivastava",
-            "InstName":"( Galgotias University, India.)"}
+            "InstName":"( Bennett University, Greater Noida, India)"}
         ]
     },  {
         "Name":"Convener(s)",

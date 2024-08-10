@@ -146,9 +146,25 @@
   height: auto;
 }
 
+.indAlert {
+  background-color: #d9edf7 !important;
+  border-radius: 5px;
+  padding: 10px;
+  min-height: 120px;
+  height: auto;
+}
+
 .alertCont {
   margin: 0 0 1em;
   font-size: 15px;
+  line-height: 1.2em;
+  color: black;
+
+}
+.indCont {
+  margin: 0 0 1em;
+  font-size: 18px;
+  font-weight: 500;
   line-height: 1.2em;
   color: black;
 
@@ -333,11 +349,11 @@
 }
 .navLink{
   margin:10px 10px;
-  color: black,!important;
+  color: black !important;
 }
 .navDD{
   margin:2px;
-  color: black,!important;
+  color: black !important;
 }
 @media (max-width:500px) {
   .headerCont {

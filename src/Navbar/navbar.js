@@ -21,9 +21,10 @@ function CommonNavbar() {
                         {
                             display: 'flex',
                             width: '100%',
-                            justifyContent: 'space-around',
+                            justifyContent: 'center',
                             fontSize: '15px',
-                            padding: '20'
+                            textAlign:'center',
+                            padding: '10px'
                         }
                 }>
 
@@ -359,6 +360,62 @@ function CommonNavbar() {
                                 ICICC 2018
                             </NavLink>
                         </NavDropdown.Item>
+                    </NavDropdown>
+
+                    <NavDropdown title="Previous UILA Awards" id="basic-nav-dropdown"
+                        className={
+                            style.navDD
+                    }>  
+                    <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="/uila24">
+                                UILA AWARDS 2024
+                            </NavLink>
+                        </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="/uila23">
+                                UILA AWARDS 2023
+                            </NavLink>
+                        </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="/uila22">
+                                UILA AWARDS 2022
+                            </NavLink>
+                        </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="/uila21">
+                                UILA AWARDS 2021
+                            </NavLink>
+                        </NavDropdown.Item>
+                        <NavDropdown.Item onClick={
+                            () => setExpanded(false)
+                        }>
+                            <NavLink className={
+                                    style.links
+                                }
+                                to="/uila20">
+                                UILA AWARDS 2020
+                            </NavLink>
+                        </NavDropdown.Item>                       
                     </NavDropdown>
 
                 </Nav>

@@ -29,6 +29,11 @@ import './App.css'
 import PosterSubmission from './Papers/postersubmission';
 import Policy from './Policy/Policy';
 import Icicc24 from './PrevConf/icicc24';
+import Uila24 from './Awards/uila24';
+import Uila23 from './Awards/uila23';
+import Uila22 from './Awards/uila22';
+import Uila21 from './Awards/uila21';
+import Uila20 from './Awards/uila20';
 
 const router = createBrowserRouter([
   {
@@ -144,6 +149,26 @@ const router = createBrowserRouter([
         path: 'policy',
         element: <Policy />
       }, 
+      {
+        path: 'uila24',
+        element: <Uila24 />
+      },
+      {
+        path: 'uila23',
+        element: <Uila23 />
+      },
+      {
+        path: 'uila22',
+        element: <Uila22 />
+      },
+      {
+        path: 'uila21',
+        element: <Uila21 />
+      },
+      {
+        path: 'uila20',
+        element: <Uila20 />
+      },
     ]
   }
 ])

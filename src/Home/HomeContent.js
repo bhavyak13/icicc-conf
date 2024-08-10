@@ -120,7 +120,20 @@ const HomeCont = () => {
             </div>
             
             <br />
-         
+            <div className="btnn">
+                <button className={
+                    style.paymentBtn
+                } >
+                    <a 
+                    href="https://scholar.google.com/citations?hl=en&user=fFvhHUAAAAAJ" target="_blank"
+                        className={
+                            style.links
+                        }
+                        style={
+                            {color: "white"}
+                    }>ICICC Conference H-Index</a>
+                </button>
+            </div>
 <br />
             <h3 className={
                 style.abtHeader
