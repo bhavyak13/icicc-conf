@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9407f18.css",
-    "main.js": "/static/js/main.39eb0449.js",
+    "main.css": "/static/css/main.9ac52d49.css",
+    "main.js": "/static/js/main.e5d00be6.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -15,6 +15,7 @@
     "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
     "static/media/Special_Session_Proposal_Template.docx": "/static/media/Special_Session_Proposal_Template.31f347006f168f90d745.docx",
     "static/media/ic18-1.png": "/static/media/ic18-1.9ea8e81ebcbe9b63a998.png",
+    "static/media/Word+Template.zip": "/static/media/Word+Template.22e9741525c2f6622b04.zip",
     "static/media/ic18-3.png": "/static/media/ic18-3.75caca575ef3ff36e66c.png",
     "static/media/ic18-5.png": "/static/media/ic18-5.98c7c31ddfe57df909bb.png",
     "static/media/Manuscript guidelines for English books.pdf": "/static/media/Manuscript guidelines for English books.b4c0e227c2235ee1639f.pdf",
@@ -120,12 +121,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.f9407f18.css.map": "/static/css/main.f9407f18.css.map",
-    "main.39eb0449.js.map": "/static/js/main.39eb0449.js.map",
+    "main.9ac52d49.css.map": "/static/css/main.9ac52d49.css.map",
+    "main.e5d00be6.js.map": "/static/js/main.e5d00be6.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9407f18.css",
-    "static/js/main.39eb0449.js"
+    "static/css/main.9ac52d49.css",
+    "static/js/main.e5d00be6.js"
   ]
 }
