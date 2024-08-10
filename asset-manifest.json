@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ac52d49.css",
-    "main.js": "/static/js/main.e5d00be6.js",
+    "main.js": "/static/js/main.0a816b43.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -23,7 +23,6 @@
     "static/media/slas.jpg": "/static/media/slas.a90852c9f60fd7b74cf6.jpg",
     "static/media/ic20-2.jpeg": "/static/media/ic20-2.106d5264c37be46840af.jpeg",
     "static/media/ic18-4.png": "/static/media/ic18-4.c097d3d1a865fa799795.png",
-    "static/media/award-2022.pdf": "/static/media/award-2022.7fb75f6677a09b06012a.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.230443cfdadb9cc11739.pdf",
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
     "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.c248c3651f3d10a28dd4.docx",
@@ -51,7 +50,6 @@
     "static/media/11.jpeg": "/static/media/11.51ea402e7a5ea413334d.jpeg",
     "static/media/13.jpeg": "/static/media/13.973c90e54d11974e2a90.jpeg",
     "static/media/10.jpeg": "/static/media/10.f08424998d89826fb5b3.jpeg",
-    "static/media/award-2023.pdf": "/static/media/award-2023.de8ce1ed775011fb051b.pdf",
     "static/media/22.jpeg": "/static/media/22.e8912342a1835f017220.jpeg",
     "static/media/8.jpeg": "/static/media/8.5a48266d4b02381f89d7.jpeg",
     "static/media/18.jpeg": "/static/media/18.8095bedb323ff7266b57.jpeg",
@@ -72,9 +70,7 @@
     "static/media/icicc-21-6.jpeg": "/static/media/icicc-21-6.2ea020b62a69007dd3c5.jpeg",
     "static/media/ic20-3.jpeg": "/static/media/ic20-3.33d60b39601c661ce306.jpeg",
     "static/media/ic20-4.jpeg": "/static/media/ic20-4.39782fac6e1de4e3c8f3.jpeg",
-    "static/media/award-2021.pdf": "/static/media/award-2021.f4e28782b0ce6fa33b7d.pdf",
     "static/media/5.jpeg": "/static/media/5.ae2f6ba249663f4811cf.jpeg",
-    "static/media/award-2020.pdf": "/static/media/award-2020.6acc753e472c549d049a.pdf",
     "static/media/icicc-21-2.jpeg": "/static/media/icicc-21-2.923018b3951ee2efc7cd.jpeg",
     "static/media/2.jpeg": "/static/media/2.29e40904a5473a98619c.jpeg",
     "static/media/icicc-21-14.jpeg": "/static/media/icicc-21-14.6780e3ff8ba7ebea5b92.jpeg",
@@ -122,11 +118,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.9ac52d49.css.map": "/static/css/main.9ac52d49.css.map",
-    "main.e5d00be6.js.map": "/static/js/main.e5d00be6.js.map",
+    "main.0a816b43.js.map": "/static/js/main.0a816b43.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac52d49.css",
-    "static/js/main.e5d00be6.js"
+    "static/js/main.0a816b43.js"
   ]
 }
