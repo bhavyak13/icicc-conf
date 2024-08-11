@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ac52d49.css",
-    "main.js": "/static/js/main.0a816b43.js",
+    "main.js": "/static/js/main.410b60df.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -95,6 +95,7 @@
     "static/media/intel.jpg": "/static/media/intel.1e972292c118af2957b5.jpg",
     "static/media/sp4.jpg": "/static/media/sp4.899282303527893daa52.jpg",
     "static/media/itl.jpg": "/static/media/itl.5f0ff1e565c63f4d6ff6.jpg",
+    "static/media/springer template.docx": "/static/media/springer template.e45a211e379d6bfd713e.docx",
     "static/media/img01.png": "/static/media/img01.e1cc46e8ea2bf347519f.png",
     "static/media/icicc-21-11.jpeg": "/static/media/icicc-21-11.dcdd228ac79c1126fc2e.jpeg",
     "static/media/img07.png": "/static/media/img07.749f89d58600c4d84f7d.png",
@@ -118,11 +119,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.9ac52d49.css.map": "/static/css/main.9ac52d49.css.map",
-    "main.0a816b43.js.map": "/static/js/main.0a816b43.js.map",
+    "main.410b60df.js.map": "/static/js/main.410b60df.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac52d49.css",
-    "static/js/main.0a816b43.js"
+    "static/js/main.410b60df.js"
   ]
 }
