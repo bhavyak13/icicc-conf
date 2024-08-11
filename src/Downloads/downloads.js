@@ -155,6 +155,20 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
+                        <Button variant="primary"
+                            className={
+                                style.downloadBadges
+                        }
+                        href={require("./docs/springer template.docx")}
+                        target="_blank"
+                        >Springer Template
+                            <img src={
+                                    require('./docs/icon.png')
+                                }
+                                className={
+                                    style.icon
+                            }></img>
+                        </Button>
 
                     </div>
 
