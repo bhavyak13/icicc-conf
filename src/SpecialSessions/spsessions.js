@@ -77,17 +77,15 @@ const spdata = [
         ],
         spname: "SS 008.pdf"
     },
-    //  {
-//         anchor: require("./SS-009.pdf"),
-//         title: "SS_09: Contemporary Innovations in Data Sciences, Internet of Things (IoT) and Wireless Communication",
-//         organisers: [
-//             "Dr. Gurpreet Singh, Punjab Institute of Technology, Rajpura (MRSPTU, Bathinda), Punjab",
-//             "Dr. Amanpreet Kaur, CUIET, Chitkara University, Rajpura, Punjab",
-//             "Dr. Aashdeep Singh, Punjab Institute of Technology, Rajpura (MRSPTU, Bathinda), Punjab",
-//             "Dr. Rohan Gupta, Chandigarh University, Gharaun, Mohali, Punjab"
-//         ],
-//         spname: "SS 009.pdf"
-//     }, 
+     {
+        anchor: require("./SS-009.pdf"),
+        title: "SS_09: Innovation in Biomedical Engineering",
+        organisers: [
+            "Dr. Gurmeet Singh (PhD IITD, Associate Professor, Guru Tegh Bahadur Institute of technology ,New Delhi , India",
+            "Dr. Ramandeep Singh, Scientist-D, Neuro-engineering Lab, Department of Neurosurgery, AIIMS, New Delhi,India"
+        ],
+        spname: "SS 009.pdf"
+    }, 
 //     {
 //         anchor: require("./SS-010.pdf"),
 //         title: "SS_10:Recent Advances in Intelligent Systems and Communication & Machine Learning",

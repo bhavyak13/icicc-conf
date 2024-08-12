@@ -24,8 +24,8 @@ Third UI Leadership awards will be organized along with the 8th International Co
 <hr />
 <Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>15th December, 2023</b></ListGroup.Item>
-        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>20th December, 2023</b></ListGroup.Item>
+        <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>15th December, 2024</b></ListGroup.Item>
+        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>25th December, 2024</b></ListGroup.Item>
       </ListGroup>
 </Card>
 <br />
@@ -675,7 +675,7 @@ Supervisor of the Year
 <h5 style={{fontWeight:"700"}}>NOMINATION AND EVALUATION:</h5>
 			<Card style={{ width: '70vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item>Each applicant would be required to fill in a Self-Nomination form and send it to us by 31st January, 2023</ListGroup.Item>
+        <ListGroup.Item>Each applicant would be required to fill in a Self-Nomination form and send it to us by 15th December, 2024</ListGroup.Item>
         <ListGroup.Item>Any organization/individual from education/allied sector can apply. Each applicant can apply for one or multiple categories.</ListGroup.Item>
 		<ListGroup.Item>The nominees in each category will be presented to the final jury for determination of winners.</ListGroup.Item>
 		<ListGroup.Item>Information received will be treated confidential and not used for any purpose except for determining the winner of the awards</ListGroup.Item>

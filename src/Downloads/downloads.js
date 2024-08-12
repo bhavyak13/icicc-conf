@@ -141,7 +141,7 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
-                        <Button variant="primary"
+                        {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
                         }
@@ -154,14 +154,14 @@ const Downloads = () => {
                                 className={
                                     style.icon
                             }></img>
-                        </Button>
+                        </Button> */}
                         <Button variant="primary"
                             className={
                                 style.downloadBadges
                         }
                         href={require("./docs/springer template.docx")}
                         target="_blank"
-                        >Springer Template
+                        >Springer Word Template
                             <img src={
                                     require('./docs/icon.png')
                                 }
