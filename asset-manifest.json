@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ac52d49.css",
-    "main.js": "/static/js/main.410b60df.js",
+    "main.js": "/static/js/main.ca068439.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -15,7 +15,6 @@
     "static/media/venue.png": "/static/media/venue.7294c26c94d75d5faf38.png",
     "static/media/Special_Session_Proposal_Template.docx": "/static/media/Special_Session_Proposal_Template.31f347006f168f90d745.docx",
     "static/media/ic18-1.png": "/static/media/ic18-1.9ea8e81ebcbe9b63a998.png",
-    "static/media/Word+Template.zip": "/static/media/Word+Template.22e9741525c2f6622b04.zip",
     "static/media/ic18-3.png": "/static/media/ic18-3.75caca575ef3ff36e66c.png",
     "static/media/ic18-5.png": "/static/media/ic18-5.98c7c31ddfe57df909bb.png",
     "static/media/Manuscript guidelines for English books.pdf": "/static/media/Manuscript guidelines for English books.b4c0e227c2235ee1639f.pdf",
@@ -29,6 +28,7 @@
     "static/media/SS-008.pdf": "/static/media/SS-008.9d4f63870bc581b66b66.pdf",
     "static/media/SS-006.pdf": "/static/media/SS-006.0c963aaf20fb934445b7.pdf",
     "static/media/SS-004.pdf": "/static/media/SS-004.eede23b4d6e48c56b81e.pdf",
+    "static/media/SS-009.pdf": "/static/media/SS-009.cdae5c79ec6f80f6b464.pdf",
     "static/media/SS-007.pdf": "/static/media/SS-007.698e91d5cf0f38f33c06.pdf",
     "static/media/SS-002.pdf": "/static/media/SS-002.601014e46efc79a1b0cb.pdf",
     "static/media/logospain.png": "/static/media/logospain.8d22e3a92a5c92f69b26.png",
@@ -119,11 +119,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.9ac52d49.css.map": "/static/css/main.9ac52d49.css.map",
-    "main.410b60df.js.map": "/static/js/main.410b60df.js.map",
+    "main.ca068439.js.map": "/static/js/main.ca068439.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac52d49.css",
-    "static/js/main.410b60df.js"
+    "static/js/main.ca068439.js"
   ]
 }
