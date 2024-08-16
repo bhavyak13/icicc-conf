@@ -11,11 +11,11 @@ const HomeCont = () => {
     const items = [
         {
             key: 'Citations',
-            val: '3575'
+            val: '5165'
         },
         {
             key: 'H - Index',
-            val: '22'
+            val: '28'
         },
         {
             key: 'H5 - Index',
@@ -23,10 +23,10 @@ const HomeCont = () => {
         },
         {
             key: 'No.of Published Papers in Proceedings',
-            val: '1866'
+            val: '2166'
         }, {
             key: 'No.of Keynotes',
-            val: '70'
+            val: '75'
         }, {
             key: 'No.of Workshops',
             val: '13'
@@ -38,13 +38,13 @@ const HomeCont = () => {
             val: '50'
         }, {
             key: 'No.of Volumes Published',
-            val: '18'
+            val: '24'
         }, {
             key: 'No.of Published Papers in Extended Journals(Scopus)',
-            val: '103'
+            val: '115'
         }, {
             key: 'No.of Published Papers in Extended Journals(SCIE)',
-            val: '59'
+            val: '65'
         }, {
             key: 'Total No.of Participation',
             val: '4790'
