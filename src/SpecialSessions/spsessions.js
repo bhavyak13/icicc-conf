@@ -86,16 +86,16 @@ const spdata = [
         ],
         spname: "SS 009.pdf"
     }, 
-//     {
-//         anchor: require("./SS-010.pdf"),
-//         title: "SS_10:Recent Advances in Intelligent Systems and Communication & Machine Learning",
-//         organisers: [
-//             "Dr. Vikash Yadav, Government Polytechnic Bighapur Unnao, Uttar Pradesh, India, vikas.yadav.cs@gmail.com",
-//             "Dr. Chuan-Ming Liu, National Taipei University of Technology (NTUT),Taipei,Taiwan",
-//             "Dr. Ajimuse, Muyiwa Sunday, Federal university Oye Ekiti, Nigeria"
-//         ],
-//         spname: "SS 010.pdf"
-//     }, 
+     {
+         anchor: require("./SS-010.pdf"),
+        title: "SS_10:Empirical Continual Learning in Software Engineering ",
+         organisers: [
+             "Dr. Deepak Sharma, Assistant Professor, Department of Computer Science, Aryabhatta College, South Campus, University of Delhi",
+            "Dr. Nitya Khurana, Assistant Professor, Department of Management, Institute Of Innovation In Technology & Management, AFFILIATED TO GGSIPU "
+    
+         ],
+         spname: "SS 010.pdf"
+    }, 
 //     {
 //         anchor: require("./SS-011.pdf"),
 //         title: "SS_11: Intelligent Applications and Contemporary Business Prospects for Autonomous Vehicles",
