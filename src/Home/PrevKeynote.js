@@ -54,7 +54,7 @@ const PrevKeynote = () => {
     <div className="keynote-speakers">
       {/* Tabs for Year Selection */}
       <div className="tabs">
-      {console.log(Object.keys(speakersData))}
+      
         {Object.keys(speakersData).reverse().map(year => (
           <button
             key={year}

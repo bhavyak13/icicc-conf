@@ -79,7 +79,7 @@
   
   .tab-button {
     padding: 10px 20px;
-    margin: 0 10px;
+    margin: 10px 10px;
     border: none;
     background-color: #ddd;
     cursor: pointer;
@@ -117,3 +117,12 @@
     font-weight: bold;
   }
   
+  @media (max-width:500px) {
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
