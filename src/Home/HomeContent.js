@@ -4,6 +4,7 @@ import style from "../header.module.css";
 import Date from '../Date'
 import Button from 'react-bootstrap/Button';
 import './home.css'
+import PrevKeynote from "./PrevKeynote";
 
 
 
@@ -50,6 +51,7 @@ const HomeCont = () => {
             val: '4790'
         },
     ]
+  
 
     return (
         <div>
@@ -260,8 +262,11 @@ const HomeCont = () => {
                     </div>
                 </div>
                                         
-            </section>
-
+            </section><br/>
+            <section class="OrgAssPartners">
+            <h3>Previous Keynote Speakers of ICICC</h3>
+            <PrevKeynote/>
+</section>
             <div className={
                 style.flex
             }>

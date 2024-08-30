@@ -96,30 +96,35 @@ const spdata = [
          ],
          spname: "SS 010.pdf"
     }, 
-//     {
-//         anchor: require("./SS-011.pdf"),
-//         title: "SS_11: Intelligent Applications and Contemporary Business Prospects for Autonomous Vehicles",
-//         organisers: [
-//             "Dr Suganthi Evangeline, Assistant Professor (Sl. Gr), Consultant in Embedded and IoT Research,Department of Electronics and Communication Engineering, Sri Eshwar College of Engineering, Coimbatore, India",
-//             "Dr Emmanuel Joy, Assistant Professor, School of Computer Science and Technology,Karunya Institute of Technology and Sciences, Coimbatore, India"
-//         ],
-//         spname: "SS 011.pdf"
-//     }, 
-//     {
-//         anchor: require("./SS-012.pdf"),
-//         title: "SS_12: Antennas and Embedded Systems",
-//         organisers: [
-//             "Hamzah M. Marhoon, Al-Nahrain University, College of Information Engineering, Republic of Iraq"
-//         ],
-//         spname: "SS 012.pdf"
-//     }, {
-//         anchor: require("./SS-013.pdf"),
-//         title: "SS_13: AI and Machine Learning for Blockchain, Social network analysis, and Computational Intelligence Optimization",
-//         organisers: [
-//             "Dr. Umesh Gupta, Associate Professor, SR University, Warangal, India",
-//         ],
-//         spname: "SS 013.pdf"
-//     }, 
+    {
+        anchor: require("./SS-011.pdf"),
+        title: "SS_11: Empirical Artificial Intelligence for Health Care Systems",
+        organisers: [
+            "Dr. Deepak Sharma, Assistant Professor, Department of Computer Science, Aryabhatta College, South Campus, University of Delhi",
+            "Ms. Himani Tyagi , Assistant Professor, University School of Automation and robotics, GGSIPU, Delhi",
+            "Mr. Hemant Kumar, Assistant Professor, Department of Computer Science, Aryabhatta College, South Campus, University of Delhi"
+        ],
+        spname: "SS 011.pdf"
+    }, 
+    {
+        anchor: require("./SS-012.pdf"),
+        title: "SS_12: Emerging Trends in NLP, ML and AI for safer online social media",
+        organisers: [
+            "Dr. Sayani Ghosal, Jaypee Institute of Information Technology (JIIT), Noida, Uttar Pradesh, India",
+            "Dr. Ashish Khanna, CSE Department, Maharaja Agrasen Institute of Technology, (GGSIPU), New Delhi, India"
+        ],
+        spname: "SS 012.pdf"
+    }, 
+{
+        anchor: require("./SS-013.pdf"),
+        title: "SS_13: Recent Developments in Disruptive Technologies",
+        organisers: [
+            "Dr. Rajendra Kumar, Sharda University, Greater Noida, India",
+            "Dr. Shruti Aggarwal, Thapar Institute of Engineering and Technology, Patiala, India",
+            "Mr. Pradeep Chintale, SEI Investment Company, Downingtown, Pennsylvania, USA",
+        ],
+        spname: "SS 013.pdf"
+    }, 
 //     {
 //         anchor: require("./SS-014.pdf"),
 //         title: "SS_14: Interpretable Machine Learning and Model Explainability",
