@@ -125,14 +125,14 @@ const spdata = [
         ],
         spname: "SS 013.pdf"
     }, 
-//     {
-//         anchor: require("./SS-014.pdf"),
-//         title: "SS_14: Interpretable Machine Learning and Model Explainability",
-//         organisers: [
-//             "Dr. Uzzal Sharma, Associate Professor, Birangana Sati Sadhani Rajyik Viswavidyalaya, India"
-//         ],
-//         spname: "SS 014.pdf"
-//     },
+    {
+        anchor: require("./SS-014.pdf"),
+        title: "SS_14: Emerging Trends, Challenges and Applications in Data Intelligence and Networking",
+        organisers: [
+            "Dr. Imran Khan, Assistant Professor, Harcourt Butler Technical University, Kanpur, Uttar Pradesh"
+        ],
+        spname: "SS 014.pdf"
+    },
 //      {
 //         anchor: require("./SS-015.pdf"),
 //         title: "SS_15: Data Driven Intelligence for Future Generation Computing Systems",
