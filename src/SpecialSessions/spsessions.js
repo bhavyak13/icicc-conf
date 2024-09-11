@@ -142,25 +142,25 @@ const spdata = [
         ],
         spname: "SS 015.pdf"
     }, 
-//     {
-//         anchor: require("./SS-016.pdf"),
-//         title: "SS_16: [BlockChain and Artificial Intelligence]",
-//         organisers: [
-//             "Dr. Anshu Khurana, Maharaja Agrasen Institute of Technology, Rohini, India",
-//             "Dr. Deepika Bansal, Maharaja Agrasen Institute of Technology, Rohini, India"
+    {
+        anchor: require("./SS-016.pdf"),
+        title: "SS_16: Advancements and Applications of Hybrid Soft Computing Techniques for Advanced Healthcare Systems",
+        organisers: [
+            "Dr. Geetanjali Sharma, Maharaja Surajmal Institute of Technology, New Delhi, India",
+            "Dr. Deepika Saxena, The University of Aizu, Japan"
 
-//         ],
-//         spname: "SS 016.pdf"
-//     },
-//      {
-//         anchor: require("./SS-017.pdf"),
-//         title: "SS_17: Computational Optimization and AI in Civil Engineering",
-//         organisers: [
-//             "Prof. Dr. Gebrail BEKDAŞ, Istanbul University- Cerrahpaşa, Turkey",
-//             "Prof. Dr. Sinan Melih NİGDELİ, Istanbul University- Cerrahpaşa, Turkey"
-//         ],
-//         spname: "SS 017.pdf"
-//     }, {
+        ],
+        spname: "SS 016.pdf"
+    },
+     {
+        anchor: require("./SS-017.pdf"),
+        title: "SS_17: Emerging Technologies and its Applications",
+        organisers: [
+            "Prof.(Dr.) Kaushal Kisor, ABES Institute of Technology Ghaziabad, Uttar Pradesh, India"
+        ],
+        spname: "SS 017.pdf"
+    },
+    //  {
 //         anchor: require("./SS-018.pdf"),
 //         title: "SS_18: Emerging Trends, Challenges and Applications in Data Intelligence and Biomedical Sciences",
 //         organisers: [
