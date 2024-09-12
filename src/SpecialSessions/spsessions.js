@@ -160,26 +160,22 @@ const spdata = [
         ],
         spname: "SS 017.pdf"
     },
-    //  {
-//         anchor: require("./SS-018.pdf"),
-//         title: "SS_18: Emerging Trends, Challenges and Applications in Data Intelligence and Biomedical Sciences",
-//         organisers: [
-//             "Dr. Imran Khan, Assistant Professor, Harcourt Butler Technical University (H.B.T.U.) Kanpur, Uttar Pradesh",            
-//             "Dr Asif Khan, Assistant Professor, Integral University, Lucknow",            
-//             "Dr. Ahmad Neyaz Khan, Assistant Professor,Integral University, Lucknow"
-//         ],
-//         spname: "SS 018.pdf"
-//     },
-//      {
-//         anchor: require("./SS-019.pdf"),
-//         title: "SS_19:The Future of AI: Emerging Innovative Computing Techniques and Applications",
-//         organisers: [
-//             "Dr. Jyoti Khurana, Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU), New-Delhi, India",
-//             "Dr. Pooja Kherwa, Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU), New-Delhi, India",
-//             "Mr. Akshay Singh, Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU), New-Delhi, India",
-//         ],
-//         spname: "SS 019.pdf"
-//     },
+     {
+        anchor: require("./SS-018.pdf"),
+        title: "SS_18: Recent Advances in AI and Machine Learning: Innovations, Environmental Sustainability, and Healthcare",
+        organisers: [
+            "Dr. Sangeeta Kumari, Bennett University (The Times Group), Greater Noida, U.P., India"
+        ],
+        spname: "SS 018.pdf"
+    },
+     {
+        anchor: require("./SS-019.pdf"),
+        title: "SS_19:[Advanced Computing Techniques in Electrical Engineering]",
+        organisers: [
+            "Dr.Paruchuri Chandra Babu Naidu, B.S.Abdur Rahman Crescent Institute of Science and Technology, India,",
+        ],
+        spname: "SS 019.pdf"
+    },
 //     {
 //         anchor: require("./SS-020.pdf"),
 //         title: "SS_20: Smart Intelligent Computing In Advanced Sectors (SICAS)",
