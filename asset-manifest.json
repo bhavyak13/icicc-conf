@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ddc9fc1.css",
-    "main.js": "/static/js/main.a33f7c70.js",
+    "main.js": "/static/js/main.436f8d30.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -26,12 +26,14 @@
     "static/media/ic18-4.png": "/static/media/ic18-4.c097d3d1a865fa799795.png",
     "static/media/SS-010.pdf": "/static/media/SS-010.f792797aec8ec86d22f8.pdf",
     "static/media/SS-011.pdf": "/static/media/SS-011.dd4337ce819e186cee8c.pdf",
+    "static/media/SS-020.pdf": "/static/media/SS-020.56a68d0e009f0228594b.pdf",
     "static/media/SS-016.pdf": "/static/media/SS-016.572606169b5496081b4b.pdf",
     "static/media/SS-001.pdf": "/static/media/SS-001.230443cfdadb9cc11739.pdf",
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
     "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.c248c3651f3d10a28dd4.docx",
     "static/media/SS-008.pdf": "/static/media/SS-008.9d4f63870bc581b66b66.pdf",
     "static/media/SS-012.pdf": "/static/media/SS-012.fac33dd33b6c354bb3ff.pdf",
+    "static/media/SS-021.pdf": "/static/media/SS-021.2e49e3210c0448f3d9f8.pdf",
     "static/media/SS-006.pdf": "/static/media/SS-006.0c963aaf20fb934445b7.pdf",
     "static/media/SS-017.pdf": "/static/media/SS-017.eef15bec8eaf3ce4ff8c.pdf",
     "static/media/SS-004.pdf": "/static/media/SS-004.eede23b4d6e48c56b81e.pdf",
@@ -129,11 +131,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2ddc9fc1.css.map": "/static/css/main.2ddc9fc1.css.map",
-    "main.a33f7c70.js.map": "/static/js/main.a33f7c70.js.map",
+    "main.436f8d30.js.map": "/static/js/main.436f8d30.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddc9fc1.css",
-    "static/js/main.a33f7c70.js"
+    "static/js/main.436f8d30.js"
   ]
 }
