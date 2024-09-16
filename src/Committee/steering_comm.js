@@ -145,9 +145,9 @@ const SteerCom=()=>{
         "Name":"Convener(s)",
         List:[
             {"MemName":"Dr. Ajay Jaiswal",
-            "InstName":"(SSCBS, University of Delhi, India)"},
+            "InstName":"(DEPARTMENT OF DISTANCE AND CONTINUING EDUCATION SCHOOL OF OPEN LEARNING, CAMPUS OF OPEN LEARNING, UNIVERSITY OF DELHI)"},
             {"MemName":"Dr. Sameer Anand",
-            "InstName":"(SSCBS, University of Delhi, India)"}
+            "InstName":"(Department of Operational Research,Delhi University, India)"}
         ]
     }
 

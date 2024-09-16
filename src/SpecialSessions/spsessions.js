@@ -176,23 +176,25 @@ const spdata = [
         ],
         spname: "SS 019.pdf"
     },
-//     {
-//         anchor: require("./SS-020.pdf"),
-//         title: "SS_20: Smart Intelligent Computing In Advanced Sectors (SICAS)",
-//         organisers: [
-//             "Dr.Srikanta Kumar Mohapatra"
-//         ],
-//         spname: "SS 020.pdf"
-//     },
-//     {
-//         anchor: require("./SS-021.pdf"),
-//         title: "SS_21: SPECIAL SESSION ON BIG DATA ANALYTICS, DATA SCIENCES AND NEURAL NETWORKS",
-//         organisers: [
-//             "Dr. Preeti Nagrath, Bharati Vidyapeeth’s College of Engineering, New Delhi",
-//             "Dr. Rachna Jain, Bhagwan Parshuram Institute of Technology, New Delhi"
-//         ],
-//         spname: "SS 021.pdf"
-//     },
+    {
+        anchor: require("./SS-020.pdf"),
+        title: "SS_20: Internet of Things for Industry 5.0 with Artificial Intelligence-Based Technologies",
+        organisers: [
+            "Dr. Khyati Chopra",
+            "Dr. Sherin Zafar"
+        ],
+        spname: "SS 020.pdf"
+    },
+    {
+        anchor: require("./SS-021.pdf"),
+        title: "SS_21: Role of Generative AI for Healthcare Systems ",
+        organisers: [
+            "Dr Sonali Vyas, Associate Professor, School of Computer Science, UPES Dehradun, Uttarakhand, India",
+            "Dr Mitali Chugh, Associate Professor, School of Computer Science, UPES Dehradun, Uttarakhand, India", 
+            "Dr. Vinod Kumar Shukla, Associate Professor, Amity University Dubai, UAE"
+        ],
+        spname: "SS 021.pdf"
+    },
 //     {
 //         anchor: require("./SS-022.pdf"),
 //         title: "SS_22: Harvesting the Future: Advancements in innovative computing and communication for Agricultural Applications",

@@ -37,7 +37,7 @@ const Footer=()=>{
   </div>
   <hr style={{borderTop:"3px solid #ffffff"}} />
   <p>Copyright © International Conference on Innovative Computing and Communication | All Rights Reserved | 
-  {/* <br />Site By: Amith Harish,Bhavya Kawatra */}
+
   </p>
     </div>
   );
