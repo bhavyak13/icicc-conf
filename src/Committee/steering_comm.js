@@ -5,154 +5,82 @@ import Date from "../Date";
 
 const SteerCom=()=>{
 
-    const steer_comm_mem=[{
-        "Name":"Patron(s)",
-        List:[
-            {"MemName":"Dr. Poonam Verma",
-            "InstName":"(Principal, SSCBS, University of Delhi)"},
-            {"MemName":"Prof. Pradip Kumar Jain",
-            "InstName":"(Director, National Institute of Technology Patna)"}
-        ]
-    },
-    {
-        "Name":"General Chair(s)",
-        List:[
-            {"MemName":"Dr. Prabhat Kumar",
-            "InstName":"(Professor, CSE, National Institute of Technology Patna)"},
-            {"MemName":"Prof. Oscar Castillo",
-            "InstName":"(Tijuana Institute of Technology, Mexico)"}
-        ]
-    },  {
-        "Name":"Honorary Chair(s)",
-        List:[
-            {"MemName":"Prof. Janusz Kacprzyk",
-            "InstName":"(Head, Intelligent Systems Laboratory, System Research Institute, Polish Academy of Sciences, Warsaw, Poland)"},
-            {"MemName":"Prof. Vaclav Snasel",
-            "InstName":"(Rector, VSB-Technical University of Ostrava, Czech Republic)"}
-        ]
-    },  {
-        "Name":"Conference Chair(s)",
-        List:[
-            {"MemName":"Prof. Aboul Ella Hassanien",
-            "InstName":"(Cairo University, Egypt)"},
-            {"MemName":"Prof. Joel J P C Rodrigues",
-            "InstName":"(National Institute of Telecommunications (Inatel), Brazil)"},
-            {"MemName":"Prof. R. K. Agrawal",
-            "InstName":"(Jawaharlal Nehru University, Delhi)"}
-        ]
-    },  {
-        "Name":"Technical Program Chair(s)",
-        List:[
-            {"MemName":"Prof. Anil K Ahlawat",
-            "InstName":"(KIET Group of Institutes, Ghaziabad)"},
-            {"MemName":"Prof. A. K. Singh",
-            "InstName":"(National Institute of Technology, Kurukshetra)"}
-        ]
-    },  {
-        "Name":"Editorial Chair(s)",
-        List:[
-            {"MemName":"Dr. Arun Sharma",
-            "InstName":"(Indira Gandhi Delhi Technical University for Womens, Delhi)"},
-            {"MemName":"Prof. Abhishek Swaroop",
-            "InstName":"(Bhagwan Parshuram Institute of Technology, Delhi)"}
-        ]
-    },  {
-        "Name":"Publication Chair(s)",
-        List:[
-            {"MemName":"Dr. Vicente García Díaz",
-            "InstName":"(University of Oviedo, Spain)"},
-            {"MemName":"Dr. Deepak Gupta",
-            "InstName":"(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)"}
-        ]
-    },  {
-        "Name":"Co-Convener(s)",
-        List:[
-            {"MemName":"Moolchand Sharma",
-            "InstName":"(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)"},
-            {
-                "MemName":"Dr. Simar Preet Singh",
-                "InstName":"(School of Computer Science Engineering and Technology (SCSET), Bennett University, Greater Noida, Uttar Pradesh, India)"
-            }
-         
-        ]
-    },  {
-        "Name":"Publicity Chair(s)",
-        List:[
-            {"MemName":"Dr. Jafar A. Alzubi",
-            "InstName":"(Al-Balqa Applied University, Salt – Jordan)"},
-            {"MemName":"Dr. Hamid Reza Boveiri",
-            "InstName":"(Sama College, IAU, Shoushtar Branch, Shoushtar, Iran)"},
-            {
-            "MemName":"Dr. M. Tanveer",
-            "InstName":"(Indian Institute of Technology, Indore)"
-            },
-            {
-            "MemName":"Dr. Umesh Gupta",
-            "InstName":"(Bennett University, Greater Noida)"
-            },{
-                "MemName":"Dr. Nitish Pathak",
-                "InstName":"(Bhagwan Parshuram Institute of Technology, New Delhi, India)"
-            },
-            {
-                "MemName":"Ahmed J. Obaid",
-                "InstName":"(University of Kufa, Iraq)"
-            },
-            {
-                "MemName":"Dr. Sushil Kumar Singh",
-                "InstName":"(Department of Computer Engineering,Marwadi University, Rajkot, Gujrat, India)",
-            },
-            {
-                "MemName":"Dr. Sherin Zafar",
-                "InstName":"(Jamia Hamdard,Deputy Director Innovation Cell,Coordinator Unnat Bharat Abhiyan Jamia Hamdard)",
-            }
-        ]
-    },  {
-        "Name":"Organizing Chair(s)",
-        List:[
-            {"MemName":"Dr. Kumar Bijoy",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Rishi Ranjan",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Amrina Kausar",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Abhishek Tandon",
-            "InstName":"(SSCBS, University of Delhi)"}
-        ]
-    },  {
-        "Name":"Organizing Team",
-        List:[
-            {"MemName":"Dr. Gurjeet Kaur",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Abhimanyu Verma",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Onkar Singh",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Mona Verma",
-            "InstName":"(SSCBS, University of Delhi)"},
-            {"MemName":"Dr. Suresh Chavhan",
-            "InstName":"(Vellore Institute of Technology, Vellore)"
-            }
-        ]
-    },  {
-        "Name":"Organising Secretary",
-        List:[
-            {"MemName":"Dr. Ashish Khanna",
-            "InstName":"(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)"},
-            {"MemName":"Dr. Gulshan Shrivastava",
-            "InstName":"( Bennett University, Greater Noida, India)"}
-        ]
-    },  {
-        "Name":"Convener(s)",
-        List:[
+    const steer_comm_mem = [
+        {
+            "Name": "Patron(s)",
+            "List": [
+                { "MemName": "Dr. Poonam Verma", "InstName": "(Principal, SSCBS, University of Delhi)" },
+                { "MemName": "Prof. Pradip Kumar Jain", "InstName": "(Director, National Institute of Technology Patna)" }
+            ]
+        },
+        {
+            "Name": "General Chair(s)",
+            "List": [
+                { "MemName": "Prof. Dr. Bal Virdee", "InstName": "(London Metropolitan University, London, UK)" },
+                { "MemName": "Dr. Prabhat Kumar", "InstName": "(Professor, CSE, National Institute of Technology Patna)" }
+            ]
+        },
+        {
+            "Name": "Honorary Chair(s)",
+            "List": [
+                { "MemName": "Prof. Janusz Kacprzyk", "InstName": "(Head, Intelligent Systems Laboratory, System Research Institute, Polish Academy of Sciences, Warsaw, Poland)" },
+                { "MemName": "Prof. Vaclav Snasel", "InstName": "(Rector, VSB-Technical University of Ostrava, Czech Republic)" }
+            ]
+        },
+        {
+            "Name": "Conference Chair(s)",
+            "List": [
+                { "MemName": "Prof. Punam Bedi", "InstName": "(Department of Computer Science, University of Delhi)" },
+                { "MemName": "Prof. R. K. Agrawal", "InstName": "(Jawaharlal Nehru University, Delhi, India)" }
+            ]
+        },
+        {
+            "Name": "Technical Program Chair(s)",
+            "List": [
+                { "MemName": "Prof. A. K. Singh", "InstName": "(National Institute of Technology, Kurukshetra, India)" },
+                { "MemName": "Dr. Kumar Bijoy", "InstName": "(Associate Professor, Shaheed Sukhdev College of Business Studies, DU)" }
+            ]
+        },
+        {
+            "Name": "Editorial Chair(s)",
+            "List": [
+                { "MemName": "Prof. Aboul Ella Hassanien", "InstName": "(Cairo University, Egypt)" },
+                { "MemName": "Prof. Abhishek Swaroop", "InstName": "(Bhagwan Parshuram Institute of Technology, Delhi, India)" }
+            ]
+        },
+        {
+            "Name": "Convener(s)",
+            "List":[
             {"MemName":"Dr. Ajay Jaiswal",
             "InstName":"(DEPARTMENT OF DISTANCE AND CONTINUING EDUCATION SCHOOL OF OPEN LEARNING, CAMPUS OF OPEN LEARNING, UNIVERSITY OF DELHI)"},
             {"MemName":"Dr. Sameer Anand",
             "InstName":"(Department of Operational Research,Delhi University, India)"}
         ]
-    }
-
+        },
+        {
+            "Name": "Co-Convener(s)",
+            "List": [
+                { "MemName": "Dr. Moolchand Sharma", "InstName": "(Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi)" },
+                { "MemName": "Dr. Jameel Ahmed", "InstName": "(Maulana Azad National Urdu University (MANUU), Hyderabad, India)" },
+                { "MemName": "Dr. Amrina Kausar", "InstName": "(Associate Professor, Shaheed Sukhdev College of Business Studies, DU)" }
+            ]
+        },
+        {
+            "Name": "Publicity Chair(s)",
+            "List": [
+                { "MemName": "Dr. Jafar A. Alzubi", "InstName": "(Al-Balqa Applied University, Salt – Jordan)" },
+                { "MemName": "Dr. Hamid Reza Boveiri", "InstName": "(Sama College, IAU, Shoushtar Branch, Shoushtar, Iran)" }
+            ]
+        },
+        {
+            "Name": "Organising Secretary (s)",
+            "List": [
+                { "MemName": "Dr. Rishi Rajan Sahay", "InstName": "(Associate Professor, Vice Principal, Shaheed Sukhdev College of Business Studies, DU)" },
+                { "MemName": "Dr. Gulshan Shrivastava", "InstName": "(Associate Professor, Bennett University, Greater Noida, India)" }
+            ]
+        }
+    ];
     
-]
    
 return(
     <div>
