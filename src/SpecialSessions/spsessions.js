@@ -195,36 +195,34 @@ const spdata = [
         ],
         spname: "SS 021.pdf"
     },
-//     {
-//         anchor: require("./SS-022.pdf"),
-//         title: "SS_22: Harvesting the Future: Advancements in innovative computing and communication for Agricultural Applications",
-//         organisers: [
-//             "Stefano Rinaldi, University of Brescia – Department of Information Engineering, Italy", 
-//         ],
-//         spname: "SS 022.pdf"
-//     },
-//     {
-//         anchor: require("./SS-023.pdf"),
-//         title: "SS_23: Computer Networking, Security & Data Analytics",
-//         organisers: [
-//             "Prof Bal Virdee, Senior Professor & Head of Communications Technology Research Centre Chair & Executive Member of IET Technical Professional Network Chair of Judges - The IET Excellence & Innovation Awards,2023 London Metropolitan University, UK",
-//             "Mrs Richa Sharma, Senior Lecturer in Computer Networking,London Metropolitan University, UK",
-//             "Dr Sandra Fernando,Senior Lecturer in Computing,London Metropolitan University, UK"
+    {
+        anchor: require("./SS-022.pdf"),
+        title: "SS_22: Advances and Synergies in Deep Learning, Communication Technologies, and Healthcare",
+        organisers: [
+            "Dr. Sudesh Pahal, Maharaja Surajmal Institute of Technology, New Delhi, India",
+            "Dr. Priyanka Nandal, Maharaja Surajmal Institute of Technology, New Delhi, India",
+        ],
+        spname: "SS 022.pdf"
+    },
+    {
+        anchor: require("./SS-023.pdf"),
+        title: "SS_23: AI-Driven Multidisciplinary Analytics: Innovations in Predictive Maintenance, Business Optimization, Education, and Sentiment Analysis",
+        organisers: [
+            "Dr. Deepti Khanna, Associate Professor, Department of Information Technology (MCA), Jagan Institute of Management Studies, Rohini, Delhi, India",
+            "Dr Arpana Chaturvedi, Associate Professor Dept of IT/AI/ML, New Delhi Institute of Management, Delhi, India"
             
-//         ],
-//         spname: "SS 023.pdf"
-//     },
-//     {
-//         anchor: require("./SS-024.pdf"),
-//         title: "SS_24: System Design & ML/AI for Secure IoE in Cloud Era",
-//         organisers: [
-//             "Dr Manoj Sharma, Associate Professor, BVCOE ND, Afflt. GGSIPU, New Delhi, India",
-//             "Dr Kanchan Sharma, Assistant Professor, IGDTUW, Delhi, India",
-//             "Dr Nitin Sharma, Assistant Professor, MAIT, ND",
-//             "Dr Manoj Kumar, Assistant Professor, , USAR, GGSIPU, East Delhi Campus, ND",             
-//         ],
-//         spname: "SS 024.pdf"
-//     },
+        ],
+        spname: "SS 023.pdf"
+    },
+    {
+        anchor: require("./SS-024.pdf"),
+        title: "SS_24: Cognitive Computing and Computational Intelligence: Human-Machine Interaction",
+        organisers: [
+            "Prof. Suman Mann, Professor, PIET, Haryana",
+            "Dr. Deepshikha Yadav, Assistant Professor, MSIT, New Delhi",             
+        ],
+        spname: "SS 024.pdf"
+    },
     
 // {
 //         anchor: require("./Spl_Session_ICICC_Delhi.pdf"),
