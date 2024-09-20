@@ -224,15 +224,15 @@ const spdata = [
         spname: "SS 024.pdf"
     },
     
-// {
-//         anchor: require("./Spl_Session_ICICC_Delhi.pdf"),
-//         title: "SS_25:  Recent Trends in Computer Communication, Networking and Technology ",
-//         organisers: [
-//             "Dr. Kavitha C,Prof. and Head-Department of Computer Science and Engineering, Dayananda Sagar Academy of Technology and Management,        Bangaluru, Karnataka-INDIA     ",   
-                
-//         ],
-//         spname: "SS 025.pdf"
-//     },
+{
+        anchor: require("./SS-025.pdf"),
+        title: "SS_25:  Techno-Legal Synergies of Artificial Intelligence, Information & Communication Technology & Computing: Bridging Technology and Law for the Future",
+        organisers: [
+            "Dr Gagandeep Kaur, Associate Professor, School of Law, UPES, Dehradun, India",
+            "Prof. Anil K. Dixit, Professor, Law College Dehradun, Uttaranchal University, Dehradun, India"                
+        ],
+        spname: "SS 025.pdf"
+    },
 //     {
 //         anchor: require("./SS-026.pdf"),
 //         title: "SS_26:  Emerging trends and technologies in Artificial intelligence ",
