@@ -233,16 +233,16 @@ const spdata = [
         ],
         spname: "SS 025.pdf"
     },
-//     {
-//         anchor: require("./SS-026.pdf"),
-//         title: "SS_26:  Emerging trends and technologies in Artificial intelligence ",
-//         organisers: [
-//             "Dr. Rajakumar Arul, Vellore Institute of Technology, Chennai, India",   
-//             "Dr. Kalaipriyan, T., Vellore Institute of Technology, Chennai, India"      ,
-//             "Dr. Ali Kashif Bashir, Professor, Computer Networks and Cybersecurity, Manchester Metropolitan University, United Kingdom"    
-//         ],
-//         spname: "SS 026.pdf"
-//     },
+    {
+         anchor: require("./SS-026.pdf"),
+        title: "SS_26:Smart Networks: Integrating AI, IoT, and 5G for the Future of Autonomous Systems ",
+         organisers: [
+            "Dr Suresh Kumar K, Professor and Head, Department of Information Technology, Saveetha Engineering College, Saveetha Nagar, Thandalam Chennai",
+             "Dr Hemavathy P, Associate Professor, Department of Computer Science and Engineering, Saveetha Engineering College, Saveetha Nagar, Thandalam Chennai",
+             "Dr Anish Kumar J, Associate Professor, Department of Electrical and Electronics Engineering, Saveetha Engineering College, Saveetha Nagar, Thandalam Chennai"
+        ],
+         spname: "SS 026.pdf"
+     },
     
    
 
