@@ -243,8 +243,16 @@ const spdata = [
         ],
          spname: "SS 026.pdf"
      },
+     {
+        anchor: require("./SS-027.pdf"),
+       title: "SS_27: Data Science and Analytics using neural networks on Real Time applications",
+        organisers: [
+           "Dr. Preeti Nagrath, Associate Professor, Bharati Vidyapeeth’s college of Engineering, New Delhi, India",
+           "Dr. Rachna Jain, Associate Professor, Bhagwan Parshuram Institute of technology, New Delhi, India"
+       ],
+        spname: "SS 027.pdf"
+    },
     
-   
 
 ];
 
