@@ -60,6 +60,10 @@ const pubdata = [
         anchor: require("./Images/hbet.jpg"),
         title: "Human Behavior and Emerging Technologies, Wiley- ESCI & Scopus",
     },  
+    {
+        anchor: require("./Images/ci.jpg"),
+        title: "Computational Intelligence- An International Journal (SCIE, IF-1. 3)",
+    },  
     
     
   ];
