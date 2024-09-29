@@ -252,6 +252,15 @@ const spdata = [
        ],
         spname: "SS 027.pdf"
     },
+    {
+        anchor: require("./SS-028.pdf"),
+       title: "SS_27: Advanced Computational Techniques and their vital role in Healthcare Innovations.",
+        organisers: [
+           "Dr. Urmila Pilania, Associate Professor, Department of Computer Science and Technology, Manav Rachna University, Faridabad, India",
+           "Dr. Manoj Kumar, Associate Professor, Department of Computer Science and Technology, Manav Rachna University, Faridabad, India"
+       ],
+        spname: "SS 028.pdf"
+    },
     
 
 ];
