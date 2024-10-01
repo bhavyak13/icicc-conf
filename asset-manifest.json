@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ddc9fc1.css",
-    "main.js": "/static/js/main.f71d66f2.js",
+    "main.js": "/static/js/main.667c0a01.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -40,6 +40,7 @@
     "static/media/SS-021.pdf": "/static/media/SS-021.2e49e3210c0448f3d9f8.pdf",
     "static/media/SS-006.pdf": "/static/media/SS-006.0c963aaf20fb934445b7.pdf",
     "static/media/SS-017.pdf": "/static/media/SS-017.eef15bec8eaf3ce4ff8c.pdf",
+    "static/media/SS-029.pdf": "/static/media/SS-029.97aa68f920b059d95288.pdf",
     "static/media/SS-022.pdf": "/static/media/SS-022.83a5e33c79246afde37a.pdf",
     "static/media/SS-004.pdf": "/static/media/SS-004.eede23b4d6e48c56b81e.pdf",
     "static/media/SS-024.pdf": "/static/media/SS-024.65bf81015ebd76845743.pdf",
@@ -54,6 +55,7 @@
     "static/media/SS-015.pdf": "/static/media/SS-015.21a871793e4017aaf72c.pdf",
     "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.b3ed4293c7c5682b4687.docx",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
+    "static/media/SS-030.pdf": "/static/media/SS-030.eefc5e1e6104dee6cc0d.pdf",
     "static/media/SS-019.pdf": "/static/media/SS-019.bb4a2ed8776fdcdc17b2.pdf",
     "static/media/phy_comm.jpg": "/static/media/phy_comm.e62e1627fc91bdf3a85f.jpg",
     "static/media/jmm_cover.jpg": "/static/media/jmm_cover.cac93590e65d91c68ee9.jpg",
@@ -139,11 +141,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2ddc9fc1.css.map": "/static/css/main.2ddc9fc1.css.map",
-    "main.f71d66f2.js.map": "/static/js/main.f71d66f2.js.map",
+    "main.667c0a01.js.map": "/static/js/main.667c0a01.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddc9fc1.css",
-    "static/js/main.f71d66f2.js"
+    "static/js/main.667c0a01.js"
   ]
 }
