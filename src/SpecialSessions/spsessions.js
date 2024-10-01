@@ -261,6 +261,24 @@ const spdata = [
        ],
         spname: "SS 028.pdf"
     },
+    {
+        anchor: require("./SS-029.pdf"),
+       title: "SS_29: Edge Computing for Next-Generation Communication and AI Applications",
+        organisers: [
+           "Suman Avdhesh Yadav, IILM University, India",
+           "Prerna Ajmani, Vivekananda Institute of Professional Studies-Technical Campus, India"
+       ],
+        spname: "SS 029.pdf"
+    },
+    {
+        anchor: require("./SS-030.pdf"),
+       title: "SS_30:Emerging Intelligent Computing Techniques and their Applications (EICTA)",
+        organisers: [
+           "Dr. Nitish Pathak, Associate Professor, Bhagwan Parshuram Institute of Technology (BPIT), Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India",
+           "Dr. Neelam Sharma, Assistant Professor, Maharaja Agrasen Institute of Technology (MAIT), Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India"
+       ],
+        spname: "SS 030.pdf"
+    },
     
 
 ];
