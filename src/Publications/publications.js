@@ -64,6 +64,14 @@ const pubdata = [
         anchor: require("./Images/ci.jpg"),
         title: "Computational Intelligence- An International Journal (SCIE, IF-1. 3)",
     },  
+    {
+        anchor: require("./Images/hcis.jpeg"),
+        title: "HCIS: 3.9 IF HUMAN CENTRIC computing and information sciences",
+    },  
+    {
+        anchor: require("./Images/iet.jpeg"),
+        title: "IET SIGNAL PROCESSING SCI IF 1.7",
+    },  
     
     
   ];
