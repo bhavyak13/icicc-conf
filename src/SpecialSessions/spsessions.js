@@ -279,6 +279,15 @@ const spdata = [
        ],
         spname: "SS 030.pdf"
     },
+    {
+        anchor: require("./SS-031.pdf"),
+       title: "SS_31:Generative AI Models and Their Applications in Communication, IoT, Biomedical Engineering, and Cybersecurity",
+        organisers: [
+           "Dr. Monica Bhutani, Associate Professor, BVCOE, New Delhi, INDIA",
+           "Dr. Amit Singhal, Assistant Professor, NSUT, New Delhi, INDIA"           
+       ],
+        spname: "SS 031.pdf"
+    },
     
 
 ];
