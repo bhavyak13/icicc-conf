@@ -288,6 +288,27 @@ const spdata = [
        ],
         spname: "SS 031.pdf"
     },
+    {
+        anchor: require("./SS-032.pdf"),
+       title: "SS_32:Multifaceted Dimensions of Generative Artificial Intelligence in Transforming today’s World",
+        organisers: [
+           "Prof. Prabhjot Kaur, Professor, MSIT, GGSIP University, INDIA",
+            "Dr. Anju Bala, Associate Professor, Thapar University, INDIA",
+            "Dr. Gurleen Kaur, Professor, Sheridan College, CANADA",
+            "Dr. Anupama Kaushik, Associate Professor, MSIT, GGSIP University, INDIA"           
+       ],
+        spname: "SS 032.pdf"
+    },
+    {
+        anchor: require("./SS-033.pdf"),
+       title: "SS_33:INTELLIGENT MACHINES AND COMPUTATIONAL SYSTEM ENGINEERING",
+        organisers: [
+           "Dr. Sonam Gupta, Ajay Kumar Garg Engineering College, Ghaziabad",
+           "Mr. Pradeep Gupta, Ajay Kumar Garg Engineering College, Ghaziabad",
+           "Dr. Ambika Gupta, Galgotias University, Greater Noida, India"           
+       ],
+        spname: "SS 033.pdf"
+    },
     
 
 ];
