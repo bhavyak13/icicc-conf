@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ddc9fc1.css",
-    "main.js": "/static/js/main.f707e83a.js",
+    "main.js": "/static/js/main.ce09ec08.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -52,8 +52,10 @@
     "static/media/SS-005.pdf": "/static/media/SS-005.db8084553f5b6005f0b3.pdf",
     "static/media/SS-026.pdf": "/static/media/SS-026.7aa195683acc11b88d20.pdf",
     "static/media/SS-003.pdf": "/static/media/SS-003.d99525f96076782e97b9.pdf",
+    "static/media/SS-033.pdf": "/static/media/SS-033.ce20189a110c753602a5.pdf",
     "static/media/SS-015.pdf": "/static/media/SS-015.21a871793e4017aaf72c.pdf",
     "static/media/Award Form- Individual Award.docx": "/static/media/Award Form- Individual Award.b3ed4293c7c5682b4687.docx",
+    "static/media/SS-032.pdf": "/static/media/SS-032.735b74965a52dbfaeb7c.pdf",
     "static/media/ic18-2.png": "/static/media/ic18-2.713bc95444207a6b4983.png",
     "static/media/SS-031.pdf": "/static/media/SS-031.a7306ac7bb71600a65c4.pdf",
     "static/media/SS-030.pdf": "/static/media/SS-030.eefc5e1e6104dee6cc0d.pdf",
@@ -142,11 +144,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2ddc9fc1.css.map": "/static/css/main.2ddc9fc1.css.map",
-    "main.f707e83a.js.map": "/static/js/main.f707e83a.js.map",
+    "main.ce09ec08.js.map": "/static/js/main.ce09ec08.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddc9fc1.css",
-    "static/js/main.f707e83a.js"
+    "static/js/main.ce09ec08.js"
   ]
 }
