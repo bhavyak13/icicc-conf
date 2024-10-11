@@ -24,8 +24,8 @@ Third UI Leadership awards will be organized along with the 8th International Co
 <hr />
 <Card style={{ width: '50vw' }}>
       <ListGroup variant="flush">
-        <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>30th September, 2024</b></ListGroup.Item>
-        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>15th October, 2024</b></ListGroup.Item>
+        <ListGroup.Item>Last date for nomination:&nbsp;&nbsp;<b>31st October, 2024</b></ListGroup.Item>
+        <ListGroup.Item>Announcement of Result:&nbsp;&nbsp;<b>20th November, 2024</b></ListGroup.Item>
       </ListGroup>
 </Card>
 <br />
