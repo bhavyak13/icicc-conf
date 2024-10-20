@@ -309,6 +309,24 @@ const spdata = [
        ],
         spname: "SS 033.pdf"
     },
+    {
+        anchor: require("./SS-034.pdf"),
+       title: "SS_34:Accelerating Innovation: Integrating Cutting-Edge Technology and Advanced Data Visualization for Smart Mobility",
+        organisers: [
+           "Dr. Abha Kiran Rajpoot, Professor Galgotias University, Greater Noida, Uttar Pradesh, India",
+           "Dr. Gaurav Agrawal, Professor, Galgotias University, Greater Noida, Uttar Pradesh, India"           
+       ],
+        spname: "SS 034.pdf"
+    },
+    {
+        anchor: require("./SS-035.pdf"),
+       title: "SS_35:Challenges and solutions for securing IoT devices & big data environments",
+        organisers: [
+           "Dr. Vinay Kumar Pandey, School of Computing Science & Engineering, Galgotias University, Greater Noida, India"           
+       ],
+        spname: "SS 035.pdf"
+    }
+    
     
 
 ];
