@@ -325,6 +325,15 @@ const spdata = [
            "Dr. Vinay Kumar Pandey, School of Computing Science & Engineering, Galgotias University, Greater Noida, India"           
        ],
         spname: "SS 035.pdf"
+    },
+    {
+        anchor: require("./SS-036.pdf"),
+       title: "SS_36:Balancing Innovation and Ethic: Artificial Intelligence in Sustainable Development Across Industries",
+        organisers: [
+           "Prof. Naren J, Assistant Professor, Alliance University, Bangalore, India",
+           "Dr. D. Sumathi, Associate Professor, Alliance University, Bangalore, India."           
+       ],
+        spname: "SS 036.pdf"
     }
     
     
