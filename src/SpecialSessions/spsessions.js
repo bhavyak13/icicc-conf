@@ -334,6 +334,16 @@ const spdata = [
            "Dr. D. Sumathi, Associate Professor, Alliance University, Bangalore, India."           
        ],
         spname: "SS 036.pdf"
+    },
+    {
+        anchor: require("./SS-037.pdf"),
+       title: "SS_37:Revolutionizing Industries with Gen-AI: Balancing Innovation with Data Privacy.",
+        organisers: [
+           "Aparna kumari,Nirmala University, India",
+           "Sunil Kumar, Guru Jambheshwar University of Science and Technology,India",
+           "Dr. Safaa najah saud al-humairi, MSU, Malaysia"           
+       ],
+        spname: "SS 037.pdf"
     }
     
     
