@@ -344,6 +344,15 @@ const spdata = [
            "Dr. Safaa najah saud al-humairi, MSU, Malaysia"           
        ],
         spname: "SS 037.pdf"
+    },
+    {
+        anchor: require("./SS-038.pdf"),
+       title: "SS_38:Advanced Computer Vision, Data Analytics and Decision Support Techniques in Biomedical Computing",
+        organisers: [
+           "Dr. Hemanth.K.S , Department of Computer Science, Christ University, Bangalore, India",
+           "Dr.Ramkumar Sivasakthivel, Department of Computer Science, Christ University, Bangalore , India"           
+       ],
+        spname: "SS 038.pdf"
     }
     
     
