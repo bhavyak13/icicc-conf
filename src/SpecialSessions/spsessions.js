@@ -353,6 +353,15 @@ const spdata = [
            "Dr.Ramkumar Sivasakthivel, Department of Computer Science, Christ University, Bangalore , India"           
        ],
         spname: "SS 038.pdf"
+    },
+    {
+        anchor: require("./SS-039.pdf"),
+       title: "SS_39:Innovation in signal processing and Microwave Engineering",
+        organisers: [
+           "Dr. Gurmeet Singh (PhD IITD, Associate Professor, Guru Tegh Bahadur Institute of technology ,New Delhi , India",
+            "Dr. Mahender Singh, Assistant Professor, Guru Tegh Bahadur Institute of technology ,New Delhi , India"           
+       ],
+        spname: "SS 039.pdf"
     }
     
     
