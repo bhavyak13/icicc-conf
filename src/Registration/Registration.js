@@ -64,6 +64,10 @@ const Registration = () => {
   const url1="https://pages.razorpay.com/pl_IOTJy0iZ8kxq43/view";
   const url2="https://www.paypal.com/paypalme/ICICCConference?locale.x=en_GB";
   const url3="https://buy.stripe.com/dR602n7dZ06g1JmbIJ";
+  const url4="https://rzp.io/rzp/Varw8wTX";
+  const url5="https://rzp.io/rzp/5I3shvTY";
+
+  
 
     return (
     <div className={style.container}>		  
@@ -171,13 +175,15 @@ const Registration = () => {
 
 <hr />
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via Paypal</p>
-<p>For Payment from International Authors/Attendees, use the following paypal link with additional 5% service charges applies</p>
+<p>For Payment from International Authors/Attendees, use the following links</p>
     	<button  className={style.paymentBtn}><a href={url2} target="_blank" className={style.links} style={{color:"white"}}>Pay via Paypal</a></button><br /><span>OR</span><br />
       <button  className={style.paymentBtn}><a href={url3} target="_blank" className={style.links} style={{color:"white"}}>Pay via Stripe</a></button>
+      <button  className={style.paymentBtn}><a href={url4} target="_blank" className={style.links} style={{color:"white"}}>Pay via Razorpay</a></button>
 <hr />
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via RazorPay</p>
 <p>For payment from Indian Authors/Attendees, use the following payment link</p>
-    	<button  className={style.paymentBtn}><a href={url1} target="_blank" className={style.links} style={{color:"white"}}>Pay via Razorpay</a></button>
+    	<button  className={style.paymentBtn}><a href={url5} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 1</a></button>
+      <button  className={style.paymentBtn}><a href={url1} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 2</a></button>
       <p>OR</p>
       <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via UPI</p>
       <img src={upi} style={{width:"150px"}}/>
