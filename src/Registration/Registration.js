@@ -177,12 +177,12 @@ const Registration = () => {
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via Paypal</p>
 <p>For Payment from International Authors/Attendees, use the following links</p>
     	<button  className={style.paymentBtn}><a href={url2} target="_blank" className={style.links} style={{color:"white"}}>Pay via Paypal</a></button><br /><span>OR</span><br />
-      <button  className={style.paymentBtn}><a href={url3} target="_blank" className={style.links} style={{color:"white"}}>Pay via Stripe</a></button>
+      <button  className={style.paymentBtn}><a href={url3} target="_blank" className={style.links} style={{color:"white"}}>Pay via Stripe</a></button><br /><span>OR</span><br />
       <button  className={style.paymentBtn}><a href={url4} target="_blank" className={style.links} style={{color:"white"}}>Pay via Razorpay</a></button>
 <hr />
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via RazorPay</p>
 <p>For payment from Indian Authors/Attendees, use the following payment link</p>
-    	<button  className={style.paymentBtn}><a href={url5} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 1</a></button>
+    	<button  className={style.paymentBtn}><a href={url5} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 1</a></button><br />
       <button  className={style.paymentBtn}><a href={url1} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 2</a></button>
       <p>OR</p>
       <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via UPI</p>
