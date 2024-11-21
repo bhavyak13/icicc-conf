@@ -16,7 +16,7 @@ ICICC Conference team invites you to organize the special session in eighth vers
 <b>Highlights of the conference and Special Session Benefits:</b> <br/>
 <ol>
 <li> All accepted papers will be published in the proceedings of ICICC-2025 (Scopus Indexed)</li>
-<li> You will get 20% of the total fees collected in your session.</li>
+<li> You will get 15% of the total fees collected in your session.</li>
 <li> The minimum number of registrations should be 8.</li>
 <li> Extended papers in SCI/Scopus/ESCI/DBLP/ACM Digital Library journals. We have already got approval from some Scopus and high quality journals. (Soon will be declared)</li>
 <li> High quality publishing houses are part of this conference like Springer, Elsevier, Inderscience, IEEE, Benthm Science, IGI Global and many more.</li>
