@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ddc9fc1.css",
-    "main.js": "/static/js/main.5958ee3e.js",
+    "main.js": "/static/js/main.e113e439.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -88,11 +88,10 @@
     "static/media/12.jpeg": "/static/media/12.277c9f45e7fdbfd8b292.jpeg",
     "static/media/20.jpeg": "/static/media/20.48b160f439c1c28f19ad.jpeg",
     "static/media/ic20-5.jpeg": "/static/media/ic20-5.bc6c58a1369ffbb04f19.jpeg",
-    "static/media/Bal_Virdee.jpg": "/static/media/Bal_Virdee.84db0adf9416088a9be5.jpg",
     "static/media/17.jpeg": "/static/media/17.7d40aa4f2acf0355696c.jpeg",
+    "static/media/danel.gif": "/static/media/danel.0fdcb04805278f9a9dde.gif",
     "static/media/img04.jpg": "/static/media/img04.853a9c55574bc91a3d58.jpg",
     "static/media/ic20-6.jpeg": "/static/media/ic20-6.20b3167040231c9f69e7.jpeg",
-    "static/media/sp3.png": "/static/media/sp3.ce0292e2f7d6360a430f.png",
     "static/media/img08.png": "/static/media/img08.fb333a86d66648ffa9ed.png",
     "static/media/icicc-21-7.jpeg": "/static/media/icicc-21-7.65b75929f74ebfedd57b.jpeg",
     "static/media/ic20-8.jpeg": "/static/media/ic20-8.169ed6cf2bbe2819941b.jpeg",
@@ -123,8 +122,6 @@
     "static/media/icicc-21-13.jpeg": "/static/media/icicc-21-13.fa1df39ef75030b5b232.jpeg",
     "static/media/16.jpeg": "/static/media/16.8fa56d253d1a7b6fbe48.jpeg",
     "static/media/icicc-21-5.jpeg": "/static/media/icicc-21-5.33d07882f52fd89341fd.jpeg",
-    "static/media/intel.jpg": "/static/media/intel.1e972292c118af2957b5.jpg",
-    "static/media/sp4.jpg": "/static/media/sp4.899282303527893daa52.jpg",
     "static/media/itl.jpg": "/static/media/itl.5f0ff1e565c63f4d6ff6.jpg",
     "static/media/springer template.docx": "/static/media/springer template.e45a211e379d6bfd713e.docx",
     "static/media/img01.png": "/static/media/img01.e1cc46e8ea2bf347519f.png",
@@ -150,11 +147,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2ddc9fc1.css.map": "/static/css/main.2ddc9fc1.css.map",
-    "main.5958ee3e.js.map": "/static/js/main.5958ee3e.js.map",
+    "main.e113e439.js.map": "/static/js/main.e113e439.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddc9fc1.css",
-    "static/js/main.5958ee3e.js"
+    "static/js/main.e113e439.js"
   ]
 }
