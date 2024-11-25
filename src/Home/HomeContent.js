@@ -230,36 +230,18 @@ const HomeCont = () => {
                 </div>
             </div>
             <section class="OrgAssPartners">
-                <h3>Keynote Speakers of ICICC-2024</h3>
+                <h3>Keynote Speakers of ICICC-2025</h3>
                 <div class="publicationContainer">
                 <div class="speaker21">
-                        <img src={require("./images/Bal_Virdee.jpg")} alt="prof"/>
+                        <img src={require("./images/danel.gif")} alt="prof"/>
                         <p>
-                            <strong>Prof Bal Virdee</strong>
-                            <span>London Metropolitan University, Centre for Communications Techology, School of Computing & Digital Media.</span>
+                            <strong>Roman Danel</strong>
+                            <span>
+Institute of Technology and Businesses,<br/>
+České Budějovice, Czech Republic</span>
                         </p>
                     </div>
-                    <div class="speaker21">
-                        <img src={require("./images/intel.jpg")} alt="prof"/>
-                        <p>
-                            <strong>Shriram Kris Vasudevan</strong>
-                            <span>Intel Corporation</span>
-                        </p>
-                    </div>
-                    <div class="speaker21">
-                        <img src={require("./images/sp3.png")} alt="prof"/>
-                        <p>
-                            <strong>Dr. Jagdish Chand Bansal</strong>
-                            <span>South Asian University, India</span>
-                        </p>
-                    </div>
-                    <div class="speaker21">
-                        <img src={require("./images/sp4.jpg")} alt="prof"/>
-                        <p>
-                            <strong>Prof. Vivek Bohara</strong>
-                            <span>IIIT Delhi</span>
-                        </p>
-                    </div>
+                    
                 </div>
                                         
             </section><br/>
