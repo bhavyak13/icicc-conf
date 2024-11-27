@@ -92,7 +92,7 @@ const CallForPaper=()=>{
                             </ul>
                             </p>
                             <p><strong>Social Sciences for Computer Applications</strong></p>
-    <b>The papers submitted to the conference will be peer reviewed and published as proceedings in Springer(Proposed)</b>
+    <b>The papers submitted to the conference will be peer reviewed and published as proceedings in Springer</b>
     <hr></hr>
     <p>All papers will undergo a blind peer review process and all accepted papers will be published in the SHORT NAME conference e-proceedings with an e-ISBN number. The conference organizer encourages submissions of academic and research papers that consider the multidisciplinary/interdisciplinary themes covering the Management, Science and Social Studies, through one of the following sub-themes, although submissions of other topics for consideration are also welcome.</p>
   </div>

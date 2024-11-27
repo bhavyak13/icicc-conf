@@ -182,8 +182,8 @@ const Registration = () => {
 <hr />
 <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via RazorPay</p>
 <p>For payment from Indian Authors/Attendees, use the following payment link</p>
-    	<button  className={style.paymentBtn}><a href={url5} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 1</a></button><br /><br />
-      <button  className={style.paymentBtn}><a href={url1} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 2</a></button>
+    	<button  className={style.paymentBtn}><a href={url5} target="_blank" className={style.links} style={{color:"white"}}>Payment Link</a></button><br /><br />
+      {/* <button  className={style.paymentBtn}><a href={url1} target="_blank" className={style.links} style={{color:"white"}}>Payment Link - 2</a></button> */}
       <p>OR</p>
       <p style={{fontWeight:"700",fontSize:"17px"}}>Pay via UPI</p>
       <img src={upi} style={{width:"150px"}}/>

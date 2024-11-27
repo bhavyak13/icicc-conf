@@ -32,7 +32,7 @@ ICICC Conference team invites you to organize the special session in eighth vers
 <p>
 ICICC brings together the innovative research in the field of Computing and Communication to a common platform. The primary goal of the conference is to promote research and developmental activities. Another goal is to promote scientific information interchange between researchers, developers, engineers, students, and practitioners working in and around the world.</p>
 <br />
-<p className={style.greet}>All the accepted papers (after double blinded peer review) will be published in a Springer series (Proposed) and further extended accepted papers will be published in the special issues of SCI/SCOPUS/WoS/DBLP/ACM/EI indexed Journals.</p>
+<p className={style.greet}>All the accepted papers (after double blinded peer review) will be published in a Springer series  and further extended accepted papers will be published in the special issues of SCI/SCOPUS/WoS/DBLP/ACM/EI indexed Journals.</p>
 <p>Looking to see you in ICICC-2025. <br /><br />
 
 Sincerely,<br />
