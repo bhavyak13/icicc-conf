@@ -362,10 +362,16 @@ const spdata = [
             "Dr. Mahender Singh, Assistant Professor, Guru Tegh Bahadur Institute of technology ,New Delhi , India"           
        ],
         spname: "SS 039.pdf"
+    },
+    {
+        anchor: require("./SS-040.pdf"),
+       title: "SS_40:Revolutionizing Cybersecurity Paradigms with AI",
+        organisers: [
+           "Dr. Manvi Breja, NorthCap University Gurugram",
+           "Dr. Prachi, NorthCap University Gurugram"           
+       ],
+        spname: "SS 040.pdf"
     }
-    
-    
-
 ];
 
 const SpecialSessions = () => {
