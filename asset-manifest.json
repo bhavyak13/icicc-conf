@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.2ddc9fc1.css",
-    "main.js": "/static/js/main.fff38cf5.js",
+    "main.js": "/static/js/main.2b9c075a.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
     "static/media/ICICC_Brochure.pdf": "/static/media/ICICC_Brochure.673f10fb281cdd1d8593.pdf",
-    "static/media/ICICC2024 POSTER.pdf": "/static/media/ICICC2024 POSTER.842bd5eacfa35fbbd8e2.pdf",
     "static/media/cmes.jpeg": "/static/media/cmes.40491d1c11d97916bfe6.jpeg",
     "static/media/Session_Proposal_Template.docx": "/static/media/Session_Proposal_Template.1986351bcc5cbb3c483e.docx",
     "static/media/Workshop_Proposal_Template.docx": "/static/media/Workshop_Proposal_Template.e346ba5d91abf8758f31.docx",
@@ -111,7 +110,6 @@
     "static/media/icicc-21-12.jpeg": "/static/media/icicc-21-12.d478791b0d44cbb8e1f4.jpeg",
     "static/media/6.jpeg": "/static/media/6.646fb128f69a22b3c001.jpeg",
     "static/media/icicc-21-8.jpeg": "/static/media/icicc-21-8.49d0692d41ebb3c7ee90.jpeg",
-    "static/media/License to Publish Agreement form 2024.docx": "/static/media/License to Publish Agreement form 2024.77a3e6fd19ec29d60036.docx",
     "static/media/icicc-21-9.jpeg": "/static/media/icicc-21-9.90c646107ca92c2e802d.jpeg",
     "static/media/icicc-21-3.jpeg": "/static/media/icicc-21-3.edfee2fabbedf3311050.jpeg",
     "static/media/icicc-21-1.jpeg": "/static/media/icicc-21-1.0149f916a43707384814.jpeg",
@@ -136,7 +134,6 @@
     "static/media/email.png": "/static/media/email.1f2838d3c9e4aeeca523.png",
     "static/media/jbhi.jpg": "/static/media/jbhi.cbe250a1003f245db8a4.jpg",
     "static/media/icicc.jpg": "/static/media/icicc.8fdf59f44e037ad83293.jpg",
-    "static/media/INTERNATIONAL WORKSHOP -2024.docx": "/static/media/INTERNATIONAL WORKSHOP -2024.54c7fb366801469b55a8.docx",
     "static/media/ctsoc.jpg": "/static/media/ctsoc.e23bcff81c51aac16a23.jpg",
     "static/media/2.jpg": "/static/media/2.237394f0eb102caf1c5a.jpg",
     "static/media/img05.png": "/static/media/img05.e178e37997204484dbff.png",
@@ -148,11 +145,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2ddc9fc1.css.map": "/static/css/main.2ddc9fc1.css.map",
-    "main.fff38cf5.js.map": "/static/js/main.fff38cf5.js.map",
+    "main.2b9c075a.js.map": "/static/js/main.2b9c075a.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddc9fc1.css",
-    "static/js/main.fff38cf5.js"
+    "static/js/main.2b9c075a.js"
   ]
 }
