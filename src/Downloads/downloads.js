@@ -17,7 +17,7 @@ const Downloads = () => {
                     <div style={
                         {width: "50vw"}
                     }>
-                        <Button variant="primary"
+                        {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
                         }
@@ -30,7 +30,7 @@ const Downloads = () => {
                                 className={
                                     style.icon
                             }></img>
-                        </Button>
+                        </Button> */}
                         {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
@@ -113,7 +113,7 @@ const Downloads = () => {
                                     style.icon
                             }></img>
                         </Button>
-                        <Button variant="primary"
+                        {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
                         }
@@ -126,8 +126,8 @@ const Downloads = () => {
                                 className={
                                     style.icon
                             }></img>
-                        </Button>
-                        <Button variant="primary"
+                        </Button> */}
+                        {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
                         }
@@ -140,7 +140,7 @@ const Downloads = () => {
                                 className={
                                     style.icon
                             }></img>
-                        </Button>
+                        </Button> */}
                         {/* <Button variant="primary"
                             className={
                                 style.downloadBadges
