@@ -195,8 +195,8 @@ const Registration = () => {
           <thead>
             <tr>
               <th><b>Category</b></th>
-              <th><b>Early Registration (before 5th December, 2024) </b></th>
-              <th><b>Late Registration (after 5th December, 2024) </b></th>
+              <th><b>Early Registration (before 15th December, 2024) </b></th>
+              <th><b>Late Registration (after 15th December, 2024) </b></th>
             </tr>
           </thead>
 
@@ -260,8 +260,8 @@ const Registration = () => {
           <thead>
             <tr>
               <th><b>Category</b></th>
-              <th><b>Early Registration (before 5th December, 2024) </b></th>
-              <th><b>Late Registration (after 5th December, 2024) </b></th>
+              <th><b>Early Registration (before 15th December, 2024) </b></th>
+              <th><b>Late Registration (after 15th December, 2024) </b></th>
             </tr>
           </thead>
 

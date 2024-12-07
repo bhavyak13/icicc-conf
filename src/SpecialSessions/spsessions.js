@@ -371,7 +371,16 @@ const spdata = [
            "Dr. Prachi, NorthCap University Gurugram"           
        ],
         spname: "SS 040.pdf"
+    },
+    {
+        anchor: require("./SS-041.pdf"),
+       title: "SS_41:Intelligent industrial design",
+        organisers: [
+           "Dr. Souvik Das, Assistant Professor, NIT Rourkela, INDIA"           
+       ],
+        spname: "SS 041.pdf"
     }
+    
 ];
 
 const SpecialSessions = () => {
