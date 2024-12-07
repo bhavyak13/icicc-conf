@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ddc9fc1.css",
-    "main.js": "/static/js/main.2b9c075a.js",
+    "main.js": "/static/js/main.eb5e1c79.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -34,6 +34,7 @@
     "static/media/logo.png": "/static/media/logo.844ec7fc649a50eba5a3.png",
     "static/media/Award Form- Higher Education Award.docx": "/static/media/Award Form- Higher Education Award.c248c3651f3d10a28dd4.docx",
     "static/media/SS-025.pdf": "/static/media/SS-025.ae0f88f50736177faeed.pdf",
+    "static/media/SS-041.pdf": "/static/media/SS-041.91b140a1b50085adfe08.pdf",
     "static/media/SS-028.pdf": "/static/media/SS-028.d8e72f4bd8c9a97d56fa.pdf",
     "static/media/SS-034.pdf": "/static/media/SS-034.cd2c7bfbdeb00d99af68.pdf",
     "static/media/SS-008.pdf": "/static/media/SS-008.9d4f63870bc581b66b66.pdf",
@@ -145,11 +146,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.2ddc9fc1.css.map": "/static/css/main.2ddc9fc1.css.map",
-    "main.2b9c075a.js.map": "/static/js/main.2b9c075a.js.map",
+    "main.eb5e1c79.js.map": "/static/js/main.eb5e1c79.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddc9fc1.css",
-    "static/js/main.2b9c075a.js"
+    "static/js/main.eb5e1c79.js"
   ]
 }
