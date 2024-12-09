@@ -135,11 +135,11 @@ const Registration = () => {
             <tbody>
               <tr>
                 <td><b>ACCOUNT NAME </b></td>
-                <td>ui-educon</td>
+                <td>Universal inovators</td>
               </tr>
               <tr>
                 <td><b>ACCOUNT NUMBER </b></td>
-                <td> 510909010229212</td>
+                <td> 510909010118890</td>
               </tr>
               <tr>
                 <td><b>BANK </b></td>
