@@ -9,6 +9,7 @@ import PrevKeynote from "./PrevKeynote";
 
 
 const HomeCont = () => {
+    
     const items = [
         {
             key: 'Citations',
@@ -231,6 +232,13 @@ const HomeCont = () => {
             </div>
             <section class="OrgAssPartners">
                 <h3>Keynote Speakers of ICICC-2025</h3>
+                <div style={{ width: '100%', textAlign:"center" }}>
+      <span  style={{
+          color: 'red',fontSize:'20px'         
+         
+        }}>ICICC-2025 welcomes the following keynote speakers</span>
+
+    </div>
                 <div class="publicationContainer">
                 <div class="speaker21">
                         <img src={require("./images/danel.gif")} alt="prof"/>
@@ -239,6 +247,24 @@ const HomeCont = () => {
                             <span>
 Institute of Technology and Businesses,<br/>
 České Budějovice, Czech Republic</span>
+                        </p>
+                    </div>
+                    <div class="speaker21">
+                        <img src={require("./images/kat.jpg")} alt="prof"/>
+                        <p>
+                            <strong>Dr. Kathrin Kind</strong>
+                            <span>
+                            Member of the Board of Advisors. Swiss School of Business and Management ;<br/> Chief Data Scientist / AI A. Director Global Growth Markets (EMEA/APAC) Cognizant<br/>
+</span>
+                        </p>
+                    </div>
+                    <div class="speaker21">
+                        <img src={require("./images/swagatam.jpg")} alt="prof"/>
+                        <p>
+                            <strong>Prof. Swagatam Das</strong>
+                            <span>
+                             Professor, Electronics and Communication Sciences Unit, <br/>
+                            Indian Statistical Institute, Kolkata</span>
                         </p>
                     </div>
                     
