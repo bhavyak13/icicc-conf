@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.85be4d17.css",
-    "main.js": "/static/js/main.69fd4a01.js",
+    "main.js": "/static/js/main.fc3ba5d7.js",
     "static/js/787.9eaa8e9f.chunk.js": "/static/js/787.9eaa8e9f.chunk.js",
     "static/media/Market_Material.pdf": "/static/media/Market_Material.6378d6a85c825d4bf227.pdf",
     "static/media/sponsorship_Proposal.pdf": "/static/media/sponsorship_Proposal.cd95a369821042f3f018.pdf",
@@ -132,6 +132,7 @@
     "static/media/img09.png": "/static/media/img09.0abf90ea0fb752ec78be.png",
     "static/media/3.jpg": "/static/media/3.5940f54333847f3cda8e.jpg",
     "static/media/linkedin.webp": "/static/media/linkedin.6620a4776ae8550d2fe4.webp",
+    "static/media/bb.jpg": "/static/media/bb.67386f8dde01e3167250.jpg",
     "static/media/email.png": "/static/media/email.1f2838d3c9e4aeeca523.png",
     "static/media/jbhi.jpg": "/static/media/jbhi.cbe250a1003f245db8a4.jpg",
     "static/media/icicc.jpg": "/static/media/icicc.8fdf59f44e037ad83293.jpg",
@@ -147,11 +148,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.85be4d17.css.map": "/static/css/main.85be4d17.css.map",
-    "main.69fd4a01.js.map": "/static/js/main.69fd4a01.js.map",
+    "main.fc3ba5d7.js.map": "/static/js/main.fc3ba5d7.js.map",
     "787.9eaa8e9f.chunk.js.map": "/static/js/787.9eaa8e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85be4d17.css",
-    "static/js/main.69fd4a01.js"
+    "static/js/main.fc3ba5d7.js"
   ]
 }
