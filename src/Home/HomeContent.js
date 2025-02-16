@@ -267,6 +267,14 @@ Institute of Technology and Businesses,<br/>
                             Indian Statistical Institute, Kolkata</span>
                         </p>
                     </div>
+                    <div class="speaker21">
+                        <img src={require("./images/bb.jpg")} alt="prof"/>
+                        <p>
+                            <strong>Dr. Biswajit Brahma</strong>
+                            <span>
+                            Data Expert at McKesson Corporation, USA</span>
+                        </p>
+                    </div>
                     
                 </div>
                                         
